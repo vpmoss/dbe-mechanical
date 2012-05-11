@@ -1,0 +1,27 @@
+﻿|***************************|
+    REFERENCE INFORMATION    
+|***************************|
+ Reference No.1 out of 1 
+
+Reference:
+   TYPE   : Coordinate System.
+
+Status   : not in geometry
+
+
+Reference owner:
+ Model   :
+   NAME   : M1130-0001
+   TYPE   : Assembly
+ Feature :
+
+    FEATURE NUMBER       1
+    INTERNAL FEATURE ID  1
+    CHILDREN = 20(#5) 
+    TYPE = COORDINATE SYSTEM
+    NAME = ACS0
+
+
+    FEATURE IS IN LAYER(S) :
+      CSYS - OPERATION = SHOWN
+

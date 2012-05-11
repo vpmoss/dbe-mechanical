@@ -11,8 +11,8 @@
 Feature number 6 (COMPONENT, id = 21) 
   in model DIGITISER_CHASSIS_ROUGH refers to:
 
-Feature number 2 (EXTRUDE_1, id = 24) 
-  in model DIGITISER_CHASSIS_LID refers to:
+Feature number 5 (EXTRUDE_1, id = 20) 
+  in model PRT0001 refers to:
 
 Feature number 6 (COMPONENT, id = 21) 
   in model DIGITISER_CHASSIS_ROUGH - circle closed.

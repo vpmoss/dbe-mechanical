@@ -1,0 +1,47 @@
+﻿VOLUME =  1.0451037e+04  CM^3
+SURFACE AREA =  2.5105566e+04  CM^2
+AVERAGE DENSITY =  2.7000000e+00 GRAM / CM^3
+MASS =  2.8217801e+04 GRAM 
+
+CENTER OF GRAVITY with respect to _DIGITISER_CHASSIS_ROUGH coordinate frame:
+X   Y   Z     2.0847514e-02  9.7225328e+00  9.8552012e-02  CM
+
+INERTIA with respect to _DIGITISER_CHASSIS_ROUGH coordinate frame:  (GRAM * CM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  6.2647946e+07 -7.2161093e+03  6.0730424e+04
+Iyx Iyy Iyz -7.2161093e+03  7.4671469e+07 -3.1725852e+04
+Izx Izy Izz  6.0730424e+04 -3.1725852e+04  4.0391416e+07
+
+INERTIA at CENTER OF GRAVITY with respect to _DIGITISER_CHASSIS_ROUGH coordinate frame:  (GRAM * CM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  5.9980310e+07 -1.4966251e+03  6.0788399e+04
+Iyx Iyy Iyz -1.4966251e+03  7.4671183e+07 -4.6882565e+03
+Izx Izy Izz  6.0788399e+04 -4.6882565e+03  3.7724042e+07
+
+PRINCIPAL MOMENTS OF INERTIA:  (GRAM * CM^2)
+I1  I2  I3   3.7723875e+07  5.9980475e+07  7.4671184e+07
+
+ROTATION MATRIX from _DIGITISER_CHASSIS_ROUGH orientation to PRINCIPAL AXES:
+      -0.00273        1.00000       -0.00010
+       0.00013        0.00010        1.00000
+       1.00000        0.00273       -0.00013
+
+ROTATION ANGLES from _DIGITISER_CHASSIS_ROUGH orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z -90.007          0.000        -90.156 
+
+RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3 3.6563400e+01  4.6104506e+01  5.1441656e+01  CM
+
+---------------------------------------------
+
+MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+(in assembly units and the _DIGITISER_CHASSIS_ROUGH coordinate frame)
+
+   DENSITY             MASS          C.G.:  X        Y         Z
+
+         DIGITISER_CHASSIS_ROUGH            MATERIAL:                              UNKNOWN
+         7.85000e+00  6.79478e+04  2.51714e-02  7.02065e+00  1.18992e-01
+                         PRT0001            MATERIAL:                              UNKNOWN
+         7.85000e+00  1.40928e+04  0.00000e+00  2.27495e+01  0.00000e+00

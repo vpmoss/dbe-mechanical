@@ -1,0 +1,22 @@
+﻿  MODEL KAT_ADC_HEATSINK :
+ 
+
+  1 CIRCULAR REFERENCE LOOPS FOUND
+ 
+
+   LOOP #  1
+
+   Depth of loop is 4
+
+Feature number 6 (COMPONENT, id = 21) 
+  in model KAT_ADC_HEATSINK refers to:
+
+Feature number 8 (PROTRUSION, id = 13654) 
+  in model KAHS_MAIN must follow after:
+
+Feature number 7 (PROTRUSION, id = 20) 
+  in model KAHS_MAIN refers to:
+
+Feature number 6 (COMPONENT, id = 21) 
+  in model KAT_ADC_HEATSINK - circle closed.
+

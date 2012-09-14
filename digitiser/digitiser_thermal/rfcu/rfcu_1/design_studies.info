@@ -1,0 +1,7 @@
+<cfd_design_studies version="13.0.20120223" user_name="Admin">
+ <design_study instance_id="id_not_defined" name="rfcu_1" folder="E:/Git/dbe-mechanical/digitiser/digitiser_thermal/rfcu/rfcu_1" study_id="6290e04d-9547-480f-a5bc-5798153c900c">
+  <design launcher_type="CP_GRANITE" name="Design 1" model_id="rfcu.asm.6" lock_status="false">
+   <analysis name="Scenario 1"/>
+  </design>
+ </design_study>
+</cfd_design_studies>

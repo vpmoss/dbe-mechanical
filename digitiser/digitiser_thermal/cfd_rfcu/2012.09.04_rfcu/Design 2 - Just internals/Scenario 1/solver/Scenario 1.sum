@@ -1,0 +1,121 @@
+﻿ *** Simulation CFD Summary File Output ***
+
+ Simulation CFD 2013 (BlackBear 2013.0.0 F) [20120223]
+
+ Job Name = Scenario 1   Date created: Tue Sep 11 10:18:00 2012
+
+
+ *** Analysis Information 
+ Steady State is ON
+ Turbulent Incompressible Flow is ON 
+ Static Temperature Equation is ON
+ Natural Convection is ON
+
+ *** Field Variable Results Summary For Iteration 219
+
+
+  Var      Mean          at      Max          at      Min
+ Vx Vel  +8.77770e-004 110447 +1.05198e+000 110488 -8.92304e-001 mm/s
+ Vy Vel  +1.68086e-004 104600 +2.41707e-001 118025 -2.28879e-001 mm/s
+ Vz Vel  +2.05818e-002 105792 +1.55687e+000 104575 -8.78366e-001 mm/s
+ Press  +7.71601e-003  15167 +1.75285e-002  15552 -2.66480e-004 N/m^2
+ Temp  +2.66185e+001  33702 +2.79524e+001     61 +2.64516e+001 C
+ TurbK  +6.97966e+000 100097 +5.96574e+002     37 +1.81700e-008 mm^2/s^2
+ TurbD  +5.82780e+001  27531 +3.53086e+003  95223 +2.60212e-007 mm^2/s^3
+ Scal1  +0.00000e+000  11563 +0.00000e+000  55862 +0.00000e+000  
+ PTotl  +5.66007e-003  15167 +1.75285e-002  15552 -2.66480e-004 N/m^2
+ EVisc  +1.34816e-005  99598 +2.48551e-004  33727 +0.00000e+000 g/mm-s
+ ECond  +1.89593e-005  99598 +6.63058e-004  33727 +0.00000e+000 W/mm-K
+ Dens  +6.24734e-004  33727 +2.70700e-003  33702 +1.17232e-006 g/mm^3
+ Visc  +1.33286e-005  11563 +1.81700e-005  33727 +0.00000e+000 g/mm-s
+ Cond  +4.93082e-002  33727 +2.04000e-001  55862 +2.56300e-005 W/mm-K
+ SpecH  +9.72560e-001  11563 +1.00400e+000  23257 +6.64810e-001 J/g-K
+ Emiss  +7.33547e-001  11563 +1.00000e+000  33727 +0.00000e+000  
+ Transmiss  +0.00000e+000      0 +0.00000e+000      0 +0.00000e+000  
+ WRough  +0.00000e+000  11563 +0.00000e+000  55862 +0.00000e+000 mm
+ SeeBeck  +0.00000e+000      0 +0.00000e+000      0 +0.00000e+000 V/K
+ GenT  +7.99257e+000  27531 +5.04220e+002  55424 +6.66418e-005 1/s
+
+
+*** Openings ***
+
+
+          *** Statistics for Temp ***
+
+  Value Range [C]             Percent Volume
+  26.451618 - 26.526655        33.041463
+  26.526655 - 26.601691        41.621350
+  26.601691 - 26.676728        13.829783
+  26.676728 - 26.751765        5.149738
+  26.751765 - 26.826801        5.418273
+  26.826801 - 26.901838        0.562762
+  26.901838 - 26.976875        0.144097
+  26.976875 - 27.051911        0.053100
+  27.051911 - 27.126948        0.025016
+  27.126948 - 27.201985        0.037122
+  27.201985 - 27.277021        0.024590
+  27.277021 - 27.352058        0.042124
+  27.352058 - 27.427095        0.008920
+  27.427095 - 27.502131        0.003216
+  27.502131 - 27.577168        0.003812
+  27.577168 - 27.652205        0.002370
+  27.652205 - 27.727241        0.008663
+  27.727241 - 27.802278        0.003736
+  27.802278 - 27.877315        0.005513
+  27.877315 - 27.952351        0.014351
+Mean Value = 26.618465 , Standard Deviation = 0.135534 
+
+
+
+          *** Statistics for Velocity Magnitude ***
+
+  Value Range [mm/s]             Percent Volume
+  0.000000 - 0.077860        83.904863
+  0.077860 - 0.155720        6.823649
+  0.155720 - 0.233581        3.434464
+  0.233581 - 0.311441        1.871881
+  0.311441 - 0.389301        1.042786
+  0.389301 - 0.467161        0.645259
+  0.467161 - 0.545021        0.587854
+  0.545021 - 0.622882        0.444619
+  0.622882 - 0.700742        0.339352
+  0.700742 - 0.778602        0.224047
+  0.778602 - 0.856462        0.240421
+  0.856462 - 0.934322        0.223368
+  0.934322 - 1.012183        0.096616
+  1.012183 - 1.090043        0.065224
+  1.090043 - 1.167903        0.030328
+  1.167903 - 1.245763        0.009768
+  1.245763 - 1.323624        0.006455
+  1.323624 - 1.401484        0.002692
+  1.401484 - 1.479344        0.002323
+  1.479344 - 1.557204        0.004031
+Mean Value = 0.040679 , Standard Deviation = 0.108550 
+
+
+*** Fluid Energy Balance Information:
+ (Numerical) Energy Out  -  Energy In =            0 Watts
+     Heat Transfer from Wall To Fluid =  6.7134e-007 Watts
+Heat Transfer Due to Sources In Fluid =            0 Watts
+
+*** Solid Energy Balance Information:
+ Heat Transfer from Exterior To Solid =       -2.354 Watts
+Heat Transfer Due to Sources In Solid =        2.354 Watts
+    Heat Transfer From Fluid To Solid = -6.7134e-007 Watts
+
+*** Sum of Fluid Forces on Walls ***
+   ShearX, PressX =    -0.010328      0.013133   microNewtons
+   ShearY, PressY =   0.00022446   -0.00056766   microNewtons
+   ShearZ, PressZ =     0.036632       -6482.7   microNewtons
+
+*** Analysis Statistics: 
+
+ Input:               27 seconds 
+ Analysis:          6269 seconds 
+ Output:              14 seconds 
+ Total:             6310 seconds 
+
+ Master process dynamic memory 304 Mbytes
+ Slave process 0 dynamic memory 274 Mbytes
+ Slave process 1 dynamic memory 268 Mbytes
+ 

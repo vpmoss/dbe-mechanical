@@ -1,0 +1,18 @@
+<CFD_JobInformation version="13.0">
+ <analysisPath>E:\Git\dbe-mechanical\digitiser\digitiser_thermal\cfd_rfcu\2012.09.04_rfcu\Design 1\Scenario 1</analysisPath>
+ <meshFlag>N</meshFlag>
+ <jobType>LOCAL</jobType>
+ <isClusterJob>N</isClusterJob>
+ <cores>0</cores>
+ <jobArgs></jobArgs>
+ <profile>MyComputer</profile>
+ <owner>Admin</owner>
+ <UIHost>PHIL-PC</UIHost>
+ <solveHost>PHIL-PC</solveHost>
+ <portalId></portalId>
+ <portalPwd></portalPwd>
+ <recipients></recipients>
+ <notifyStart>N</notifyStart>
+ <notifyMesh>N</notifyMesh>
+ <notifyDone>N</notifyDone>
+</CFD_JobInformation>

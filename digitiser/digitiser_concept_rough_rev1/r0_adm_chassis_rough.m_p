@@ -1,0 +1,51 @@
+﻿VOLUME =  1.0286033e+07  MM^3
+SURFACE AREA =  3.2872872e+06  MM^2
+AVERAGE DENSITY =  2.7935544e-06 KILOGRAM / MM^3
+MASS =  2.8734593e+01 KILOGRAM 
+
+CENTER OF GRAVITY with respect to _R0_ADM_CHASSIS_ROUGH coordinate frame:
+X   Y   Z     3.1337337e+00  1.4685151e+02 -1.1471931e+00  MM
+
+INERTIA with respect to _R0_ADM_CHASSIS_ROUGH coordinate frame:  (KILOGRAM * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  1.2111790e+06 -5.3019740e+03 -1.5846454e+03
+Iyx Iyy Iyz -5.3019740e+03  5.0107080e+05  2.9664858e+03
+Izx Izy Izz -1.5846454e+03  2.9664858e+03  1.0445728e+06
+
+INERTIA at CENTER OF GRAVITY with respect to _R0_ADM_CHASSIS_ROUGH coordinate frame:  (KILOGRAM * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  5.9146917e+05  7.9215002e+03 -1.6879462e+03
+Iyx Iyy Iyz  7.9215002e+03  5.0075080e+05 -1.8743461e+03
+Izx Izy Izz -1.6879462e+03 -1.8743461e+03  4.2461860e+05
+
+PRINCIPAL MOMENTS OF INERTIA:  (KILOGRAM * MM^2)
+I1  I2  I3   4.2455907e+05  5.0010354e+05  5.9217596e+05
+
+ROTATION MATRIX from _R0_ADM_CHASSIS_ROUGH orientation to PRINCIPAL AXES:
+       0.00899       -0.08677       -0.99619
+       0.02366        0.99597       -0.08654
+       0.99968       -0.02279        0.01100
+
+ROTATION ANGLES from _R0_ADM_CHASSIS_ROUGH orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z  82.754        -84.995         84.087 
+
+RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3 1.2155324e+02  1.3192510e+02  1.4355650e+02  MM
+
+---------------------------------------------
+
+MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+(in assembly units and the _R0_ADM_CHASSIS_ROUGH coordinate frame)
+
+   DENSITY             MASS          C.G.:  X        Y         Z
+
+            R0_ADM_CHASSIS_ROUGH            MATERIAL:                               AL2014
+         2.79355e-06  1.17846e+01  1.13776e+01  1.32161e+02 -1.18973e+01
+                   R0_ADM_R2_LID            MATERIAL:                               AL2014
+         2.79355e-06  8.50109e+00 -9.23904e+01  1.56554e+02 -2.36037e+00
+                 R0_ADM_RFCU_LID            MATERIAL:                               AL2014
+         2.79355e-06  7.78892e+00  9.51846e+01  1.57587e+02  1.30450e+00
+               R0_ADM_RFCU_LID_2            MATERIAL:                               AL2014
+         2.79355e-06  6.59977e-01  0.00000e+00  1.57500e+02  1.77500e+02

@@ -1,5 +1,5 @@
 <cfd_design_studies version="13.0.20120223" user_name="Admin">
- <design_study instance_id="d1cf0360-e499-400a-a9ec-8656afb5e501" name="2012.09.04_rfcu" folder="E:/Git/dbe-mechanical/digitiser/digitiser_thermal/cfd_rfcu/2012.09.04_rfcu" study_id="9e053657-d2bf-462b-b843-6fbd9d4ad962">
+ <design_study instance_id="id_not_defined" name="2012.09.04_rfcu" folder="E:/Git/dbe-mechanical/digitiser/digitiser_thermal/cfd_rfcu/2012.09.04_rfcu" study_id="9e053657-d2bf-462b-b843-6fbd9d4ad962">
   <design launcher_type="CP_GRANITE" name="Design 1" model_id="rfcu.asm.4" lock_status="false">
    <analysis name="Scenario 1"/>
   </design>

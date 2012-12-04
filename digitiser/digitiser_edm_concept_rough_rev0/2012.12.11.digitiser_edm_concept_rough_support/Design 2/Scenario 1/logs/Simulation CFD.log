@@ -1,0 +1,239 @@
+[14:14:15] System language is English
+[14:14:15] Completed pre-event loop tasks in 0.328 sec
+[14:14:15] adlmInitialize
+[14:14:15] adlmHandleOpen
+[14:14:15] adlmHandleSetSilentMode
+[14:14:15] adlmLicenseCreate
+[14:14:15] ADLM: startup success
+[14:14:15] License path is C:\Program Files\Autodesk\Simulation CFD 2013\licpath.lic
+[14:14:15] Initializing license manager...
+[14:14:15] Checkout - Feature:CFD UI Version:2013.0.0.F Product Key:812E1 Product Code:SCDSE
+[14:14:15] Checkout - adlmLicenseCheckout:start
+[14:14:16] Checkout - ret:0
+[14:14:16] Command:lmutil lmborrow -status
+[14:14:16] WorkDir:
+[14:14:16] Output:
+[14:14:16]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[14:14:16] Checkout - Feature:CFD UI Success
+[14:14:16] Checkout done
+[14:14:16] Initialized licensing in 1.035 sec
+[14:14:19] Created main window in 3.361 sec
+[14:14:19] Loaded layout in 0.005 sec
+[14:14:20] Completed post-event loop tasks in 4.754 sec
+[14:14:20] External fragmentation is 0
+[14:14:20] Internal fragmentation is 0.96123
+[14:14:20] External fragmentation is 0.0172712
+[14:14:20] Internal fragmentation is 0.0203388
+[14:14:25] External fragmentation is 0
+[14:14:25] Internal fragmentation is 0.00142275
+[14:14:25] External fragmentation is 0.0133038
+[14:14:25] Internal fragmentation is 0.0270996
+[14:14:29] External fragmentation is 0
+[14:14:29] Internal fragmentation is 0.00335097
+[14:14:29] CadPackage:CP_GRANITE CadInterface:4
+[14:14:29] Checkout - Feature:CFD Wildfire Version:2013.0.0.F Product Key:822E1 Product Code:SCPROE
+[14:14:29] Checkout - adlmLicenseCheckout:start
+[14:14:30] Checkout - ret:0
+[14:14:30] Command:lmutil lmborrow -status
+[14:14:30] WorkDir:
+[14:14:30] Output:
+[14:14:30]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[14:14:30] Checkout - Feature:CFD Wildfire Success
+[14:14:30] Checkout done
+[14:14:30] CadPackage:CP_GRANITE CadInterface:4
+[14:14:30] Checkout - Feature:CFD Wildfire Version:2013.0.0.F Product Key:822E1 Product Code:SCPROE
+[14:14:30] Checkout - adlmLicenseCheckout:start
+[14:14:31] Checkout - ret:0
+[14:14:31] Command:lmutil lmborrow -status
+[14:14:31] WorkDir:
+[14:14:31] Output:
+[14:14:31]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[14:14:31] Checkout - Feature:CFD Wildfire Success
+[14:14:31] Checkout done
+[14:14:36] Starting web check
+[14:14:37] getJobUpdate start
+[14:14:39] getJobUpdate finished
+[14:14:39] getJobUpdate start
+[14:14:40] getJobUpdate finished
+[14:14:42] Processing web data
+[14:14:53] getJobUpdate start
+[14:14:53] getJobUpdate finished
+[14:15:23] getJobUpdate start
+[14:15:23] getJobUpdate finished
+[14:15:51] getJobUpdate start
+[14:15:52] getJobUpdate finished
+[14:16:20] getJobUpdate start
+[14:16:20] getJobUpdate finished
+[14:16:44] getJobUpdate start
+[14:16:44] getJobUpdate finished
+[14:17:07] getJobUpdate start
+[14:17:08] getJobUpdate finished
+[14:17:40] getJobUpdate start
+[14:17:40] getJobUpdate finished
+[14:18:03] getJobUpdate start
+[14:18:03] getJobUpdate finished
+[14:18:31] getJobUpdate start
+[14:18:32] getJobUpdate finished
+[14:19:01] getJobUpdate start
+[14:19:02] getJobUpdate finished
+[14:19:34] getJobUpdate start
+[14:19:34] getJobUpdate finished
+[14:20:03] getJobUpdate start
+[14:20:03] getJobUpdate finished
+[14:20:32] getJobUpdate start
+[14:20:32] getJobUpdate finished
+[14:20:55] getJobUpdate start
+[14:20:55] getJobUpdate finished
+[14:21:24] getJobUpdate start
+[14:21:24] getJobUpdate finished
+[14:21:47] getJobUpdate start
+[14:21:47] getJobUpdate finished
+[14:22:11] getJobUpdate start
+[14:22:11] getJobUpdate finished
+[14:22:34] getJobUpdate start
+[14:22:35] getJobUpdate finished
+[14:23:05] getJobUpdate start
+[14:23:05] getJobUpdate finished
+[14:23:34] getJobUpdate start
+[14:23:34] getJobUpdate finished
+[14:23:59] getJobUpdate start
+[14:23:59] getJobUpdate finished
+[14:24:28] getJobUpdate start
+[14:24:28] getJobUpdate finished
+[14:25:01] getJobUpdate start
+[14:25:01] getJobUpdate finished
+[14:25:31] getJobUpdate start
+[14:25:31] getJobUpdate finished
+[14:26:01] getJobUpdate start
+[14:26:01] getJobUpdate finished
+[14:26:25] getJobUpdate start
+[14:26:25] getJobUpdate finished
+[14:26:55] getJobUpdate start
+[14:26:55] getJobUpdate finished
+[14:27:26] getJobUpdate start
+[14:27:27] getJobUpdate finished
+[14:27:56] getJobUpdate start
+[14:27:57] getJobUpdate finished
+[14:28:26] getJobUpdate start
+[14:28:26] getJobUpdate finished
+[14:28:55] getJobUpdate start
+[14:28:55] getJobUpdate finished
+[14:29:24] getJobUpdate start
+[14:29:24] getJobUpdate finished
+[14:29:53] getJobUpdate start
+[14:29:53] getJobUpdate finished
+[14:30:22] getJobUpdate start
+[14:30:22] getJobUpdate finished
+[14:30:52] getJobUpdate start
+[14:30:52] getJobUpdate finished
+[14:31:15] getJobUpdate start
+[14:31:16] getJobUpdate finished
+[14:31:49] getJobUpdate start
+[14:31:49] getJobUpdate finished
+[14:32:32] getJobUpdate start
+[14:32:32] getJobUpdate finished
+[14:33:11] getJobUpdate start
+[14:33:12] getJobUpdate finished
+[14:33:48] getJobUpdate start
+[14:33:48] getJobUpdate finished
+[14:34:24] getJobUpdate start
+[14:34:25] getJobUpdate finished
+[14:35:01] getJobUpdate start
+[14:35:01] getJobUpdate finished
+[14:35:39] getJobUpdate start
+[14:35:39] getJobUpdate finished
+[14:36:18] getJobUpdate start
+[14:36:18] getJobUpdate finished
+[14:36:57] getJobUpdate start
+[14:36:57] getJobUpdate finished
+[14:37:29] getJobUpdate start
+[14:37:29] getJobUpdate finished
+[14:38:01] getJobUpdate start
+[14:38:02] getJobUpdate finished
+[14:38:44] getJobUpdate start
+[14:38:44] getJobUpdate finished
+[14:39:22] getJobUpdate start
+[14:39:22] getJobUpdate finished
+[14:40:00] getJobUpdate start
+[14:40:01] getJobUpdate finished
+[14:40:37] getJobUpdate start
+[14:40:37] getJobUpdate finished
+[14:41:13] getJobUpdate start
+[14:41:13] getJobUpdate finished
+[14:41:49] getJobUpdate start
+[14:41:50] getJobUpdate finished
+[14:42:27] getJobUpdate start
+[14:42:28] getJobUpdate finished
+[14:43:04] getJobUpdate start
+[14:43:04] getJobUpdate finished
+[14:43:40] getJobUpdate start
+[14:43:41] getJobUpdate finished
+[14:44:09] getJobUpdate start
+[14:44:10] getJobUpdate finished
+[14:44:45] getJobUpdate start
+[14:44:45] getJobUpdate finished
+[14:45:21] getJobUpdate start
+[14:45:22] getJobUpdate finished
+[14:45:52] getJobUpdate start
+[14:45:52] getJobUpdate finished
+[14:46:30] getJobUpdate start
+[14:46:30] getJobUpdate finished
+[14:47:10] getJobUpdate start
+[14:47:11] getJobUpdate finished
+[14:47:47] getJobUpdate start
+[14:47:47] getJobUpdate finished
+[14:48:16] getJobUpdate start
+[14:48:17] getJobUpdate finished
+[14:48:47] getJobUpdate start
+[14:48:47] getJobUpdate finished
+[14:49:24] getJobUpdate start
+[14:49:24] getJobUpdate finished
+[14:50:03] getJobUpdate start
+[14:50:03] getJobUpdate finished
+[14:50:39] getJobUpdate start
+[14:50:39] getJobUpdate finished
+[14:51:08] getJobUpdate start
+[14:51:08] getJobUpdate finished
+[14:51:40] getJobUpdate start
+[14:51:40] getJobUpdate finished
+[14:52:22] getJobUpdate start
+[14:52:22] getJobUpdate finished
+[14:52:55] getJobUpdate start
+[14:52:55] getJobUpdate finished
+[14:53:26] getJobUpdate start
+[14:53:26] getJobUpdate finished
+[14:54:04] getJobUpdate start
+[14:54:05] getJobUpdate finished
+[14:54:35] getJobUpdate start
+[14:54:35] getJobUpdate finished
+[14:55:14] getJobUpdate start
+[14:55:14] getJobUpdate finished
+[14:55:57] getJobUpdate start
+[14:55:57] getJobUpdate finished
+[14:56:39] getJobUpdate start
+[14:56:40] getJobUpdate finished
+[14:57:27] getJobUpdate start
+[14:57:27] getJobUpdate finished
+[14:58:01] getJobUpdate start
+[14:58:01] getJobUpdate finished
+[14:58:39] getJobUpdate start
+[14:58:40] getJobUpdate finished
+[14:59:12] getJobUpdate start
+[14:59:12] getJobUpdate finished
+[14:59:40] getJobUpdate start
+[14:59:40] getJobUpdate finished
+[15:00:12] getJobUpdate start
+[15:00:12] getJobUpdate finished
+[15:00:51] getJobUpdate start
+[15:00:52] getJobUpdate finished
+[15:01:33] getJobUpdate start
+[15:01:33] getJobUpdate finished
+[15:02:09] getJobUpdate start
+[15:02:10] getJobUpdate finished
+[15:02:45] getJobUpdate start
+[15:02:46] getJobUpdate finished
+[15:03:15] getJobUpdate start
+[15:03:15] getJobUpdate finished
+[15:11:27] getJobUpdate start
+[15:11:29] getJobUpdate finished
+[15:11:29] 2012.12.11.digitiser_edm_concept_rough/Design 2/Scenario 1 solver finished at Thu 15. Nov 15:09:36 2012 on PHIL-PC with code = 0

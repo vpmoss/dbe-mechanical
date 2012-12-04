@@ -1,0 +1,61 @@
+Scenario 1
+CFdesign 2013 (BlackBear 2013.0.0 F)
+Version 13 0 20120223
+
+*** Summary
+*** Coordinate System
+XYZ XYZ
+*** Properties
+2 "Aluminum" 0 0
+3 "Silicon" 0 0
+4 "PCB 12-Layer(X)" 0 0
+5 "Tin" 0 0
+6 "Air" 1 0
+7 "ABS (Molded)" 0 0
+-1 Blank
+*** Units
+mm
+*** Extruded Parts Summary
+0
+*** Nodes
+*** Elements
+*** Shell Elements
+*** Shell Surface Node Links
+*** 3D Shells Data
+*** Part Surfaces
+*** Surface Connectivity Data
+*** Extrusion Nodal Data
+*** Extrusion Face List
+*** Periodic Nodal Data
+*** Periodic Face List
+*** Periodic Transform
+*** Rotating Region Data
+*** Moving Region Data
+*** Fan Thermostats
+-1 kP 0.0
+*** PCB Regions
+-1 kP 0.0
+*** Surface nodal boundary conditions
+492 kP 0 0 -1
+492 kT 313.15 0 -1
+494 kP 0 0 -1
+-1
+*** Spatial nodal boundary conditions
+-1
+*** Region element boundary conditions
+1 kTotalHeatGen 2 0 -1 0
+2 kTotalHeatGen 2 0 -1 0
+3 kTotalHeatGen 1 0 -1 0
+4 kTotalHeatGen 40 0 -1 0
+5 kTotalHeatGen 8 0 -1 0
+8 kTotalHeatGen 8 0 -1 0
+9 kTotalHeatGen 4 0 -1 0
+12 kTotalHeatGen 8 0 -1 0
+13 kTotalHeatGen 4 0 -1 0
+18 kTotalHeatGen 2.5 0 -1 0
+19 kTotalHeatGen 2.5 0 -1 0
+-1
+*** Region initial conditions
+-1
+*** Surface initial conditions
+-1

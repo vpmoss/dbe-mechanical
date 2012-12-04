@@ -1,0 +1,11 @@
+[15:03:26] Sockets:1 Total Cores:2
+[15:03:26] Requested cores 0
+[15:03:26] Using 3 ranks
+[15:03:26] analysis path:E:\Git\dbe-mechanical\digitiser\digitiser_edm_concept_rough_rev0\2012.12.11.digitiser_edm_concept_rough\Design 1\Scenario 1
+[15:03:26] Listen on port 52984
+[15:03:26] startJob
+[15:03:26] Creating C:\ProgramData\Autodesk\Simulation CFD 2013\Analyze\job65/job.bat
+[15:03:26] Command:cmd.exe /C job.bat 
+[15:03:26]  output:C:\ProgramData\Autodesk\Simulation CFD 2013\Analyze\job65>CD C:\Program Files\Autodesk\Simulation CFD 2013
+[15:03:26]  output:C:\Program Files\Autodesk\Simulation CFD 2013>"C:\Program Files\Autodesk\Simulation CFD 2013\SimCFDMesher.exe" "E:\Git\dbe-mechanical\digitiser\digitiser_edm_concept_rough_rev0\2012.12.11.digitiser_e
+[15:03:26]  output:dm_concept_rough\Design 1\Scenario 1\mesher\Scenario 1" -jobId=65 -cloudJobId=  -gui  -useJobFile  -port=52984

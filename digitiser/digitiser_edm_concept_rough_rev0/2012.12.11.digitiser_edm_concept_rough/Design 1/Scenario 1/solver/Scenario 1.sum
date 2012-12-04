@@ -1,0 +1,158 @@
+﻿ *** Simulation CFD Summary File Output ***
+
+ Simulation CFD 2013 (BlackBear 2013.0.0 F) [20120223]
+
+ Job Name = Scenario 1   Date created: Wed Nov 14 16:13:38 2012
+
+
+ *** Analysis Information 
+ Steady State is ON
+ Turbulent Incompressible Flow is ON 
+ Static Temperature Equation is ON
+ Natural Convection is ON
+
+ *** Field Variable Results Summary For Iteration 300
+
+
+  Var      Mean          at      Max          at      Min
+ Vx Vel  +4.17689e+000 149868 +1.86422e+003 116742 -1.82921e+003 mm/s
+ Vy Vel  +1.18734e+002  38846 +2.52279e+003 131448 -1.28500e+003 mm/s
+ Vz Vel  +4.52110e+001 189492 +1.66505e+003  91532 -1.97060e+003 mm/s
+ Press  +3.14848e-002  32425 +2.94582e+000   6895 -2.13366e+000 N/m^2
+ Temp  +4.45393e+001  15424 +5.36400e+001 157039 +4.00000e+001 C
+ TurbK  +8.44948e+003 155248 +2.36062e+005    145 +1.81700e-008 mm^2/s^2
+ TurbD  +2.60983e+006  36949 +1.08094e+008   1574 +2.60669e-001 mm^2/s^3
+ Scal1  +0.00000e+000  21026 +0.00000e+000  51645 +0.00000e+000  
+ PTotl  +1.99693e-001  38846 +3.60793e+000   6895 -2.13366e+000 N/m^2
+ EVisc  +6.43321e-005  39535 +1.64679e-003  14262 +0.00000e+000 g/mm-s
+ ECond  +7.21469e-005  39535 +1.86407e-003  14262 +0.00000e+000 W/mm-K
+ Dens  +1.36521e-004  15390 +7.31000e-003   1030 +1.08061e-006 g/mm^3
+ Visc  +1.72595e-005  21026 +1.81700e-005  14262 +0.00000e+000 g/mm-s
+ Cond  +1.01357e-002  14262 +2.04000e-001  51645 +2.56300e-005 W/mm-K
+ SpecH  +9.98241e-001  21026 +1.00400e+000  15390 +2.27000e-001 J/g-K
+ Emiss  +9.49888e-001  21026 +1.00000e+000  14262 +0.00000e+000  
+ Transmiss  +0.00000e+000      0 +0.00000e+000      0 +0.00000e+000  
+ WRough  +0.00000e+000  21026 +0.00000e+000  51645 +0.00000e+000 mm
+ SeeBeck  +0.00000e+000      0 +0.00000e+000      0 +0.00000e+000 V/K
+ GenT  +1.33162e+002 150176 +1.79609e+003  14262 +3.16228e-002 1/s
+
+
+*** Openings ***
+
+
+         *** Outlet 1 ***
+
+  Surface ID = 494
+
+  Node near Minimum X,Y,Z of opening = 39423
+
+  Minimum X,Y,Z of opening = -246.173934, 500.001526, -160.530663
+
+     Mass Flow Out            = -566.02 g/s
+  Volume Flow Out            = -5.02533e+008 mm^3/s
+     Reynolds Number         = 31151.4
+     Outlet Bulk Pressure    = -0 N/m^2
+     Outlet Bulk Temperature = 40.2458 C
+     Outlet Mach Number      = 0.00177493
+
+
+         *** Outlet 2 ***
+
+  Surface ID = 492
+
+  Node near Minimum X,Y,Z of opening = 38845
+
+  Minimum X,Y,Z of opening = 249.337898, -499.998474, -336.889072
+
+     Mass Flow Out            = 540.244 g/s
+  Volume Flow Out            = 4.79273e+008 mm^3/s
+     Reynolds Number         = 29732.8
+     Outlet Bulk Pressure    = 0 N/m^2
+     Outlet Bulk Temperature = 40 C
+     Outlet Mach Number      = 0.0018738
+
+  Total Mass Flow Out    = -25.776 g/s
+
+  Total Vol. Flow Out    = -2.326e+007 mm^3/s
+
+
+          *** Statistics for Temp ***
+
+  Value Range [C]             Percent Volume
+  40.000000 - 40.681998        84.464635
+  40.681998 - 41.363997        8.106557
+  41.363997 - 42.045995        2.282280
+  42.045995 - 42.727993        1.259139
+  42.727993 - 43.409992        0.532487
+  43.409992 - 44.091990        0.335232
+  44.091990 - 44.773988        0.368142
+  44.773988 - 45.455987        0.757842
+  45.455987 - 46.137985        0.957767
+  46.137985 - 46.819983        0.630970
+  46.819983 - 47.501981        0.182451
+  47.501981 - 48.183980        0.070920
+  48.183980 - 48.865978        0.027847
+  48.865978 - 49.547976        0.008706
+  49.547976 - 50.229975        0.004194
+  50.229975 - 50.911973        0.003205
+  50.911973 - 51.593971        0.002500
+  51.593971 - 52.275970        0.001884
+  52.275970 - 52.957968        0.001544
+  52.957968 - 53.639966        0.001697
+Mean Value = 44.539281 , Standard Deviation = 2.363934 
+
+
+
+          *** Statistics for Velocity Magnitude ***
+
+  Value Range [mm/s]             Percent Volume
+  0.000000 - 126.505970        8.337878
+  126.505970 - 253.011940        11.991482
+  253.011940 - 379.517909        11.364932
+  379.517909 - 506.023879        9.272629
+  506.023879 - 632.529849        9.791810
+  632.529849 - 759.035819        9.787092
+  759.035819 - 885.541789        9.476119
+  885.541789 - 1012.047758        8.677152
+  1012.047758 - 1138.553728        6.691079
+  1138.553728 - 1265.059698        4.451830
+  1265.059698 - 1391.565668        3.292638
+  1391.565668 - 1518.071638        2.242524
+  1518.071638 - 1644.577607        1.525624
+  1644.577607 - 1771.083577        1.201089
+  1771.083577 - 1897.589547        0.727945
+  1897.589547 - 2024.095517        0.423566
+  2024.095517 - 2150.601487        0.323263
+  2150.601487 - 2277.107456        0.253597
+  2277.107456 - 2403.613426        0.102347
+  2403.613426 - 2530.119396        0.065404
+Mean Value = 269.803024 , Standard Deviation = 479.040237 
+
+
+*** Fluid Energy Balance Information:
+  MdotIn x Cp x (TOut - TIn) =       133.31 Watts
+ (Numerical) Energy Out  -  Energy In =      -2.5957 Watts
+     Heat Transfer from Wall To Fluid =       81.909 Watts
+Heat Transfer Due to Sources In Fluid =            0 Watts
+
+*** Solid Energy Balance Information:
+ Heat Transfer from Exterior To Solid =            0 Watts
+Heat Transfer Due to Sources In Solid =           82 Watts
+    Heat Transfer From Fluid To Solid =      -81.916 Watts
+
+*** Sum of Fluid Forces on Walls ***
+   ShearX, PressX =       148.18         14454   microNewtons
+   ShearY, PressY =       6291.9   1.6347e+005   microNewtons
+   ShearZ, PressZ =       2259.8  -1.0903e+007   microNewtons
+
+*** Analysis Statistics: 
+
+ Input:               36 seconds 
+ Analysis:         10075 seconds 
+ Output:              23 seconds 
+ Total:            10134 seconds 
+
+ Master process dynamic memory 447 Mbytes
+ Slave process 0 dynamic memory 403 Mbytes
+ Slave process 1 dynamic memory 412 Mbytes
+ 

@@ -1,0 +1,1403 @@
+<template_study>
+ <study_name>2012.12.11.digitiser_edm_concept_rough</study_name>
+ <active_config></active_config>
+ <new_mode>1</new_mode>
+ <template_design>
+  <design_name>Design 1</design_name>
+  <config_name>digitiser_edm_concept_rough_rev</config_name>
+  <cadfile_name>C:/ProE_Start/Temp/Autodesk Simulation CFD 2013/DIGITISER_EDM_CONCEPT_ROUGH_REV\digitiser_edm_concept_rough_rev.asm.1</cadfile_name>
+  <config_update>0</config_update>
+  <cad_launcher>CP_GRANITE</cad_launcher>
+  <cad_model>CP_GRANITE</cad_model>
+  <length_unit>0</length_unit>
+  <cloned_from></cloned_from>
+  <template_scenario>
+   <scenario_name>Scenario 1</scenario_name>
+   <template_setting>
+    <setting_name>Pressure(0 Pa Gage)</setting_name>
+    <setting_type>7</setting_type>
+    <bcond>
+     <tID>-1</tID>
+     <iExtra>0</iExtra>
+     <bcVal>0</bcVal>
+     <bcXtr>0</bcXtr>
+     <bcAux>0</bcAux>
+     <bcCode>8</bcCode>
+     <attribs>0</attribs>
+     <vuStr>Pa</vuStr>
+     <xuStr>None</xuStr>
+     <vec11>0</vec11>
+     <vec12>0</vec12>
+     <vec13>0</vec13>
+     <vec21>1</vec21>
+     <vec22>0</vec22>
+     <vec23>0</vec23>
+     <tag_names>SMacro7777541f-50e0-4917-9238-2ede51ddc58b~~SMacro595aac2a-f685-4123-a693-780e15088b97~~</tag_names>
+    </bcond>
+   </template_setting>
+   <template_setting>
+    <setting_name>Temperature(40 Celsius)</setting_name>
+    <setting_type>7</setting_type>
+    <bcond>
+     <tID>-1</tID>
+     <iExtra>0</iExtra>
+     <bcVal>40</bcVal>
+     <bcXtr>0</bcXtr>
+     <bcAux>0</bcAux>
+     <bcCode>10</bcCode>
+     <attribs>0</attribs>
+     <vuStr>Celsius</vuStr>
+     <xuStr>None</xuStr>
+     <vec11>0</vec11>
+     <vec12>0</vec12>
+     <vec13>0</vec13>
+     <vec21>1</vec21>
+     <vec22>0</vec22>
+     <vec23>0</vec23>
+     <tag_names>SMacro7777541f-50e0-4917-9238-2ede51ddc58b~~</tag_names>
+    </bcond>
+   </template_setting>
+   <template_setting>
+    <setting_name>Total Heat Generation(1 W)</setting_name>
+    <setting_type>7</setting_type>
+    <bcond>
+     <tID>-1</tID>
+     <iExtra>0</iExtra>
+     <bcVal>1</bcVal>
+     <bcXtr>0</bcXtr>
+     <bcAux>0</bcAux>
+     <bcCode>23</bcCode>
+     <attribs>0</attribs>
+     <vuStr>W</vuStr>
+     <xuStr>None</xuStr>
+     <vec11>0</vec11>
+     <vec12>0</vec12>
+     <vec13>0</vec13>
+     <vec21>1</vec21>
+     <vec22>0</vec22>
+     <vec23>0</vec23>
+     <tag_names>D-ENGINE_MODEL_PCB^!5~~</tag_names>
+    </bcond>
+   </template_setting>
+   <template_setting>
+    <setting_name>Total Heat Generation(2.5 W)</setting_name>
+    <setting_type>7</setting_type>
+    <bcond>
+     <tID>-1</tID>
+     <iExtra>0</iExtra>
+     <bcVal>2.5</bcVal>
+     <bcXtr>0</bcXtr>
+     <bcAux>0</bcAux>
+     <bcCode>23</bcCode>
+     <attribs>0</attribs>
+     <vuStr>W</vuStr>
+     <xuStr>None</xuStr>
+     <vec11>0</vec11>
+     <vec12>0</vec12>
+     <vec13>0</vec13>
+     <vec21>1</vec21>
+     <vec22>0</vec22>
+     <vec23>0</vec23>
+     <tag_names>RFCU_REP^!10~~RFCU_REP^!11~~</tag_names>
+    </bcond>
+   </template_setting>
+   <template_setting>
+    <setting_name>Total Heat Generation(2 W)</setting_name>
+    <setting_type>7</setting_type>
+    <bcond>
+     <tID>-1</tID>
+     <iExtra>0</iExtra>
+     <bcVal>2</bcVal>
+     <bcXtr>0</bcXtr>
+     <bcAux>0</bcAux>
+     <bcCode>23</bcCode>
+     <attribs>0</attribs>
+     <vuStr>W</vuStr>
+     <xuStr>None</xuStr>
+     <vec11>0</vec11>
+     <vec12>0</vec12>
+     <vec13>0</vec13>
+     <vec21>1</vec21>
+     <vec22>0</vec22>
+     <vec23>0</vec23>
+     <tag_names>D-ENGINE_SFP_PHY^!8~~D-ENGINE_SFP_PHY_2^!9~~</tag_names>
+    </bcond>
+   </template_setting>
+   <template_setting>
+    <setting_name>Total Heat Generation(40 W)</setting_name>
+    <setting_type>7</setting_type>
+    <bcond>
+     <tID>-1</tID>
+     <iExtra>0</iExtra>
+     <bcVal>40</bcVal>
+     <bcXtr>0</bcXtr>
+     <bcAux>0</bcAux>
+     <bcCode>23</bcCode>
+     <attribs>0</attribs>
+     <vuStr>W</vuStr>
+     <xuStr>None</xuStr>
+     <vec11>0</vec11>
+     <vec12>0</vec12>
+     <vec13>0</vec13>
+     <vec21>1</vec21>
+     <vec22>0</vec22>
+     <vec23>0</vec23>
+     <tag_names>D-ENGINE_MODEL_FPGA^!6~~</tag_names>
+    </bcond>
+   </template_setting>
+   <template_setting>
+    <setting_name>Total Heat Generation(4 W)</setting_name>
+    <setting_type>7</setting_type>
+    <bcond>
+     <tID>-1</tID>
+     <iExtra>0</iExtra>
+     <bcVal>4</bcVal>
+     <bcXtr>0</bcXtr>
+     <bcAux>0</bcAux>
+     <bcCode>23</bcCode>
+     <attribs>0</attribs>
+     <vuStr>W</vuStr>
+     <xuStr>None</xuStr>
+     <vec11>0</vec11>
+     <vec12>0</vec12>
+     <vec13>0</vec13>
+     <vec21>1</vec21>
+     <vec22>0</vec22>
+     <vec23>0</vec23>
+     <tag_names>DMUX^!15~~DMUX^!19~~</tag_names>
+    </bcond>
+   </template_setting>
+   <template_setting>
+    <setting_name>Total Heat Generation(8 W)</setting_name>
+    <setting_type>7</setting_type>
+    <bcond>
+     <tID>-1</tID>
+     <iExtra>0</iExtra>
+     <bcVal>8</bcVal>
+     <bcXtr>0</bcXtr>
+     <bcAux>0</bcAux>
+     <bcCode>23</bcCode>
+     <attribs>0</attribs>
+     <vuStr>W</vuStr>
+     <xuStr>None</xuStr>
+     <vec11>0</vec11>
+     <vec12>0</vec12>
+     <vec13>0</vec13>
+     <vec21>1</vec21>
+     <vec22>0</vec22>
+     <vec23>0</vec23>
+     <tag_names>D-ENGINE_MODEL_SFP_CAGE^!7~~ADC_CHIP^!14~~ADC_CHIP^!18~~</tag_names>
+    </bcond>
+   </template_setting>
+   <template_setting>
+    <setting_name>2 Aluminum</setting_name>
+    <setting_type>8</setting_type>
+    <assigned_material>
+     <id>0</id>
+     <database>Default</database>
+     <part_count>0</part_count>
+     <is_referenced>false</is_referenced>
+     <material type="solid">
+      <name>Aluminum</name>
+      <read_only>true</read_only>
+      <units>MKS</units>
+      <source> Autodesk supplied material </source>
+      <property type="x_conductivity">
+       <property type="conductivity">
+        <variation type="constant">
+         <value units="w/m-k">204</value>
+        </variation>
+       </property>
+      </property>
+      <property type="y_conductivity">
+       <property type="conductivity">
+        <variation type="same_as_kxx"/>
+       </property>
+      </property>
+      <property type="z_conductivity">
+       <property type="conductivity">
+        <variation type="same_as_kxx"/>
+       </property>
+      </property>
+      <property type="density">
+       <variation type="constant">
+        <value units="kg/m3">2707</value>
+       </variation>
+      </property>
+      <property type="specific_heat">
+       <variation type="constant">
+        <value units="j/kg-k">896</value>
+       </variation>
+      </property>
+      <property type="emissivity">
+       <variation type="constant">
+        <value>0.2</value>
+       </variation>
+      </property>
+      <property type="transmissivity">
+       <variation type="constant">
+        <value>0</value>
+       </variation>
+      </property>
+      <property type="resistivity">
+       <variation type="constant">
+        <value units="ohm-m">2.7e-08</value>
+       </variation>
+      </property>
+      <property type="roughness">
+       <variation type="constant">
+        <value units="m">0</value>
+       </variation>
+      </property>
+      <color>191,166,166</color>
+     </material>
+     <material_environment fixed_value="yes" temperature_units="kelvin" reference_temperature="293" reference_pressure="101325" use_external="yes" pressure_units="pa"/>
+     <material_suppress>0</material_suppress>
+     <tag_names>DIGITISER_EDM_CHASSIS_ROUGH^!1~~DIGITISER_D-ENGINE_HSINK^!2~~DIGITISER_ADC_HSINK^!3~~DIGITISER_EDM_CHASSIS_LID^!4~~RFCU_REP^!10~~RFCU_REP^!11~~</tag_names>
+    </assigned_material>
+   </template_setting>
+   <template_setting>
+    <setting_name>3 Silicon</setting_name>
+    <setting_type>8</setting_type>
+    <assigned_material>
+     <id>0</id>
+     <database>Default</database>
+     <part_count>0</part_count>
+     <is_referenced>false</is_referenced>
+     <material type="solid">
+      <name>Silicon</name>
+      <read_only>true</read_only>
+      <units>MKS</units>
+      <source> Autodesk supplied material </source>
+      <property type="x_conductivity">
+       <property type="conductivity">
+        <variation type="piece_linear">
+         <dep_code>kT</dep_code>
+         <x_units>w/m-k</x_units>
+         <y_units>kelvin</y_units>
+         <x>884</x>
+         <y>100</y>
+         <x>264</x>
+         <y>200</y>
+         <x>98.9</x>
+         <y>400</y>
+         <x>61.9</x>
+         <y>600</y>
+         <x>42.2</x>
+         <y>800</y>
+         <x>31.2</x>
+         <y>1000</y>
+         <x>25.7</x>
+         <y>1200</y>
+         <x>22.7</x>
+         <y>1500</y>
+        </variation>
+       </property>
+      </property>
+      <property type="y_conductivity">
+       <property type="conductivity">
+        <variation type="same_as_kxx"/>
+       </property>
+      </property>
+      <property type="z_conductivity">
+       <property type="conductivity">
+        <variation type="same_as_kxx"/>
+       </property>
+      </property>
+      <property type="density">
+       <variation type="constant">
+        <value units="kg/m3">2330</value>
+       </variation>
+      </property>
+      <property type="specific_heat">
+       <variation type="piece_linear">
+        <dep_code>kT</dep_code>
+        <x_units>j/kg-k</x_units>
+        <y_units>kelvin</y_units>
+        <x>259</x>
+        <y>100</y>
+        <x>556</x>
+        <y>200</y>
+        <x>790</x>
+        <y>400</y>
+        <x>867</x>
+        <y>600</y>
+        <x>913</x>
+        <y>800</y>
+        <x>946</x>
+        <y>1000</y>
+        <x>967</x>
+        <y>1200</y>
+        <x>992</x>
+        <y>1500</y>
+       </variation>
+      </property>
+      <property type="emissivity">
+       <variation type="constant">
+        <value>0.6</value>
+       </variation>
+      </property>
+      <property type="transmissivity">
+       <variation type="constant">
+        <value>0</value>
+       </variation>
+      </property>
+      <property type="resistivity">
+       <variation type="constant">
+        <value units="ohm-m">1e-07</value>
+       </variation>
+      </property>
+      <property type="roughness">
+       <variation type="constant">
+        <value units="m">0</value>
+       </variation>
+      </property>
+      <color>240,200,160</color>
+     </material>
+     <material_environment fixed_value="yes" temperature_units="kelvin" reference_temperature="293" reference_pressure="101325" use_external="yes" pressure_units="pa"/>
+     <material_suppress>0</material_suppress>
+     <tag_names>D-ENGINE_SFP_PHY^!8~~D-ENGINE_SFP_PHY_2^!9~~D-ENGINE_MODEL_FPGA^!6~~ADC_CHIP^!14~~DMUX^!15~~ADC_CHIP^!18~~DMUX^!19~~</tag_names>
+    </assigned_material>
+   </template_setting>
+   <template_setting>
+    <setting_name>4 PCB 12-Layer(X)</setting_name>
+    <setting_type>8</setting_type>
+    <assigned_material>
+     <id>0</id>
+     <database>Default</database>
+     <part_count>0</part_count>
+     <is_referenced>false</is_referenced>
+     <material type="solid">
+      <name>PCB 12-Layer(X)</name>
+      <read_only>true</read_only>
+      <units>MKS</units>
+      <source> Autodesk supplied material </source>
+      <property type="x_conductivity">
+       <property type="conductivity">
+        <variation type="constant">
+         <value units="w/m-k">0.333705</value>
+        </variation>
+       </property>
+      </property>
+      <property type="y_conductivity">
+       <property type="conductivity">
+        <variation type="constant">
+         <value units="w/m-k">85.6575</value>
+        </variation>
+       </property>
+      </property>
+      <property type="z_conductivity">
+       <property type="conductivity">
+        <variation type="constant">
+         <value units="w/m-k">85.6575</value>
+        </variation>
+       </property>
+      </property>
+      <property type="density">
+       <variation type="constant">
+        <value units="kg/m3">432.54</value>
+       </variation>
+      </property>
+      <property type="specific_heat">
+       <variation type="constant">
+        <value units="j/kg-k">837.002</value>
+       </variation>
+      </property>
+      <property type="emissivity">
+       <variation type="constant">
+        <value>0.6</value>
+       </variation>
+      </property>
+      <property type="transmissivity">
+       <variation type="constant">
+        <value>0</value>
+       </variation>
+      </property>
+      <property type="resistivity">
+       <variation type="constant">
+        <value units="ohm-m">3e+12</value>
+       </variation>
+      </property>
+      <property type="roughness">
+       <variation type="constant">
+        <value units="m">0</value>
+       </variation>
+      </property>
+      <color>18,116,34</color>
+     </material>
+     <material_environment fixed_value="yes" temperature_units="kelvin" reference_temperature="293" reference_pressure="101325" use_external="yes" pressure_units="pa"/>
+     <material_suppress>0</material_suppress>
+     <tag_names>D-ENGINE_MODEL_PCB^!5~~ADC_PCB^!12~~ADC_PCB^!16~~</tag_names>
+    </assigned_material>
+   </template_setting>
+   <template_setting>
+    <setting_name>5 Tin</setting_name>
+    <setting_type>8</setting_type>
+    <assigned_material>
+     <id>0</id>
+     <database>Default</database>
+     <part_count>0</part_count>
+     <is_referenced>false</is_referenced>
+     <material type="solid">
+      <name>Tin</name>
+      <read_only>true</read_only>
+      <units>MKS</units>
+      <source> Autodesk supplied material </source>
+      <property type="x_conductivity">
+       <property type="conductivity">
+        <variation type="constant">
+         <value units="w/m-k">66.6</value>
+        </variation>
+       </property>
+      </property>
+      <property type="y_conductivity">
+       <property type="conductivity">
+        <variation type="same_as_kxx"/>
+       </property>
+      </property>
+      <property type="z_conductivity">
+       <property type="conductivity">
+        <variation type="same_as_kxx"/>
+       </property>
+      </property>
+      <property type="density">
+       <variation type="constant">
+        <value units="kg/m3">7310</value>
+       </variation>
+      </property>
+      <property type="specific_heat">
+       <variation type="constant">
+        <value units="j/kg-k">227</value>
+       </variation>
+      </property>
+      <property type="emissivity">
+       <variation type="constant">
+        <value>0.25</value>
+       </variation>
+      </property>
+      <property type="transmissivity">
+       <variation type="constant">
+        <value>0</value>
+       </variation>
+      </property>
+      <property type="resistivity">
+       <variation type="constant">
+        <value units="ohm-m">1.1e-07</value>
+       </variation>
+      </property>
+      <property type="roughness">
+       <variation type="constant">
+        <value units="m">0</value>
+       </variation>
+      </property>
+      <color>102,128,128</color>
+     </material>
+     <material_environment fixed_value="yes" temperature_units="kelvin" reference_temperature="293" reference_pressure="101325" use_external="yes" pressure_units="pa"/>
+     <material_suppress>0</material_suppress>
+     <tag_names>D-ENGINE_MODEL_SFP_CAGE^!7~~</tag_names>
+    </assigned_material>
+   </template_setting>
+   <template_setting>
+    <setting_name>6 Air</setting_name>
+    <setting_type>8</setting_type>
+    <assigned_material>
+     <id>0</id>
+     <database>Default</database>
+     <part_count>0</part_count>
+     <is_referenced>false</is_referenced>
+     <material type="fluid">
+      <name>Air</name>
+      <read_only>true</read_only>
+      <units>MKS</units>
+      <source> Autodesk supplied material </source>
+      <property type="density">
+       <variation type="EOS"/>
+      </property>
+      <property type="viscosity">
+       <variation type="constant">
+        <value units="pa-s">1.817e-05</value>
+       </variation>
+      </property>
+      <property type="conductivity">
+       <variation type="constant">
+        <value units="w/m-k">0.02563</value>
+       </variation>
+      </property>
+      <property type="specific_heat">
+       <variation type="constant">
+        <value units="j/kg-k">1004</value>
+       </variation>
+      </property>
+      <property type="compressibility">
+       <property type="ratio_specific_heats">
+        <variation type="constant">
+         <value>1.4</value>
+        </variation>
+       </property>
+      </property>
+      <property type="emissivity">
+       <variation type="constant">
+        <value>1</value>
+       </variation>
+      </property>
+      <property type="roughness">
+       <variation type="constant">
+        <value units="m">0</value>
+       </variation>
+      </property>
+      <property type="phase">
+       <variation type="phase_vapor">
+        <vapor_press units="pa">0</vapor_press>
+       </variation>
+      </property>
+      <color>197,255,255</color>
+      <gas_const units="m2/s2-K">287.05</gas_const>
+      <vapor_pressure>0</vapor_pressure>
+      <phase>gas</phase>
+     </material>
+     <material_environment fixed_value="no" temperature_units="kelvin" reference_temperature="293" reference_pressure="101325" use_external="yes" pressure_units="pa"/>
+     <material_suppress>0</material_suppress>
+     <tag_names>344_U_338_U_326-Volume~~387_U_386_U_372-Volume~~363_U_25_U_24-Volume~~359_U_19_U_18-Volume~~319-1_U_29_U_26-Volume~~32_U_319_U_31-Volume~~VMacro18c10256-104c-45ae-ad09-99dddbacf635~~</tag_names>
+    </assigned_material>
+   </template_setting>
+   <template_setting>
+    <setting_name>7 ABS (Molded)</setting_name>
+    <setting_type>8</setting_type>
+    <assigned_material>
+     <id>0</id>
+     <database>Default</database>
+     <part_count>0</part_count>
+     <is_referenced>false</is_referenced>
+     <material type="solid">
+      <name>ABS (Molded)</name>
+      <read_only>true</read_only>
+      <units>MKS</units>
+      <source> Autodesk supplied material </source>
+      <property type="x_conductivity">
+       <property type="conductivity">
+        <variation type="constant">
+         <value units="w/m-k">0.153</value>
+        </variation>
+       </property>
+      </property>
+      <property type="y_conductivity">
+       <property type="conductivity">
+        <variation type="same_as_kxx"/>
+       </property>
+      </property>
+      <property type="z_conductivity">
+       <property type="conductivity">
+        <variation type="same_as_kxx"/>
+       </property>
+      </property>
+      <property type="density">
+       <variation type="constant">
+        <value units="g/cm3">1.05</value>
+       </variation>
+      </property>
+      <property type="specific_heat">
+       <variation type="constant">
+        <value units="j/g-k">2.05</value>
+       </variation>
+      </property>
+      <property type="emissivity">
+       <variation type="constant">
+        <value>0.469</value>
+       </variation>
+      </property>
+      <property type="transmissivity">
+       <variation type="constant">
+        <value>0</value>
+       </variation>
+      </property>
+      <property type="resistivity">
+       <variation type="constant">
+        <value units="ohm-cm">1.65e+15</value>
+       </variation>
+      </property>
+      <property type="roughness">
+       <variation type="constant">
+        <value units="m">0</value>
+       </variation>
+      </property>
+      <color>255,0,0</color>
+     </material>
+     <material_environment fixed_value="yes" temperature_units="kelvin" reference_temperature="293" reference_pressure="101325" use_external="yes" pressure_units="pa"/>
+     <material_suppress>0</material_suppress>
+     <tag_names>R0_ADC_CONNECTOR^!13~~R0_ADC_CONNECTOR^!17~~</tag_names>
+    </assigned_material>
+   </template_setting>
+   <template_setting>
+    <setting_name>Iterations</setting_name>
+    <setting_type>10</setting_type>
+    <setting_content>
+     <content_name></content_name>
+     <content_type>10</content_type>
+     <content_value>8~~300</content_value>
+    </setting_content>
+   </template_setting>
+   <template_setting>
+    <setting_name>Flow</setting_name>
+    <setting_type>10</setting_type>
+    <setting_content>
+     <content_name></content_name>
+     <content_type>10</content_type>
+     <content_value>1~~1</content_value>
+    </setting_content>
+   </template_setting>
+   <template_setting>
+    <setting_name>Heat transfer</setting_name>
+    <setting_type>10</setting_type>
+    <setting_content>
+     <content_name></content_name>
+     <content_type>10</content_type>
+     <content_value>5~~1</content_value>
+    </setting_content>
+   </template_setting>
+   <template_setting>
+    <setting_name>Compressible</setting_name>
+    <setting_type>10</setting_type>
+    <setting_content>
+     <content_name></content_name>
+     <content_type>10</content_type>
+     <content_value>2~~0</content_value>
+    </setting_content>
+   </template_setting>
+   <template_setting>
+    <setting_name>Turbulence</setting_name>
+    <setting_type>10</setting_type>
+    <setting_content>
+     <content_name></content_name>
+     <content_type>10</content_type>
+     <content_value>3~~1~100~0.05~1</content_value>
+    </setting_content>
+   </template_setting>
+   <template_setting>
+    <setting_name>Advection</setting_name>
+    <setting_type>10</setting_type>
+    <setting_content>
+     <content_name></content_name>
+     <content_type>10</content_type>
+     <content_value>4~~1</content_value>
+    </setting_content>
+   </template_setting>
+   <template_setting>
+    <setting_name>Gravity</setting_name>
+    <setting_type>10</setting_type>
+    <setting_content>
+     <content_name></content_name>
+     <content_type>10</content_type>
+     <content_value>6~~0~0~-9806.64~1</content_value>
+    </setting_content>
+   </template_setting>
+   <template_setting>
+    <setting_name>Radiation</setting_name>
+    <setting_type>10</setting_type>
+    <setting_content>
+     <content_name></content_name>
+     <content_type>10</content_type>
+     <content_value>7~~0</content_value>
+    </setting_content>
+   </template_setting>
+  </template_scenario>
+ </template_design>
+ <template_design>
+  <design_name>Design 2</design_name>
+  <config_name>DIGITISER_EDM_CONCEPT_ROUGH_REV</config_name>
+  <cadfile_name>C:/ProE_Start/Temp/Autodesk Simulation CFD 2013/DIGITISER_EDM_CONCEPT_ROUGH_REV\digitiser_edm_concept_rough_rev.asm.1</cadfile_name>
+  <config_update>0</config_update>
+  <cad_launcher>CP_GRANITE</cad_launcher>
+  <cad_model>CP_GRANITE</cad_model>
+  <length_unit>0</length_unit>
+  <cloned_from></cloned_from>
+  <template_scenario>
+   <scenario_name>Scenario 1</scenario_name>
+   <template_setting>
+    <setting_name>Pressure(0 Pa Gage)</setting_name>
+    <setting_type>7</setting_type>
+    <bcond>
+     <tID>-1</tID>
+     <iExtra>0</iExtra>
+     <bcVal>0</bcVal>
+     <bcXtr>0</bcXtr>
+     <bcAux>0</bcAux>
+     <bcCode>8</bcCode>
+     <attribs>0</attribs>
+     <vuStr>Pa</vuStr>
+     <xuStr>None</xuStr>
+     <vec11>0</vec11>
+     <vec12>0</vec12>
+     <vec13>0</vec13>
+     <vec21>1</vec21>
+     <vec22>0</vec22>
+     <vec23>0</vec23>
+     <tag_names>SMacro079d2bac-ded4-43ed-b025-e2f8204e9ea3~~SMacro5b0c11e8-f248-4b45-add2-8046e8d3239d~~</tag_names>
+    </bcond>
+   </template_setting>
+   <template_setting>
+    <setting_name>Temperature(40 Celsius)</setting_name>
+    <setting_type>7</setting_type>
+    <bcond>
+     <tID>-1</tID>
+     <iExtra>0</iExtra>
+     <bcVal>40</bcVal>
+     <bcXtr>0</bcXtr>
+     <bcAux>0</bcAux>
+     <bcCode>10</bcCode>
+     <attribs>0</attribs>
+     <vuStr>Celsius</vuStr>
+     <xuStr>None</xuStr>
+     <vec11>0</vec11>
+     <vec12>0</vec12>
+     <vec13>0</vec13>
+     <vec21>1</vec21>
+     <vec22>0</vec22>
+     <vec23>0</vec23>
+     <tag_names>SMacro079d2bac-ded4-43ed-b025-e2f8204e9ea3~~</tag_names>
+    </bcond>
+   </template_setting>
+   <template_setting>
+    <setting_name>Total Heat Generation(1 W)</setting_name>
+    <setting_type>7</setting_type>
+    <bcond>
+     <tID>-1</tID>
+     <iExtra>0</iExtra>
+     <bcVal>1</bcVal>
+     <bcXtr>0</bcXtr>
+     <bcAux>0</bcAux>
+     <bcCode>23</bcCode>
+     <attribs>0</attribs>
+     <vuStr>W</vuStr>
+     <xuStr>None</xuStr>
+     <vec11>0</vec11>
+     <vec12>0</vec12>
+     <vec13>0</vec13>
+     <vec21>1</vec21>
+     <vec22>0</vec22>
+     <vec23>0</vec23>
+     <tag_names>D-ENGINE_MODEL_PCB^!5~~</tag_names>
+    </bcond>
+   </template_setting>
+   <template_setting>
+    <setting_name>Total Heat Generation(2.5 W)</setting_name>
+    <setting_type>7</setting_type>
+    <bcond>
+     <tID>-1</tID>
+     <iExtra>0</iExtra>
+     <bcVal>2.5</bcVal>
+     <bcXtr>0</bcXtr>
+     <bcAux>0</bcAux>
+     <bcCode>23</bcCode>
+     <attribs>0</attribs>
+     <vuStr>W</vuStr>
+     <xuStr>None</xuStr>
+     <vec11>0</vec11>
+     <vec12>0</vec12>
+     <vec13>0</vec13>
+     <vec21>1</vec21>
+     <vec22>0</vec22>
+     <vec23>0</vec23>
+     <tag_names>RFCU_REP^!10~~RFCU_REP^!11~~</tag_names>
+    </bcond>
+   </template_setting>
+   <template_setting>
+    <setting_name>Total Heat Generation(2 W)</setting_name>
+    <setting_type>7</setting_type>
+    <bcond>
+     <tID>-1</tID>
+     <iExtra>0</iExtra>
+     <bcVal>2</bcVal>
+     <bcXtr>0</bcXtr>
+     <bcAux>0</bcAux>
+     <bcCode>23</bcCode>
+     <attribs>0</attribs>
+     <vuStr>W</vuStr>
+     <xuStr>None</xuStr>
+     <vec11>0</vec11>
+     <vec12>0</vec12>
+     <vec13>0</vec13>
+     <vec21>1</vec21>
+     <vec22>0</vec22>
+     <vec23>0</vec23>
+     <tag_names>D-ENGINE_SFP_PHY^!8~~D-ENGINE_SFP_PHY_2^!9~~</tag_names>
+    </bcond>
+   </template_setting>
+   <template_setting>
+    <setting_name>Total Heat Generation(40 W)</setting_name>
+    <setting_type>7</setting_type>
+    <bcond>
+     <tID>-1</tID>
+     <iExtra>0</iExtra>
+     <bcVal>40</bcVal>
+     <bcXtr>0</bcXtr>
+     <bcAux>0</bcAux>
+     <bcCode>23</bcCode>
+     <attribs>0</attribs>
+     <vuStr>W</vuStr>
+     <xuStr>None</xuStr>
+     <vec11>0</vec11>
+     <vec12>0</vec12>
+     <vec13>0</vec13>
+     <vec21>1</vec21>
+     <vec22>0</vec22>
+     <vec23>0</vec23>
+     <tag_names>D-ENGINE_MODEL_FPGA^!6~~</tag_names>
+    </bcond>
+   </template_setting>
+   <template_setting>
+    <setting_name>Total Heat Generation(4 W)</setting_name>
+    <setting_type>7</setting_type>
+    <bcond>
+     <tID>-1</tID>
+     <iExtra>0</iExtra>
+     <bcVal>4</bcVal>
+     <bcXtr>0</bcXtr>
+     <bcAux>0</bcAux>
+     <bcCode>23</bcCode>
+     <attribs>0</attribs>
+     <vuStr>W</vuStr>
+     <xuStr>None</xuStr>
+     <vec11>0</vec11>
+     <vec12>0</vec12>
+     <vec13>0</vec13>
+     <vec21>1</vec21>
+     <vec22>0</vec22>
+     <vec23>0</vec23>
+     <tag_names>DMUX^!15~~DMUX^!19~~</tag_names>
+    </bcond>
+   </template_setting>
+   <template_setting>
+    <setting_name>Total Heat Generation(8 W)</setting_name>
+    <setting_type>7</setting_type>
+    <bcond>
+     <tID>-1</tID>
+     <iExtra>0</iExtra>
+     <bcVal>8</bcVal>
+     <bcXtr>0</bcXtr>
+     <bcAux>0</bcAux>
+     <bcCode>23</bcCode>
+     <attribs>0</attribs>
+     <vuStr>W</vuStr>
+     <xuStr>None</xuStr>
+     <vec11>0</vec11>
+     <vec12>0</vec12>
+     <vec13>0</vec13>
+     <vec21>1</vec21>
+     <vec22>0</vec22>
+     <vec23>0</vec23>
+     <tag_names>D-ENGINE_MODEL_SFP_CAGE^!7~~ADC_CHIP^!14~~ADC_CHIP^!18~~</tag_names>
+    </bcond>
+   </template_setting>
+   <template_setting>
+    <setting_name>2 Aluminum</setting_name>
+    <setting_type>8</setting_type>
+    <assigned_material>
+     <id>0</id>
+     <database>Default</database>
+     <part_count>0</part_count>
+     <is_referenced>false</is_referenced>
+     <material type="solid">
+      <name>Aluminum</name>
+      <read_only>true</read_only>
+      <units>MKS</units>
+      <source> Autodesk supplied material </source>
+      <property type="x_conductivity">
+       <property type="conductivity">
+        <variation type="constant">
+         <value units="w/m-k">204</value>
+        </variation>
+       </property>
+      </property>
+      <property type="y_conductivity">
+       <property type="conductivity">
+        <variation type="same_as_kxx"/>
+       </property>
+      </property>
+      <property type="z_conductivity">
+       <property type="conductivity">
+        <variation type="same_as_kxx"/>
+       </property>
+      </property>
+      <property type="density">
+       <variation type="constant">
+        <value units="kg/m3">2707</value>
+       </variation>
+      </property>
+      <property type="specific_heat">
+       <variation type="constant">
+        <value units="j/kg-k">896</value>
+       </variation>
+      </property>
+      <property type="emissivity">
+       <variation type="constant">
+        <value>0.2</value>
+       </variation>
+      </property>
+      <property type="transmissivity">
+       <variation type="constant">
+        <value>0</value>
+       </variation>
+      </property>
+      <property type="resistivity">
+       <variation type="constant">
+        <value units="ohm-m">2.7e-08</value>
+       </variation>
+      </property>
+      <property type="roughness">
+       <variation type="constant">
+        <value units="m">0</value>
+       </variation>
+      </property>
+      <color>191,166,166</color>
+     </material>
+     <material_environment fixed_value="yes" temperature_units="kelvin" reference_temperature="293" reference_pressure="101325" use_external="yes" pressure_units="pa"/>
+     <material_suppress>0</material_suppress>
+     <tag_names>DIGITISER_EDM_CHASSIS_ROUGH^!1~~DIGITISER_D-ENGINE_HSINK^!2~~DIGITISER_ADC_HSINK^!3~~DIGITISER_EDM_CHASSIS_LID^!4~~RFCU_REP^!10~~RFCU_REP^!11~~</tag_names>
+    </assigned_material>
+   </template_setting>
+   <template_setting>
+    <setting_name>3 Silicon</setting_name>
+    <setting_type>8</setting_type>
+    <assigned_material>
+     <id>0</id>
+     <database>Default</database>
+     <part_count>0</part_count>
+     <is_referenced>false</is_referenced>
+     <material type="solid">
+      <name>Silicon</name>
+      <read_only>true</read_only>
+      <units>MKS</units>
+      <source> Autodesk supplied material </source>
+      <property type="x_conductivity">
+       <property type="conductivity">
+        <variation type="piece_linear">
+         <dep_code>kT</dep_code>
+         <x_units>w/m-k</x_units>
+         <y_units>kelvin</y_units>
+         <x>884</x>
+         <y>100</y>
+         <x>264</x>
+         <y>200</y>
+         <x>98.9</x>
+         <y>400</y>
+         <x>61.9</x>
+         <y>600</y>
+         <x>42.2</x>
+         <y>800</y>
+         <x>31.2</x>
+         <y>1000</y>
+         <x>25.7</x>
+         <y>1200</y>
+         <x>22.7</x>
+         <y>1500</y>
+        </variation>
+       </property>
+      </property>
+      <property type="y_conductivity">
+       <property type="conductivity">
+        <variation type="same_as_kxx"/>
+       </property>
+      </property>
+      <property type="z_conductivity">
+       <property type="conductivity">
+        <variation type="same_as_kxx"/>
+       </property>
+      </property>
+      <property type="density">
+       <variation type="constant">
+        <value units="kg/m3">2330</value>
+       </variation>
+      </property>
+      <property type="specific_heat">
+       <variation type="piece_linear">
+        <dep_code>kT</dep_code>
+        <x_units>j/kg-k</x_units>
+        <y_units>kelvin</y_units>
+        <x>259</x>
+        <y>100</y>
+        <x>556</x>
+        <y>200</y>
+        <x>790</x>
+        <y>400</y>
+        <x>867</x>
+        <y>600</y>
+        <x>913</x>
+        <y>800</y>
+        <x>946</x>
+        <y>1000</y>
+        <x>967</x>
+        <y>1200</y>
+        <x>992</x>
+        <y>1500</y>
+       </variation>
+      </property>
+      <property type="emissivity">
+       <variation type="constant">
+        <value>0.6</value>
+       </variation>
+      </property>
+      <property type="transmissivity">
+       <variation type="constant">
+        <value>0</value>
+       </variation>
+      </property>
+      <property type="resistivity">
+       <variation type="constant">
+        <value units="ohm-m">1e-07</value>
+       </variation>
+      </property>
+      <property type="roughness">
+       <variation type="constant">
+        <value units="m">0</value>
+       </variation>
+      </property>
+      <color>240,200,160</color>
+     </material>
+     <material_environment fixed_value="yes" temperature_units="kelvin" reference_temperature="293" reference_pressure="101325" use_external="yes" pressure_units="pa"/>
+     <material_suppress>0</material_suppress>
+     <tag_names>D-ENGINE_SFP_PHY^!8~~D-ENGINE_SFP_PHY_2^!9~~D-ENGINE_MODEL_FPGA^!6~~ADC_CHIP^!14~~DMUX^!15~~ADC_CHIP^!18~~DMUX^!19~~</tag_names>
+    </assigned_material>
+   </template_setting>
+   <template_setting>
+    <setting_name>4 PCB 12-Layer(X)</setting_name>
+    <setting_type>8</setting_type>
+    <assigned_material>
+     <id>0</id>
+     <database>Default</database>
+     <part_count>0</part_count>
+     <is_referenced>false</is_referenced>
+     <material type="solid">
+      <name>PCB 12-Layer(X)</name>
+      <read_only>true</read_only>
+      <units>MKS</units>
+      <source> Autodesk supplied material </source>
+      <property type="x_conductivity">
+       <property type="conductivity">
+        <variation type="constant">
+         <value units="w/m-k">0.333705</value>
+        </variation>
+       </property>
+      </property>
+      <property type="y_conductivity">
+       <property type="conductivity">
+        <variation type="constant">
+         <value units="w/m-k">85.6575</value>
+        </variation>
+       </property>
+      </property>
+      <property type="z_conductivity">
+       <property type="conductivity">
+        <variation type="constant">
+         <value units="w/m-k">85.6575</value>
+        </variation>
+       </property>
+      </property>
+      <property type="density">
+       <variation type="constant">
+        <value units="kg/m3">432.54</value>
+       </variation>
+      </property>
+      <property type="specific_heat">
+       <variation type="constant">
+        <value units="j/kg-k">837.002</value>
+       </variation>
+      </property>
+      <property type="emissivity">
+       <variation type="constant">
+        <value>0.6</value>
+       </variation>
+      </property>
+      <property type="transmissivity">
+       <variation type="constant">
+        <value>0</value>
+       </variation>
+      </property>
+      <property type="resistivity">
+       <variation type="constant">
+        <value units="ohm-m">3e+12</value>
+       </variation>
+      </property>
+      <property type="roughness">
+       <variation type="constant">
+        <value units="m">0</value>
+       </variation>
+      </property>
+      <color>18,116,34</color>
+     </material>
+     <material_environment fixed_value="yes" temperature_units="kelvin" reference_temperature="293" reference_pressure="101325" use_external="yes" pressure_units="pa"/>
+     <material_suppress>0</material_suppress>
+     <tag_names>D-ENGINE_MODEL_PCB^!5~~ADC_PCB^!12~~ADC_PCB^!16~~</tag_names>
+    </assigned_material>
+   </template_setting>
+   <template_setting>
+    <setting_name>5 Tin</setting_name>
+    <setting_type>8</setting_type>
+    <assigned_material>
+     <id>0</id>
+     <database>Default</database>
+     <part_count>0</part_count>
+     <is_referenced>false</is_referenced>
+     <material type="solid">
+      <name>Tin</name>
+      <read_only>true</read_only>
+      <units>MKS</units>
+      <source> Autodesk supplied material </source>
+      <property type="x_conductivity">
+       <property type="conductivity">
+        <variation type="constant">
+         <value units="w/m-k">66.6</value>
+        </variation>
+       </property>
+      </property>
+      <property type="y_conductivity">
+       <property type="conductivity">
+        <variation type="same_as_kxx"/>
+       </property>
+      </property>
+      <property type="z_conductivity">
+       <property type="conductivity">
+        <variation type="same_as_kxx"/>
+       </property>
+      </property>
+      <property type="density">
+       <variation type="constant">
+        <value units="kg/m3">7310</value>
+       </variation>
+      </property>
+      <property type="specific_heat">
+       <variation type="constant">
+        <value units="j/kg-k">227</value>
+       </variation>
+      </property>
+      <property type="emissivity">
+       <variation type="constant">
+        <value>0.25</value>
+       </variation>
+      </property>
+      <property type="transmissivity">
+       <variation type="constant">
+        <value>0</value>
+       </variation>
+      </property>
+      <property type="resistivity">
+       <variation type="constant">
+        <value units="ohm-m">1.1e-07</value>
+       </variation>
+      </property>
+      <property type="roughness">
+       <variation type="constant">
+        <value units="m">0</value>
+       </variation>
+      </property>
+      <color>102,128,128</color>
+     </material>
+     <material_environment fixed_value="yes" temperature_units="kelvin" reference_temperature="293" reference_pressure="101325" use_external="yes" pressure_units="pa"/>
+     <material_suppress>0</material_suppress>
+     <tag_names>D-ENGINE_MODEL_SFP_CAGE^!7~~</tag_names>
+    </assigned_material>
+   </template_setting>
+   <template_setting>
+    <setting_name>6 Air</setting_name>
+    <setting_type>8</setting_type>
+    <assigned_material>
+     <id>0</id>
+     <database>Default</database>
+     <part_count>0</part_count>
+     <is_referenced>false</is_referenced>
+     <material type="fluid">
+      <name>Air</name>
+      <read_only>true</read_only>
+      <units>MKS</units>
+      <source> Autodesk supplied material </source>
+      <property type="density">
+       <variation type="EOS"/>
+      </property>
+      <property type="viscosity">
+       <variation type="constant">
+        <value units="pa-s">1.817e-05</value>
+       </variation>
+      </property>
+      <property type="conductivity">
+       <variation type="constant">
+        <value units="w/m-k">0.02563</value>
+       </variation>
+      </property>
+      <property type="specific_heat">
+       <variation type="constant">
+        <value units="j/kg-k">1004</value>
+       </variation>
+      </property>
+      <property type="compressibility">
+       <property type="ratio_specific_heats">
+        <variation type="constant">
+         <value>1.4</value>
+        </variation>
+       </property>
+      </property>
+      <property type="emissivity">
+       <variation type="constant">
+        <value>1</value>
+       </variation>
+      </property>
+      <property type="roughness">
+       <variation type="constant">
+        <value units="m">0</value>
+       </variation>
+      </property>
+      <property type="phase">
+       <variation type="phase_vapor">
+        <vapor_press units="pa">0</vapor_press>
+       </variation>
+      </property>
+      <color>197,255,255</color>
+      <gas_const units="m2/s2-K">287.05</gas_const>
+      <vapor_pressure>0</vapor_pressure>
+      <phase>gas</phase>
+     </material>
+     <material_environment fixed_value="no" temperature_units="kelvin" reference_temperature="293" reference_pressure="101325" use_external="yes" pressure_units="pa"/>
+     <material_suppress>0</material_suppress>
+     <tag_names>230_U_224_U_212-Volume~~273_U_272_U_258-Volume~~25_U_249_U_24-Volume~~245_U_19_U_18-Volume~~29_U_26_U_205-1-Volume~~32_U_31_U_205-Volume~~VMacro9fc6bdc8-7a35-42c2-a58c-92337900ac67~~</tag_names>
+    </assigned_material>
+   </template_setting>
+   <template_setting>
+    <setting_name>7 ABS (Molded)</setting_name>
+    <setting_type>8</setting_type>
+    <assigned_material>
+     <id>0</id>
+     <database>Default</database>
+     <part_count>0</part_count>
+     <is_referenced>false</is_referenced>
+     <material type="solid">
+      <name>ABS (Molded)</name>
+      <read_only>true</read_only>
+      <units>MKS</units>
+      <source> Autodesk supplied material </source>
+      <property type="x_conductivity">
+       <property type="conductivity">
+        <variation type="constant">
+         <value units="w/m-k">0.153</value>
+        </variation>
+       </property>
+      </property>
+      <property type="y_conductivity">
+       <property type="conductivity">
+        <variation type="same_as_kxx"/>
+       </property>
+      </property>
+      <property type="z_conductivity">
+       <property type="conductivity">
+        <variation type="same_as_kxx"/>
+       </property>
+      </property>
+      <property type="density">
+       <variation type="constant">
+        <value units="g/cm3">1.05</value>
+       </variation>
+      </property>
+      <property type="specific_heat">
+       <variation type="constant">
+        <value units="j/g-k">2.05</value>
+       </variation>
+      </property>
+      <property type="emissivity">
+       <variation type="constant">
+        <value>0.469</value>
+       </variation>
+      </property>
+      <property type="transmissivity">
+       <variation type="constant">
+        <value>0</value>
+       </variation>
+      </property>
+      <property type="resistivity">
+       <variation type="constant">
+        <value units="ohm-cm">1.65e+15</value>
+       </variation>
+      </property>
+      <property type="roughness">
+       <variation type="constant">
+        <value units="m">0</value>
+       </variation>
+      </property>
+      <color>255,0,0</color>
+     </material>
+     <material_environment fixed_value="yes" temperature_units="kelvin" reference_temperature="293" reference_pressure="101325" use_external="yes" pressure_units="pa"/>
+     <material_suppress>0</material_suppress>
+     <tag_names>R0_ADC_CONNECTOR^!13~~R0_ADC_CONNECTOR^!17~~</tag_names>
+    </assigned_material>
+   </template_setting>
+   <template_setting>
+    <setting_name>Iterations</setting_name>
+    <setting_type>10</setting_type>
+    <setting_content>
+     <content_name></content_name>
+     <content_type>10</content_type>
+     <content_value>8~~300</content_value>
+    </setting_content>
+   </template_setting>
+   <template_setting>
+    <setting_name>Flow</setting_name>
+    <setting_type>10</setting_type>
+    <setting_content>
+     <content_name></content_name>
+     <content_type>10</content_type>
+     <content_value>1~~1</content_value>
+    </setting_content>
+   </template_setting>
+   <template_setting>
+    <setting_name>Heat transfer</setting_name>
+    <setting_type>10</setting_type>
+    <setting_content>
+     <content_name></content_name>
+     <content_type>10</content_type>
+     <content_value>5~~1</content_value>
+    </setting_content>
+   </template_setting>
+   <template_setting>
+    <setting_name>Compressible</setting_name>
+    <setting_type>10</setting_type>
+    <setting_content>
+     <content_name></content_name>
+     <content_type>10</content_type>
+     <content_value>2~~0</content_value>
+    </setting_content>
+   </template_setting>
+   <template_setting>
+    <setting_name>Turbulence</setting_name>
+    <setting_type>10</setting_type>
+    <setting_content>
+     <content_name></content_name>
+     <content_type>10</content_type>
+     <content_value>3~~1~100~0.05~1</content_value>
+    </setting_content>
+   </template_setting>
+   <template_setting>
+    <setting_name>Advection</setting_name>
+    <setting_type>10</setting_type>
+    <setting_content>
+     <content_name></content_name>
+     <content_type>10</content_type>
+     <content_value>4~~1</content_value>
+    </setting_content>
+   </template_setting>
+   <template_setting>
+    <setting_name>Gravity</setting_name>
+    <setting_type>10</setting_type>
+    <setting_content>
+     <content_name></content_name>
+     <content_type>10</content_type>
+     <content_value>6~~0~0~-9806.64~1</content_value>
+    </setting_content>
+   </template_setting>
+   <template_setting>
+    <setting_name>Radiation</setting_name>
+    <setting_type>10</setting_type>
+    <setting_content>
+     <content_name></content_name>
+     <content_type>10</content_type>
+     <content_value>7~~0</content_value>
+    </setting_content>
+   </template_setting>
+  </template_scenario>
+ </template_design>
+</template_study>

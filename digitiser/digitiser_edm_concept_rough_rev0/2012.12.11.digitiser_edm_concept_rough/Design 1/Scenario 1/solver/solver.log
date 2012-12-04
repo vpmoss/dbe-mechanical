@@ -1,0 +1,17 @@
+[16:13:34] Starting worker thread...
+[16:13:34] Worker is running...
+[16:13:36] adlmInitialize
+[16:13:36] adlmHandleSetSilentMode
+[16:13:36] adlmLicenseCreate
+[16:13:36] Initializing license server...
+[16:13:36] Checkout - Feature:CFD Solver Version:2013.0.0.F Product Key:809E1 Product Code:SCFD
+[16:13:36] Checkout - adlmLicenseCheckout:start
+[16:13:37] Checkout - ret:20
+[16:13:37]   20 License checkout failed.
+[16:13:37] Checkout - Feature:CFD Advanced Version:2013.0.0.F Product Key:810E1 Product Code:SCFDA
+[16:13:37] Checkout - adlmLicenseCheckout:start
+[16:13:38] Output:
+[16:13:38]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[16:13:38] Checkout - Feature:CFD Advanced Success
+[16:13:38] Checkout done
+[19:02:30] Exiting with code = 0...

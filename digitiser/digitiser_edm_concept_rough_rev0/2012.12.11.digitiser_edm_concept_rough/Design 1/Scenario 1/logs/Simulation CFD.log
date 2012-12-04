@@ -1,0 +1,722 @@
+[15:55:41] System language is C
+[15:55:41] Completed pre-event loop tasks in 0.295 sec
+[15:55:41] adlmInitialize
+[15:55:41] adlmHandleOpen
+[15:55:41] adlmHandleSetSilentMode
+[15:55:42] adlmLicenseCreate
+[15:55:42] ADLM: startup success
+[15:55:42] License path is C:\Program Files\Autodesk\Simulation CFD 2013\licpath.lic
+[15:55:42] Initializing license manager...
+[15:55:42] Checkout - Feature:CFD UI Version:2013.0.0.F Product Key:812E1 Product Code:SCDSE
+[15:55:42] Checkout - adlmLicenseCheckout:start
+[15:55:43] Checkout - ret:0
+[15:55:43] Command:lmutil lmborrow -status
+[15:55:43] WorkDir:
+[15:55:43] Output:
+[15:55:43]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[15:55:43] Checkout - Feature:CFD UI Success
+[15:55:43] Checkout done
+[15:55:43] Initialized licensing in 1.165 sec
+[15:55:46] Created main window in 3.502 sec
+[15:55:46] Loaded layout in 0.001 sec
+[15:55:46] Completed post-event loop tasks in 4.965 sec
+[15:55:46] External fragmentation is 0
+[15:55:46] Internal fragmentation is 0.961621
+[15:55:46] External fragmentation is 0.015544
+[15:55:46] Internal fragmentation is 0.0190083
+[15:55:51] External fragmentation is 0
+[15:55:51] Internal fragmentation is 0.00137435
+[15:55:51] External fragmentation is 0
+[15:55:51] Internal fragmentation is 0.02985
+[15:55:55] External fragmentation is 0
+[15:55:55] Internal fragmentation is 0.22427
+[15:55:55] CadPackage:CP_GRANITE CadInterface:4
+[15:55:55] Checkout - Feature:CFD Wildfire Version:2013.0.0.F Product Key:822E1 Product Code:SCPROE
+[15:55:55] Checkout - adlmLicenseCheckout:start
+[15:55:56] Checkout - ret:0
+[15:55:56] Command:lmutil lmborrow -status
+[15:55:56] WorkDir:
+[15:55:57] Output:
+[15:55:57]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[15:55:57] Checkout - Feature:CFD Wildfire Success
+[15:55:57] Checkout done
+[15:55:57] CadPackage:CP_GRANITE CadInterface:4
+[15:55:57] Checkout - Feature:CFD Wildfire Version:2013.0.0.F Product Key:822E1 Product Code:SCPROE
+[15:55:57] Checkout - adlmLicenseCheckout:start
+[15:55:58] Checkout - ret:0
+[15:55:58] Command:lmutil lmborrow -status
+[15:55:58] WorkDir:
+[15:55:58] Output:
+[15:55:58]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[15:55:58] Checkout - Feature:CFD Wildfire Success
+[15:55:58] Checkout done
+[15:56:05] Starting web check
+[15:56:07] Processing web data
+[15:56:11] CadPackage:CP_GRANITE CadInterface:4
+[15:56:11] Checkout - Feature:CFD Wildfire Version:2013.0.0.F Product Key:822E1 Product Code:SCPROE
+[15:56:11] Checkout - adlmLicenseCheckout:start
+[15:56:12] Checkout - ret:0
+[15:56:12] Command:lmutil lmborrow -status
+[15:56:12] WorkDir:
+[15:56:12] Output:
+[15:56:12]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[15:56:12] Checkout - Feature:CFD Wildfire Success
+[15:56:12] Checkout done
+[15:56:12] CadPackage:CP_GRANITE CadInterface:4
+[15:56:12] Checkout - Feature:CFD Wildfire Version:2013.0.0.F Product Key:822E1 Product Code:SCPROE
+[15:56:12] Checkout - adlmLicenseCheckout:start
+[15:56:13] Checkout - ret:0
+[15:56:13] Command:lmutil lmborrow -status
+[15:56:13] WorkDir:
+[15:56:13] Output:
+[15:56:13]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[15:56:13] Checkout - Feature:CFD Wildfire Success
+[15:56:13] Checkout done
+[15:59:59] Command:lmutil lmborrow -status
+[15:59:59] WorkDir:
+[15:59:59] Output:
+[15:59:59]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[15:59:59] 2012.12.11.digitiser_edm_concept_rough/Design 2/Scenario 1 job started at Wed 14. Nov 15:59:59 2012 on PHIL-PC
+[16:00:00] 2012.12.11.digitiser_edm_concept_rough/Design 2/Scenario 1 mesher started at Wed 14. Nov 16:00:00 2012 on PHIL-PC
+[16:01:21] 2012.12.11.digitiser_edm_concept_rough/Design 2/Scenario 1 mesher finished at Wed 14. Nov 16:01:21 2012 on PHIL-PC with code = 0
+[16:01:23] Mesher finished copying files
+[16:01:23] 2012.12.11.digitiser_edm_concept_rough/Design 2/Scenario 1 solver started at Wed 14. Nov 16:01:22 2012 on PHIL-PC
+[16:01:40] getJobUpdate start
+[16:01:43] getJobUpdate finished
+[16:02:02] getJobUpdate start
+[16:02:03] getJobUpdate finished
+[16:02:13] getJobUpdate start
+[16:02:13] getJobUpdate finished
+[16:02:23] getJobUpdate start
+[16:02:24] getJobUpdate finished
+[16:02:35] getJobUpdate start
+[16:02:35] getJobUpdate finished
+[16:02:46] getJobUpdate start
+[16:02:46] getJobUpdate finished
+[16:02:56] getJobUpdate start
+[16:02:57] getJobUpdate finished
+[16:03:09] getJobUpdate start
+[16:03:09] getJobUpdate finished
+[16:03:36] 2012.12.11.digitiser_edm_concept_rough/Design 2/Scenario 1 solver finished at Wed 14. Nov 16:03:36 2012 on PHIL-PC with code = 0
+[16:03:39] 2012.12.11.digitiser_edm_concept_rough/Design 2/Scenario 1 job finished at Wed 14. Nov 16:03:39 2012 on PHIL-PC
+[16:03:56] Command:lmutil lmborrow -status
+[16:03:56] WorkDir:
+[16:03:56] Output:
+[16:03:56]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[16:03:56] 2012.12.11.digitiser_edm_concept_rough/Design 2/Scenario 1 job started at Wed 14. Nov 16:03:56 2012 on PHIL-PC
+[16:03:57] 2012.12.11.digitiser_edm_concept_rough/Design 2/Scenario 1 solver started at Wed 14. Nov 16:03:57 2012 on PHIL-PC
+[16:04:36] Command:lmutil lmborrow -status
+[16:04:36] WorkDir:
+[16:04:36] Output:
+[16:04:36]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[16:11:58] getJobUpdate start
+[16:12:00] getJobUpdate finished
+[16:12:19] getJobUpdate start
+[16:12:19] getJobUpdate finished
+[16:12:42] getJobUpdate start
+[16:12:42] getJobUpdate finished
+[16:13:26] 2012.12.11.digitiser_edm_concept_rough/Design 2/Scenario 1 solver finished at Wed 14. Nov 16:13:26 2012 on PHIL-PC with code = 0
+[16:13:30] 2012.12.11.digitiser_edm_concept_rough/Design 2/Scenario 1 job finished at Wed 14. Nov 16:13:30 2012 on PHIL-PC
+[16:14:50] Command:lmutil lmborrow -status
+[16:14:50] WorkDir:
+[16:14:50] Output:
+[16:14:50]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[16:15:37] 2012.12.11.digitiser_edm_concept_rough/Design 1/Scenario 1 job started at Wed 14. Nov 16:13:34 2012 on PHIL-PC
+[16:15:37] 2012.12.11.digitiser_edm_concept_rough/Design 1/Scenario 1 solver started at Wed 14. Nov 16:13:34 2012 on PHIL-PC
+[16:15:37] getJobUpdate start
+[16:15:40] getJobUpdate finished
+[16:15:52] getJobUpdate start
+[16:15:52] getJobUpdate finished
+[16:16:12] getJobUpdate start
+[16:16:12] getJobUpdate finished
+[16:16:33] getJobUpdate start
+[16:16:33] getJobUpdate finished
+[16:16:53] getJobUpdate start
+[16:16:53] getJobUpdate finished
+[16:17:12] getJobUpdate start
+[16:17:13] getJobUpdate finished
+[16:17:33] getJobUpdate start
+[16:17:33] getJobUpdate finished
+[16:17:53] getJobUpdate start
+[16:17:54] getJobUpdate finished
+[16:18:18] getJobUpdate start
+[16:18:18] getJobUpdate finished
+[16:18:42] getJobUpdate start
+[16:18:42] getJobUpdate finished
+[16:19:06] getJobUpdate start
+[16:19:07] getJobUpdate finished
+[16:19:30] getJobUpdate start
+[16:19:31] getJobUpdate finished
+[16:19:54] getJobUpdate start
+[16:19:55] getJobUpdate finished
+[16:20:18] getJobUpdate start
+[16:20:18] getJobUpdate finished
+[16:20:42] getJobUpdate start
+[16:20:42] getJobUpdate finished
+[16:21:06] getJobUpdate start
+[16:21:07] getJobUpdate finished
+[16:21:31] getJobUpdate start
+[16:21:32] getJobUpdate finished
+[16:21:56] getJobUpdate start
+[16:21:56] getJobUpdate finished
+[16:22:21] getJobUpdate start
+[16:22:21] getJobUpdate finished
+[16:22:45] getJobUpdate start
+[16:22:46] getJobUpdate finished
+[16:23:12] getJobUpdate start
+[16:23:12] getJobUpdate finished
+[16:23:37] getJobUpdate start
+[16:23:37] getJobUpdate finished
+[16:24:02] getJobUpdate start
+[16:24:02] getJobUpdate finished
+[16:24:26] getJobUpdate start
+[16:24:27] getJobUpdate finished
+[16:24:52] getJobUpdate start
+[16:24:52] getJobUpdate finished
+[16:25:17] getJobUpdate start
+[16:25:17] getJobUpdate finished
+[16:25:42] getJobUpdate start
+[16:25:43] getJobUpdate finished
+[16:26:08] getJobUpdate start
+[16:26:09] getJobUpdate finished
+[16:26:35] getJobUpdate start
+[16:26:35] getJobUpdate finished
+[16:27:01] getJobUpdate start
+[16:27:02] getJobUpdate finished
+[16:27:28] getJobUpdate start
+[16:27:29] getJobUpdate finished
+[16:27:56] getJobUpdate start
+[16:27:56] getJobUpdate finished
+[16:28:23] getJobUpdate start
+[16:28:23] getJobUpdate finished
+[16:28:51] getJobUpdate start
+[16:28:51] getJobUpdate finished
+[16:29:18] getJobUpdate start
+[16:29:19] getJobUpdate finished
+[16:29:50] getJobUpdate start
+[16:29:51] getJobUpdate finished
+[16:30:18] getJobUpdate start
+[16:30:19] getJobUpdate finished
+[16:30:51] getJobUpdate start
+[16:30:52] getJobUpdate finished
+[16:31:20] getJobUpdate start
+[16:31:21] getJobUpdate finished
+[16:31:54] getJobUpdate start
+[16:31:54] getJobUpdate finished
+[16:32:28] getJobUpdate start
+[16:32:28] getJobUpdate finished
+[16:32:57] getJobUpdate start
+[16:32:57] getJobUpdate finished
+[16:33:30] getJobUpdate start
+[16:33:30] getJobUpdate finished
+[16:34:07] getJobUpdate start
+[16:34:07] getJobUpdate finished
+[16:34:41] getJobUpdate start
+[16:34:41] getJobUpdate finished
+[16:35:11] getJobUpdate start
+[16:35:11] getJobUpdate finished
+[16:35:45] getJobUpdate start
+[16:35:46] getJobUpdate finished
+[16:36:19] getJobUpdate start
+[16:36:20] getJobUpdate finished
+[16:36:54] getJobUpdate start
+[16:36:54] getJobUpdate finished
+[16:37:28] getJobUpdate start
+[16:37:29] getJobUpdate finished
+[16:38:03] getJobUpdate start
+[16:38:03] getJobUpdate finished
+[16:38:37] getJobUpdate start
+[16:38:37] getJobUpdate finished
+[16:39:12] getJobUpdate start
+[16:39:12] getJobUpdate finished
+[16:39:46] getJobUpdate start
+[16:39:47] getJobUpdate finished
+[16:40:22] getJobUpdate start
+[16:40:23] getJobUpdate finished
+[16:40:57] getJobUpdate start
+[16:40:57] getJobUpdate finished
+[16:41:31] getJobUpdate start
+[16:41:32] getJobUpdate finished
+[16:42:06] getJobUpdate start
+[16:42:07] getJobUpdate finished
+[16:42:43] getJobUpdate start
+[16:42:43] getJobUpdate finished
+[16:43:20] getJobUpdate start
+[16:43:20] getJobUpdate finished
+[16:43:56] getJobUpdate start
+[16:43:56] getJobUpdate finished
+[16:44:30] getJobUpdate start
+[16:44:31] getJobUpdate finished
+[16:45:07] getJobUpdate start
+[16:45:07] getJobUpdate finished
+[16:45:41] getJobUpdate start
+[16:45:41] getJobUpdate finished
+[16:46:15] getJobUpdate start
+[16:46:16] getJobUpdate finished
+[16:46:49] getJobUpdate start
+[16:46:49] getJobUpdate finished
+[16:47:23] getJobUpdate start
+[16:47:24] getJobUpdate finished
+[16:47:58] getJobUpdate start
+[16:47:58] getJobUpdate finished
+[16:48:31] getJobUpdate start
+[16:48:32] getJobUpdate finished
+[16:49:07] getJobUpdate start
+[16:49:08] getJobUpdate finished
+[16:49:42] getJobUpdate start
+[16:49:42] getJobUpdate finished
+[16:50:16] getJobUpdate start
+[16:50:16] getJobUpdate finished
+[16:50:48] getJobUpdate start
+[16:50:49] getJobUpdate finished
+[16:51:25] getJobUpdate start
+[16:51:25] getJobUpdate finished
+[16:52:03] getJobUpdate start
+[16:52:03] getJobUpdate finished
+[16:52:36] getJobUpdate start
+[16:52:37] getJobUpdate finished
+[16:53:10] getJobUpdate start
+[16:53:11] getJobUpdate finished
+[16:53:45] getJobUpdate start
+[16:53:45] getJobUpdate finished
+[16:54:20] getJobUpdate start
+[16:54:20] getJobUpdate finished
+[16:54:54] getJobUpdate start
+[16:54:55] getJobUpdate finished
+[16:55:28] getJobUpdate start
+[16:55:28] getJobUpdate finished
+[16:56:03] getJobUpdate start
+[16:56:04] getJobUpdate finished
+[16:56:37] getJobUpdate start
+[16:56:38] getJobUpdate finished
+[16:57:12] getJobUpdate start
+[16:57:12] getJobUpdate finished
+[16:57:46] getJobUpdate start
+[16:57:47] getJobUpdate finished
+[16:58:21] getJobUpdate start
+[16:58:22] getJobUpdate finished
+[16:58:55] getJobUpdate start
+[16:58:55] getJobUpdate finished
+[16:59:29] getJobUpdate start
+[16:59:30] getJobUpdate finished
+[17:00:06] getJobUpdate start
+[17:00:06] getJobUpdate finished
+[17:00:40] getJobUpdate start
+[17:00:41] getJobUpdate finished
+[17:01:15] getJobUpdate start
+[17:01:16] getJobUpdate finished
+[17:01:50] getJobUpdate start
+[17:01:50] getJobUpdate finished
+[17:02:23] getJobUpdate start
+[17:02:24] getJobUpdate finished
+[17:02:57] getJobUpdate start
+[17:02:58] getJobUpdate finished
+[17:03:32] getJobUpdate start
+[17:03:32] getJobUpdate finished
+[17:04:06] getJobUpdate start
+[17:04:07] getJobUpdate finished
+[17:04:41] getJobUpdate start
+[17:04:41] getJobUpdate finished
+[17:05:18] getJobUpdate start
+[17:05:18] getJobUpdate finished
+[17:05:51] getJobUpdate start
+[17:05:52] getJobUpdate finished
+[17:06:21] getJobUpdate start
+[17:06:22] getJobUpdate finished
+[17:06:57] getJobUpdate start
+[17:06:57] getJobUpdate finished
+[17:07:31] getJobUpdate start
+[17:07:32] getJobUpdate finished
+[17:08:06] getJobUpdate start
+[17:08:06] getJobUpdate finished
+[17:08:41] getJobUpdate start
+[17:08:41] getJobUpdate finished
+[17:09:15] getJobUpdate start
+[17:09:15] getJobUpdate finished
+[17:09:50] getJobUpdate start
+[17:09:50] getJobUpdate finished
+[17:10:25] getJobUpdate start
+[17:10:25] getJobUpdate finished
+[17:10:59] getJobUpdate start
+[17:10:59] getJobUpdate finished
+[17:11:33] getJobUpdate start
+[17:11:33] getJobUpdate finished
+[17:12:07] getJobUpdate start
+[17:12:07] getJobUpdate finished
+[17:12:42] getJobUpdate start
+[17:12:42] getJobUpdate finished
+[17:13:21] getJobUpdate start
+[17:13:21] getJobUpdate finished
+[17:14:03] getJobUpdate start
+[17:14:03] getJobUpdate finished
+[17:14:38] getJobUpdate start
+[17:14:38] getJobUpdate finished
+[17:15:13] getJobUpdate start
+[17:15:14] getJobUpdate finished
+[17:15:49] getJobUpdate start
+[17:15:49] getJobUpdate finished
+[17:16:24] getJobUpdate start
+[17:16:25] getJobUpdate finished
+[17:16:59] getJobUpdate start
+[17:17:00] getJobUpdate finished
+[17:17:33] getJobUpdate start
+[17:17:34] getJobUpdate finished
+[17:18:10] getJobUpdate start
+[17:18:10] getJobUpdate finished
+[17:18:50] getJobUpdate start
+[17:18:50] getJobUpdate finished
+[17:19:25] getJobUpdate start
+[17:19:25] getJobUpdate finished
+[17:19:59] getJobUpdate start
+[17:20:00] getJobUpdate finished
+[17:20:34] getJobUpdate start
+[17:20:35] getJobUpdate finished
+[17:21:12] getJobUpdate start
+[17:21:12] getJobUpdate finished
+[17:21:48] getJobUpdate start
+[17:21:49] getJobUpdate finished
+[17:22:22] getJobUpdate start
+[17:22:23] getJobUpdate finished
+[17:23:01] getJobUpdate start
+[17:23:02] getJobUpdate finished
+[17:23:38] getJobUpdate start
+[17:23:38] getJobUpdate finished
+[17:24:12] getJobUpdate start
+[17:24:12] getJobUpdate finished
+[17:24:47] getJobUpdate start
+[17:24:47] getJobUpdate finished
+[17:25:22] getJobUpdate start
+[17:25:23] getJobUpdate finished
+[17:25:59] getJobUpdate start
+[17:25:59] getJobUpdate finished
+[17:26:37] getJobUpdate start
+[17:26:38] getJobUpdate finished
+[17:27:12] getJobUpdate start
+[17:27:13] getJobUpdate finished
+[17:27:48] getJobUpdate start
+[17:27:48] getJobUpdate finished
+[17:28:24] getJobUpdate start
+[17:28:24] getJobUpdate finished
+[17:29:00] getJobUpdate start
+[17:29:00] getJobUpdate finished
+[17:29:36] getJobUpdate start
+[17:29:36] getJobUpdate finished
+[17:30:11] getJobUpdate start
+[17:30:11] getJobUpdate finished
+[17:30:46] getJobUpdate start
+[17:30:47] getJobUpdate finished
+[17:31:22] getJobUpdate start
+[17:31:23] getJobUpdate finished
+[17:31:58] getJobUpdate start
+[17:31:58] getJobUpdate finished
+[17:32:32] getJobUpdate start
+[17:32:33] getJobUpdate finished
+[17:33:07] getJobUpdate start
+[17:33:08] getJobUpdate finished
+[17:33:44] getJobUpdate start
+[17:33:44] getJobUpdate finished
+[17:34:19] getJobUpdate start
+[17:34:19] getJobUpdate finished
+[17:34:54] getJobUpdate start
+[17:34:55] getJobUpdate finished
+[17:35:29] getJobUpdate start
+[17:35:30] getJobUpdate finished
+[17:36:05] getJobUpdate start
+[17:36:06] getJobUpdate finished
+[17:36:42] getJobUpdate start
+[17:36:43] getJobUpdate finished
+[17:37:18] getJobUpdate start
+[17:37:18] getJobUpdate finished
+[17:37:54] getJobUpdate start
+[17:37:54] getJobUpdate finished
+[17:39:15] getJobUpdate start
+[17:39:16] getJobUpdate finished
+[17:39:52] getJobUpdate start
+[17:39:53] getJobUpdate finished
+[17:40:22] getJobUpdate start
+[17:40:23] getJobUpdate finished
+[17:40:51] getJobUpdate start
+[17:40:52] getJobUpdate finished
+[17:41:27] getJobUpdate start
+[17:41:28] getJobUpdate finished
+[17:41:57] getJobUpdate start
+[17:41:57] getJobUpdate finished
+[17:42:35] getJobUpdate start
+[17:42:35] getJobUpdate finished
+[17:43:05] getJobUpdate start
+[17:43:06] getJobUpdate finished
+[17:43:37] getJobUpdate start
+[17:43:37] getJobUpdate finished
+[17:44:13] getJobUpdate start
+[17:44:13] getJobUpdate finished
+[17:44:48] getJobUpdate start
+[17:44:49] getJobUpdate finished
+[17:45:24] getJobUpdate start
+[17:45:25] getJobUpdate finished
+[17:45:54] getJobUpdate start
+[17:45:54] getJobUpdate finished
+[17:46:24] getJobUpdate start
+[17:46:24] getJobUpdate finished
+[17:47:00] getJobUpdate start
+[17:47:01] getJobUpdate finished
+[17:47:30] getJobUpdate start
+[17:47:31] getJobUpdate finished
+[17:48:06] getJobUpdate start
+[17:48:07] getJobUpdate finished
+[17:48:42] getJobUpdate start
+[17:48:42] getJobUpdate finished
+[17:49:18] getJobUpdate start
+[17:49:19] getJobUpdate finished
+[17:49:54] getJobUpdate start
+[17:49:54] getJobUpdate finished
+[17:50:30] getJobUpdate start
+[17:50:30] getJobUpdate finished
+[17:50:59] getJobUpdate start
+[17:51:00] getJobUpdate finished
+[17:51:37] getJobUpdate start
+[17:51:38] getJobUpdate finished
+[17:52:13] getJobUpdate start
+[17:52:14] getJobUpdate finished
+[17:52:43] getJobUpdate start
+[17:52:44] getJobUpdate finished
+[17:53:18] getJobUpdate start
+[17:53:19] getJobUpdate finished
+[17:53:49] getJobUpdate start
+[17:53:50] getJobUpdate finished
+[17:54:25] getJobUpdate start
+[17:54:26] getJobUpdate finished
+[17:54:55] getJobUpdate start
+[17:54:56] getJobUpdate finished
+[17:55:25] getJobUpdate start
+[17:55:25] getJobUpdate finished
+[17:56:06] getJobUpdate start
+[17:56:07] getJobUpdate finished
+[17:56:42] getJobUpdate start
+[17:56:42] getJobUpdate finished
+[17:57:18] getJobUpdate start
+[17:57:19] getJobUpdate finished
+[17:57:48] getJobUpdate start
+[17:57:49] getJobUpdate finished
+[17:58:24] getJobUpdate start
+[17:58:24] getJobUpdate finished
+[17:59:01] getJobUpdate start
+[17:59:02] getJobUpdate finished
+[17:59:38] getJobUpdate start
+[17:59:39] getJobUpdate finished
+[18:00:08] getJobUpdate start
+[18:00:09] getJobUpdate finished
+[18:00:45] getJobUpdate start
+[18:00:46] getJobUpdate finished
+[18:01:20] getJobUpdate start
+[18:01:20] getJobUpdate finished
+[18:01:50] getJobUpdate start
+[18:01:50] getJobUpdate finished
+[18:02:19] getJobUpdate start
+[18:02:19] getJobUpdate finished
+[18:02:48] getJobUpdate start
+[18:02:49] getJobUpdate finished
+[18:03:25] getJobUpdate start
+[18:03:25] getJobUpdate finished
+[18:04:00] getJobUpdate start
+[18:04:01] getJobUpdate finished
+[18:04:31] getJobUpdate start
+[18:04:32] getJobUpdate finished
+[18:05:07] getJobUpdate start
+[18:05:08] getJobUpdate finished
+[18:05:42] getJobUpdate start
+[18:05:43] getJobUpdate finished
+[18:06:19] getJobUpdate start
+[18:06:19] getJobUpdate finished
+[18:06:48] getJobUpdate start
+[18:06:49] getJobUpdate finished
+[18:07:35] getJobUpdate start
+[18:07:35] getJobUpdate finished
+[18:08:10] getJobUpdate start
+[18:08:11] getJobUpdate finished
+[18:08:46] getJobUpdate start
+[18:08:47] getJobUpdate finished
+[18:09:16] getJobUpdate start
+[18:09:16] getJobUpdate finished
+[18:09:52] getJobUpdate start
+[18:09:53] getJobUpdate finished
+[18:10:29] getJobUpdate start
+[18:10:30] getJobUpdate finished
+[18:11:06] getJobUpdate start
+[18:11:06] getJobUpdate finished
+[18:11:42] getJobUpdate start
+[18:11:43] getJobUpdate finished
+[18:12:17] getJobUpdate start
+[18:12:17] getJobUpdate finished
+[18:12:47] getJobUpdate start
+[18:12:48] getJobUpdate finished
+[18:13:23] getJobUpdate start
+[18:13:24] getJobUpdate finished
+[18:14:00] getJobUpdate start
+[18:14:01] getJobUpdate finished
+[18:14:36] getJobUpdate start
+[18:14:37] getJobUpdate finished
+[18:15:07] getJobUpdate start
+[18:15:07] getJobUpdate finished
+[18:15:44] getJobUpdate start
+[18:15:44] getJobUpdate finished
+[18:16:21] getJobUpdate start
+[18:16:22] getJobUpdate finished
+[18:16:58] getJobUpdate start
+[18:16:58] getJobUpdate finished
+[18:17:28] getJobUpdate start
+[18:17:28] getJobUpdate finished
+[18:17:58] getJobUpdate start
+[18:17:58] getJobUpdate finished
+[18:19:02] getJobUpdate start
+[18:19:03] getJobUpdate finished
+[18:19:38] getJobUpdate start
+[18:19:39] getJobUpdate finished
+[18:20:14] getJobUpdate start
+[18:20:15] getJobUpdate finished
+[18:20:50] getJobUpdate start
+[18:20:51] getJobUpdate finished
+[18:21:27] getJobUpdate start
+[18:21:28] getJobUpdate finished
+[18:22:08] getJobUpdate start
+[18:22:09] getJobUpdate finished
+[18:22:50] getJobUpdate start
+[18:22:50] getJobUpdate finished
+[18:23:33] getJobUpdate start
+[18:23:34] getJobUpdate finished
+[18:24:03] getJobUpdate start
+[18:24:03] getJobUpdate finished
+[18:24:39] getJobUpdate start
+[18:24:39] getJobUpdate finished
+[18:25:15] getJobUpdate start
+[18:25:16] getJobUpdate finished
+[18:25:52] getJobUpdate start
+[18:25:53] getJobUpdate finished
+[18:26:29] getJobUpdate start
+[18:26:29] getJobUpdate finished
+[18:27:05] getJobUpdate start
+[18:27:06] getJobUpdate finished
+[18:27:36] getJobUpdate start
+[18:27:36] getJobUpdate finished
+[18:28:12] getJobUpdate start
+[18:28:13] getJobUpdate finished
+[18:28:48] getJobUpdate start
+[18:28:49] getJobUpdate finished
+[18:29:25] getJobUpdate start
+[18:29:25] getJobUpdate finished
+[18:29:59] getJobUpdate start
+[18:30:00] getJobUpdate finished
+[18:30:36] getJobUpdate start
+[18:30:37] getJobUpdate finished
+[18:31:12] getJobUpdate start
+[18:31:13] getJobUpdate finished
+[18:31:49] getJobUpdate start
+[18:31:50] getJobUpdate finished
+[18:32:29] getJobUpdate start
+[18:32:30] getJobUpdate finished
+[18:33:06] getJobUpdate start
+[18:33:06] getJobUpdate finished
+[18:33:38] getJobUpdate start
+[18:33:38] getJobUpdate finished
+[18:34:14] getJobUpdate start
+[18:34:14] getJobUpdate finished
+[18:34:50] getJobUpdate start
+[18:34:50] getJobUpdate finished
+[18:35:27] getJobUpdate start
+[18:35:27] getJobUpdate finished
+[18:36:04] getJobUpdate start
+[18:36:05] getJobUpdate finished
+[18:36:40] getJobUpdate start
+[18:36:40] getJobUpdate finished
+[18:37:15] getJobUpdate start
+[18:37:16] getJobUpdate finished
+[18:37:46] getJobUpdate start
+[18:37:46] getJobUpdate finished
+[18:38:22] getJobUpdate start
+[18:38:22] getJobUpdate finished
+[18:38:52] getJobUpdate start
+[18:38:53] getJobUpdate finished
+[18:39:32] getJobUpdate start
+[18:39:32] getJobUpdate finished
+[18:40:02] getJobUpdate start
+[18:40:02] getJobUpdate finished
+[18:40:32] getJobUpdate start
+[18:40:33] getJobUpdate finished
+[18:41:11] getJobUpdate start
+[18:41:12] getJobUpdate finished
+[18:41:42] getJobUpdate start
+[18:41:42] getJobUpdate finished
+[18:42:12] getJobUpdate start
+[18:42:13] getJobUpdate finished
+[18:42:43] getJobUpdate start
+[18:42:43] getJobUpdate finished
+[18:43:19] getJobUpdate start
+[18:43:19] getJobUpdate finished
+[18:43:49] getJobUpdate start
+[18:43:50] getJobUpdate finished
+[18:44:26] getJobUpdate start
+[18:44:27] getJobUpdate finished
+[18:44:56] getJobUpdate start
+[18:44:56] getJobUpdate finished
+[18:45:33] getJobUpdate start
+[18:45:33] getJobUpdate finished
+[18:46:10] getJobUpdate start
+[18:46:10] getJobUpdate finished
+[18:46:47] getJobUpdate start
+[18:46:47] getJobUpdate finished
+[18:47:23] getJobUpdate start
+[18:47:23] getJobUpdate finished
+[18:48:00] getJobUpdate start
+[18:48:00] getJobUpdate finished
+[18:48:36] getJobUpdate start
+[18:48:37] getJobUpdate finished
+[18:49:06] getJobUpdate start
+[18:49:07] getJobUpdate finished
+[18:49:36] getJobUpdate start
+[18:49:37] getJobUpdate finished
+[18:50:13] getJobUpdate start
+[18:50:13] getJobUpdate finished
+[18:50:42] getJobUpdate start
+[18:50:43] getJobUpdate finished
+[18:51:13] getJobUpdate start
+[18:51:13] getJobUpdate finished
+[18:51:42] getJobUpdate start
+[18:51:42] getJobUpdate finished
+[18:52:18] getJobUpdate start
+[18:52:19] getJobUpdate finished
+[18:52:54] getJobUpdate start
+[18:52:54] getJobUpdate finished
+[18:53:31] getJobUpdate start
+[18:53:31] getJobUpdate finished
+[18:54:01] getJobUpdate start
+[18:54:01] getJobUpdate finished
+[18:54:31] getJobUpdate start
+[18:54:31] getJobUpdate finished
+[18:55:06] getJobUpdate start
+[18:55:07] getJobUpdate finished
+[18:55:42] getJobUpdate start
+[18:55:43] getJobUpdate finished
+[18:56:13] getJobUpdate start
+[18:56:13] getJobUpdate finished
+[18:56:42] getJobUpdate start
+[18:56:42] getJobUpdate finished
+[18:57:12] getJobUpdate start
+[18:57:12] getJobUpdate finished
+[18:57:42] getJobUpdate start
+[18:57:42] getJobUpdate finished
+[18:58:12] getJobUpdate start
+[18:58:12] getJobUpdate finished
+[18:58:47] getJobUpdate start
+[18:58:48] getJobUpdate finished
+[18:59:23] getJobUpdate start
+[18:59:23] getJobUpdate finished
+[18:59:52] getJobUpdate start
+[18:59:52] getJobUpdate finished
+[19:00:22] getJobUpdate start
+[19:00:23] getJobUpdate finished
+[19:00:58] getJobUpdate start
+[19:00:58] getJobUpdate finished
+[19:01:35] getJobUpdate start
+[19:01:35] getJobUpdate finished
+[19:02:04] getJobUpdate start
+[19:02:04] getJobUpdate finished
+[19:02:30] 2012.12.11.digitiser_edm_concept_rough/Design 1/Scenario 1 solver finished at Wed 14. Nov 19:02:30 2012 on PHIL-PC with code = 0

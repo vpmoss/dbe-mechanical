@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Part_Summary_Data>
+    <Units>mm</Units>
+    <This_Parts_Data id="1">
+        <Part_Volume>404.6</Part_Volume>
+        <Part_TAvg>321.793</Part_TAvg>
+        <Part_TMin>321.499</Part_TMin>
+        <Part_TMax>322.026</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="2">
+        <Part_Volume>404.6</Part_Volume>
+        <Part_TAvg>321.88</Part_TAvg>
+        <Part_TMin>321.616</Part_TMin>
+        <Part_TMax>322.055</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="3">
+        <Part_Volume>153000</Part_Volume>
+        <Part_TAvg>320.042</Part_TAvg>
+        <Part_TMin>318.357</Part_TMin>
+        <Part_TMax>326.79</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="4">
+        <Part_Volume>8000</Part_Volume>
+        <Part_TAvg>326.46</Part_TAvg>
+        <Part_TMin>325.762</Part_TMin>
+        <Part_TMax>326.79</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="5">
+        <Part_Volume>23546.3</Part_Volume>
+        <Part_TAvg>319.998</Part_TAvg>
+        <Part_TMin>319.296</Part_TMin>
+        <Part_TMax>320.465</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="6">
+        <Part_Volume>27305</Part_Volume>
+        <Part_TAvg>319.995</Part_TAvg>
+        <Part_TMin>318.935</Part_TMin>
+        <Part_TMax>322.534</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="7"/>
+    <This_Parts_Data id="8">
+        <Part_Volume>1936</Part_Volume>
+        <Part_TAvg>322.37</Part_TAvg>
+        <Part_TMin>322.116</Part_TMin>
+        <Part_TMax>322.534</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="9">
+        <Part_Volume>1950.75</Part_Volume>
+        <Part_TAvg>320.924</Part_TAvg>
+        <Part_TMin>320.705</Part_TMin>
+        <Part_TMax>321.195</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="10">
+        <Part_Volume>27305</Part_Volume>
+        <Part_TAvg>319.837</Part_TAvg>
+        <Part_TMin>318.698</Part_TMin>
+        <Part_TMax>322.284</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="11"/>
+    <This_Parts_Data id="12">
+        <Part_Volume>1936</Part_Volume>
+        <Part_TAvg>322.121</Part_TAvg>
+        <Part_TMin>321.86</Part_TMin>
+        <Part_TMax>322.284</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="13">
+        <Part_Volume>1950.75</Part_Volume>
+        <Part_TAvg>320.695</Part_TAvg>
+        <Part_TMin>320.531</Part_TMin>
+        <Part_TMax>320.98</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="14">
+        <Part_Volume>5.25166e+06</Part_Volume>
+        <Part_TAvg>318.878</Part_TAvg>
+        <Part_TMin>317.419</Part_TMin>
+        <Part_TMax>320.091</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="15">
+        <Part_Volume>2.90423e+06</Part_Volume>
+        <Part_TAvg>319.279</Part_TAvg>
+        <Part_TMin>317.474</Part_TMin>
+        <Part_TMax>326.519</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="16">
+        <Part_Volume>2.79801e+06</Part_Volume>
+        <Part_TAvg>318.545</Part_TAvg>
+        <Part_TMin>316.951</Part_TMin>
+        <Part_TMax>322.373</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="17">
+        <Part_Volume>564484</Part_Volume>
+        <Part_TAvg>319.286</Part_TAvg>
+        <Part_TMin>319.052</Part_TMin>
+        <Part_TMax>319.501</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="18">
+        <Part_Volume>1.125e+06</Part_Volume>
+        <Part_TAvg>318.816</Part_TAvg>
+        <Part_TMin>318.218</Part_TMin>
+        <Part_TMax>319.314</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="19">
+        <Part_Volume>1.125e+06</Part_Volume>
+        <Part_TAvg>318.82</Part_TAvg>
+        <Part_TMin>318.178</Part_TMin>
+        <Part_TMax>319.257</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="20">
+        <Part_Volume>3.55719e+06</Part_Volume>
+        <Part_TAvg>319.889</Part_TAvg>
+        <Part_TMin>317.843</Part_TMin>
+        <Part_TMax>326.604</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="21">
+        <Part_Volume>2.97717e+06</Part_Volume>
+        <Part_TAvg>319.276</Part_TAvg>
+        <Part_TMin>317.374</Part_TMin>
+        <Part_TMax>322.447</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="22">
+        <Part_Volume>300000</Part_Volume>
+        <Part_TAvg>319.197</Part_TAvg>
+        <Part_TMin>319.084</Part_TMin>
+        <Part_TMax>319.32</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="23">
+        <Part_Volume>300000</Part_Volume>
+        <Part_TAvg>319.233</Part_TAvg>
+        <Part_TMin>319.12</Part_TMin>
+        <Part_TMax>319.368</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="24">
+        <Part_Volume>1.8295e+06</Part_Volume>
+        <Part_TAvg>319.038</Part_TAvg>
+        <Part_TMin>318.18</Part_TMin>
+        <Part_TMax>319.424</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="25">
+        <Part_Volume>1.14e+06</Part_Volume>
+        <Part_TAvg>318.886</Part_TAvg>
+        <Part_TMin>317.952</Part_TMin>
+        <Part_TMax>319.345</Part_TMax>
+    </This_Parts_Data>
+    <This_Parts_Data id="26">
+        <Part_Volume>9.75856e+08</Part_Volume>
+        <Part_TAvg>316.891</Part_TAvg>
+        <Part_TMin>313.15</Part_TMin>
+        <Part_TMax>322.985</Part_TMax>
+    </This_Parts_Data>
+</Part_Summary_Data>

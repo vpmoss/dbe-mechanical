@@ -1,0 +1,118 @@
+[15:55:41] System language is C
+[15:55:41] Completed pre-event loop tasks in 0.295 sec
+[15:55:41] adlmInitialize
+[15:55:41] adlmHandleOpen
+[15:55:41] adlmHandleSetSilentMode
+[15:55:42] adlmLicenseCreate
+[15:55:42] ADLM: startup success
+[15:55:42] License path is C:\Program Files\Autodesk\Simulation CFD 2013\licpath.lic
+[15:55:42] Initializing license manager...
+[15:55:42] Checkout - Feature:CFD UI Version:2013.0.0.F Product Key:812E1 Product Code:SCDSE
+[15:55:42] Checkout - adlmLicenseCheckout:start
+[15:55:43] Checkout - ret:0
+[15:55:43] Command:lmutil lmborrow -status
+[15:55:43] WorkDir:
+[15:55:43] Output:
+[15:55:43]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[15:55:43] Checkout - Feature:CFD UI Success
+[15:55:43] Checkout done
+[15:55:43] Initialized licensing in 1.165 sec
+[15:55:46] Created main window in 3.502 sec
+[15:55:46] Loaded layout in 0.001 sec
+[15:55:46] Completed post-event loop tasks in 4.965 sec
+[15:55:46] External fragmentation is 0
+[15:55:46] Internal fragmentation is 0.961621
+[15:55:46] External fragmentation is 0.015544
+[15:55:46] Internal fragmentation is 0.0190083
+[15:55:51] External fragmentation is 0
+[15:55:51] Internal fragmentation is 0.00137435
+[15:55:51] External fragmentation is 0
+[15:55:51] Internal fragmentation is 0.02985
+[15:55:55] External fragmentation is 0
+[15:55:55] Internal fragmentation is 0.22427
+[15:55:55] CadPackage:CP_GRANITE CadInterface:4
+[15:55:55] Checkout - Feature:CFD Wildfire Version:2013.0.0.F Product Key:822E1 Product Code:SCPROE
+[15:55:55] Checkout - adlmLicenseCheckout:start
+[15:55:56] Checkout - ret:0
+[15:55:56] Command:lmutil lmborrow -status
+[15:55:56] WorkDir:
+[15:55:57] Output:
+[15:55:57]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[15:55:57] Checkout - Feature:CFD Wildfire Success
+[15:55:57] Checkout done
+[15:55:57] CadPackage:CP_GRANITE CadInterface:4
+[15:55:57] Checkout - Feature:CFD Wildfire Version:2013.0.0.F Product Key:822E1 Product Code:SCPROE
+[15:55:57] Checkout - adlmLicenseCheckout:start
+[15:55:58] Checkout - ret:0
+[15:55:58] Command:lmutil lmborrow -status
+[15:55:58] WorkDir:
+[15:55:58] Output:
+[15:55:58]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[15:55:58] Checkout - Feature:CFD Wildfire Success
+[15:55:58] Checkout done
+[15:56:05] Starting web check
+[15:56:07] Processing web data
+[15:56:11] CadPackage:CP_GRANITE CadInterface:4
+[15:56:11] Checkout - Feature:CFD Wildfire Version:2013.0.0.F Product Key:822E1 Product Code:SCPROE
+[15:56:11] Checkout - adlmLicenseCheckout:start
+[15:56:12] Checkout - ret:0
+[15:56:12] Command:lmutil lmborrow -status
+[15:56:12] WorkDir:
+[15:56:12] Output:
+[15:56:12]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[15:56:12] Checkout - Feature:CFD Wildfire Success
+[15:56:12] Checkout done
+[15:56:12] CadPackage:CP_GRANITE CadInterface:4
+[15:56:12] Checkout - Feature:CFD Wildfire Version:2013.0.0.F Product Key:822E1 Product Code:SCPROE
+[15:56:12] Checkout - adlmLicenseCheckout:start
+[15:56:13] Checkout - ret:0
+[15:56:13] Command:lmutil lmborrow -status
+[15:56:13] WorkDir:
+[15:56:13] Output:
+[15:56:13]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[15:56:13] Checkout - Feature:CFD Wildfire Success
+[15:56:13] Checkout done
+[15:59:59] Command:lmutil lmborrow -status
+[15:59:59] WorkDir:
+[15:59:59] Output:
+[15:59:59]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[15:59:59] 2012.12.11.digitiser_edm_concept_rough/Design 2/Scenario 1 job started at Wed 14. Nov 15:59:59 2012 on PHIL-PC
+[16:00:00] 2012.12.11.digitiser_edm_concept_rough/Design 2/Scenario 1 mesher started at Wed 14. Nov 16:00:00 2012 on PHIL-PC
+[16:01:21] 2012.12.11.digitiser_edm_concept_rough/Design 2/Scenario 1 mesher finished at Wed 14. Nov 16:01:21 2012 on PHIL-PC with code = 0
+[16:01:23] Mesher finished copying files
+[16:01:23] 2012.12.11.digitiser_edm_concept_rough/Design 2/Scenario 1 solver started at Wed 14. Nov 16:01:22 2012 on PHIL-PC
+[16:01:40] getJobUpdate start
+[16:01:43] getJobUpdate finished
+[16:02:02] getJobUpdate start
+[16:02:03] getJobUpdate finished
+[16:02:13] getJobUpdate start
+[16:02:13] getJobUpdate finished
+[16:02:23] getJobUpdate start
+[16:02:24] getJobUpdate finished
+[16:02:35] getJobUpdate start
+[16:02:35] getJobUpdate finished
+[16:02:46] getJobUpdate start
+[16:02:46] getJobUpdate finished
+[16:02:56] getJobUpdate start
+[16:02:57] getJobUpdate finished
+[16:03:09] getJobUpdate start
+[16:03:09] getJobUpdate finished
+[16:03:36] 2012.12.11.digitiser_edm_concept_rough/Design 2/Scenario 1 solver finished at Wed 14. Nov 16:03:36 2012 on PHIL-PC with code = 0
+[16:03:39] 2012.12.11.digitiser_edm_concept_rough/Design 2/Scenario 1 job finished at Wed 14. Nov 16:03:39 2012 on PHIL-PC
+[16:03:56] Command:lmutil lmborrow -status
+[16:03:56] WorkDir:
+[16:03:56] Output:
+[16:03:56]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[16:03:56] 2012.12.11.digitiser_edm_concept_rough/Design 2/Scenario 1 job started at Wed 14. Nov 16:03:56 2012 on PHIL-PC
+[16:03:57] 2012.12.11.digitiser_edm_concept_rough/Design 2/Scenario 1 solver started at Wed 14. Nov 16:03:57 2012 on PHIL-PC
+[16:04:36] Command:lmutil lmborrow -status
+[16:04:36] WorkDir:
+[16:04:36] Output:
+[16:04:36]   lmutil - Copyright (c) 1989-2011 Flexera Software, Inc. All Rights Reserved.
+[16:11:58] getJobUpdate start
+[16:12:00] getJobUpdate finished
+[16:12:19] getJobUpdate start
+[16:12:19] getJobUpdate finished
+[16:12:42] getJobUpdate start
+[16:12:42] getJobUpdate finished
+[16:13:26] 2012.12.11.digitiser_edm_concept_rough/Design 2/Scenario 1 solver finished at Wed 14. Nov 16:13:26 2012 on PHIL-PC with code = 0

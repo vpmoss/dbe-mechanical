@@ -1,0 +1,2072 @@
+Model successfully read and processed
+Meshing constraints read successfully.
+(0) Surface Meshing started
+(1) Structured Meshing started
+(1) Structured Meshing finished: CPU time: 0.0156001 s, clock time: 0.006 s
+(1) Face Meshing started
+(1) Face Meshing 1/496
+tag = 1, type = Plane -> CFdesign ID = 1
+(1) Face Meshing 2/496
+tag = 2, type = Plane -> CFdesign ID = 2
+(1) Face Meshing 3/496
+tag = 3, type = Plane -> CFdesign ID = 3
+(1) Face Meshing 4/496
+tag = 4, type = Plane -> CFdesign ID = 4
+(1) Face Meshing 5/496
+tag = 5, type = Plane -> CFdesign ID = 5
+(1) Face Meshing 6/496
+tag = 6, type = Plane -> CFdesign ID = 6
+(1) Face Meshing 7/496
+tag = 7, type = Plane -> CFdesign ID = 7
+(1) Face Meshing 8/496
+tag = 8, type = Plane -> CFdesign ID = 8
+(1) Face Meshing 9/496
+tag = 9, type = Plane -> CFdesign ID = 9
+(1) Face Meshing 10/496
+tag = 10, type = Plane -> CFdesign ID = 10
+(1) Face Meshing 11/496
+tag = 11, type = Plane -> CFdesign ID = 11
+(1) Face Meshing 12/496
+tag = 12, type = Plane -> CFdesign ID = 12
+(1) Face Meshing 13/496
+tag = 13, type = Plane -> CFdesign ID = 13
+(1) Face Meshing 14/496
+tag = 14, type = Plane -> CFdesign ID = 14
+(1) Face Meshing 15/496
+tag = 15, type = Plane -> CFdesign ID = 15
+(1) Face Meshing 16/496
+tag = 16, type = Plane -> CFdesign ID = 16
+(1) Face Meshing 17/496
+tag = 17, type = Plane -> CFdesign ID = 17
+(1) Face Meshing 18/496
+tag = 18, type = Plane -> CFdesign ID = 18
+(1) Face Meshing 19/496
+tag = 19, type = Plane -> CFdesign ID = 19
+(1) Face Meshing 20/496
+tag = 20, type = Plane -> CFdesign ID = 20
+(1) Face Meshing 21/496
+tag = 21, type = Plane -> CFdesign ID = 21
+(1) Face Meshing 22/496
+tag = 22, type = Plane -> CFdesign ID = 22
+(1) Face Meshing 23/496
+tag = 23, type = Plane -> CFdesign ID = 23
+(1) Face Meshing 24/496
+tag = 24, type = Plane -> CFdesign ID = 24
+(1) Face Meshing 25/496
+tag = 25, type = Plane -> CFdesign ID = 25
+(1) Face Meshing 26/496
+tag = 26, type = Plane -> CFdesign ID = 26
+(1) Face Meshing 27/496
+tag = 27, type = Plane -> CFdesign ID = 27
+(1) Face Meshing 28/496
+tag = 28, type = Plane -> CFdesign ID = 28
+(1) Face Meshing 29/496
+tag = 29, type = Plane -> CFdesign ID = 29
+(1) Face Meshing 30/496
+tag = 30, type = Plane -> CFdesign ID = 30
+(1) Face Meshing 31/496
+tag = 31, type = Plane -> CFdesign ID = 31
+(1) Face Meshing 32/496
+tag = 32, type = Plane -> CFdesign ID = 32
+(1) Face Meshing 33/496
+tag = 33, type = Plane -> CFdesign ID = 33
+(1) Face Meshing 34/496
+tag = 34, type = Plane -> CFdesign ID = 34
+(1) Face Meshing 35/496
+tag = 35, type = Plane -> CFdesign ID = 35
+(1) Face Meshing 36/496
+tag = 36, type = Plane -> CFdesign ID = 36
+(1) Face Meshing 37/496
+tag = 37, type = Plane -> CFdesign ID = 37
+(1) Face Meshing 38/496
+tag = 38, type = Plane -> CFdesign ID = 38
+(1) Face Meshing 39/496
+tag = 39, type = Plane -> CFdesign ID = 39
+(1) Face Meshing 40/496
+tag = 40, type = Plane -> CFdesign ID = 40
+(1) Face Meshing 41/496
+tag = 41, type = Plane -> CFdesign ID = 41
+(1) Face Meshing 42/496
+tag = 42, type = Plane -> CFdesign ID = 42
+(1) Face Meshing 43/496
+tag = 43, type = Plane -> CFdesign ID = 43
+(1) Face Meshing 44/496
+tag = 44, type = Plane -> CFdesign ID = 44
+(1) Face Meshing 45/496
+tag = 45, type = Plane -> CFdesign ID = 45
+(1) Face Meshing 46/496
+tag = 46, type = Plane -> CFdesign ID = 46
+(1) Face Meshing 47/496
+tag = 47, type = Plane -> CFdesign ID = 47
+(1) Face Meshing 48/496
+tag = 48, type = Plane -> CFdesign ID = 48
+(1) Face Meshing 49/496
+tag = 49, type = Plane -> CFdesign ID = 49
+(1) Face Meshing 50/496
+tag = 50, type = Plane -> CFdesign ID = 50
+(1) Face Meshing 51/496
+tag = 51, type = Plane -> CFdesign ID = 51
+(1) Face Meshing 52/496
+tag = 52, type = Plane -> CFdesign ID = 52
+(1) Face Meshing 53/496
+tag = 53, type = Plane -> CFdesign ID = 53
+(1) Face Meshing 54/496
+tag = 54, type = Plane -> CFdesign ID = 54
+(1) Face Meshing 55/496
+tag = 55, type = Plane -> CFdesign ID = 55
+(1) Face Meshing 56/496
+tag = 56, type = Plane -> CFdesign ID = 56
+(1) Face Meshing 57/496
+tag = 57, type = Plane -> CFdesign ID = 57
+(1) Face Meshing 58/496
+tag = 58, type = Plane -> CFdesign ID = 58
+(1) Face Meshing 59/496
+tag = 59, type = Plane -> CFdesign ID = 59
+(1) Face Meshing 60/496
+tag = 60, type = Plane -> CFdesign ID = 60
+(1) Face Meshing 61/496
+tag = 61, type = Plane -> CFdesign ID = 61
+(1) Face Meshing 62/496
+tag = 62, type = Plane -> CFdesign ID = 62
+(1) Face Meshing 63/496
+tag = 63, type = Plane -> CFdesign ID = 63
+(1) Face Meshing 64/496
+tag = 64, type = Plane -> CFdesign ID = 64
+(1) Face Meshing 65/496
+tag = 65, type = Plane -> CFdesign ID = 65
+(1) Face Meshing 66/496
+tag = 66, type = Plane -> CFdesign ID = 66
+(1) Face Meshing 67/496
+tag = 67, type = Plane -> CFdesign ID = 67
+(1) Face Meshing 68/496
+tag = 68, type = Plane -> CFdesign ID = 68
+(1) Face Meshing 69/496
+tag = 69, type = Plane -> CFdesign ID = 69
+(1) Face Meshing 70/496
+tag = 70, type = Plane -> CFdesign ID = 70
+(1) Face Meshing 71/496
+tag = 71, type = Plane -> CFdesign ID = 71
+(1) Face Meshing 72/496
+tag = 72, type = Plane -> CFdesign ID = 72
+(1) Face Meshing 73/496
+tag = 73, type = Plane -> CFdesign ID = 73
+(1) Face Meshing 74/496
+tag = 74, type = Plane -> CFdesign ID = 74
+(1) Face Meshing 75/496
+tag = 75, type = Plane -> CFdesign ID = 75
+(1) Face Meshing 76/496
+tag = 76, type = Plane -> CFdesign ID = 76
+(1) Face Meshing 77/496
+tag = 77, type = Plane -> CFdesign ID = 77
+(1) Face Meshing 78/496
+tag = 78, type = Plane -> CFdesign ID = 78
+(1) Face Meshing 79/496
+tag = 79, type = Plane -> CFdesign ID = 79
+(1) Face Meshing 80/496
+tag = 80, type = Plane -> CFdesign ID = 80
+(1) Face Meshing 81/496
+tag = 81, type = Plane -> CFdesign ID = 81
+(1) Face Meshing 82/496
+tag = 82, type = Plane -> CFdesign ID = 82
+(1) Face Meshing 83/496
+tag = 83, type = Plane -> CFdesign ID = 83
+(1) Face Meshing 84/496
+tag = 84, type = Plane -> CFdesign ID = 84
+(1) Face Meshing 85/496
+tag = 85, type = Plane -> CFdesign ID = 85
+(1) Face Meshing 86/496
+tag = 86, type = Plane -> CFdesign ID = 86
+(1) Face Meshing 87/496
+tag = 87, type = Plane -> CFdesign ID = 87
+(1) Face Meshing 88/496
+tag = 88, type = Plane -> CFdesign ID = 88
+(1) Face Meshing 89/496
+tag = 89, type = Plane -> CFdesign ID = 89
+(1) Face Meshing 90/496
+tag = 90, type = Plane -> CFdesign ID = 90
+(1) Face Meshing 91/496
+tag = 91, type = Plane -> CFdesign ID = 91
+(1) Face Meshing 92/496
+tag = 92, type = Plane -> CFdesign ID = 92
+(1) Face Meshing 93/496
+tag = 93, type = Plane -> CFdesign ID = 93
+(1) Face Meshing 94/496
+tag = 94, type = Plane -> CFdesign ID = 94
+(1) Face Meshing 95/496
+tag = 95, type = Plane -> CFdesign ID = 95
+(1) Face Meshing 96/496
+tag = 96, type = Plane -> CFdesign ID = 96
+(1) Face Meshing 97/496
+tag = 97, type = Plane -> CFdesign ID = 97
+(1) Face Meshing 98/496
+tag = 98, type = Plane -> CFdesign ID = 98
+(1) Face Meshing 99/496
+tag = 99, type = Plane -> CFdesign ID = 99
+(1) Face Meshing 100/496
+tag = 100, type = Plane -> CFdesign ID = 100
+(1) Face Meshing 101/496
+tag = 101, type = Plane -> CFdesign ID = 101
+(1) Face Meshing 102/496
+tag = 102, type = Plane -> CFdesign ID = 102
+(1) Face Meshing 103/496
+tag = 103, type = Plane -> CFdesign ID = 103
+(1) Face Meshing 104/496
+tag = 104, type = Plane -> CFdesign ID = 104
+(1) Face Meshing 105/496
+tag = 105, type = Plane -> CFdesign ID = 105
+(1) Face Meshing 106/496
+tag = 106, type = Plane -> CFdesign ID = 106
+(1) Face Meshing 107/496
+tag = 107, type = Plane -> CFdesign ID = 107
+(1) Face Meshing 108/496
+tag = 108, type = Plane -> CFdesign ID = 108
+(1) Face Meshing 109/496
+tag = 109, type = Plane -> CFdesign ID = 109
+(1) Face Meshing 110/496
+tag = 110, type = Plane -> CFdesign ID = 110
+(1) Face Meshing 111/496
+tag = 111, type = Plane -> CFdesign ID = 111
+(1) Face Meshing 112/496
+tag = 112, type = Plane -> CFdesign ID = 112
+(1) Face Meshing 113/496
+tag = 113, type = Plane -> CFdesign ID = 113
+(1) Face Meshing 114/496
+tag = 114, type = Plane -> CFdesign ID = 114
+(1) Face Meshing 115/496
+tag = 115, type = Plane -> CFdesign ID = 115
+(1) Face Meshing 116/496
+tag = 116, type = Plane -> CFdesign ID = 116
+(1) Face Meshing 117/496
+tag = 117, type = Plane -> CFdesign ID = 117
+(1) Face Meshing 118/496
+tag = 118, type = Plane -> CFdesign ID = 118
+(1) Face Meshing 119/496
+tag = 119, type = Plane -> CFdesign ID = 119
+(1) Face Meshing 120/496
+tag = 120, type = Plane -> CFdesign ID = 120
+(1) Face Meshing 121/496
+tag = 121, type = Plane -> CFdesign ID = 121
+(1) Face Meshing 122/496
+tag = 122, type = Plane -> CFdesign ID = 122
+(1) Face Meshing 123/496
+tag = 123, type = Plane -> CFdesign ID = 123
+(1) Face Meshing 124/496
+tag = 124, type = Plane -> CFdesign ID = 124
+(1) Face Meshing 125/496
+tag = 125, type = Plane -> CFdesign ID = 125
+(1) Face Meshing 126/496
+tag = 126, type = Plane -> CFdesign ID = 126
+(1) Face Meshing 127/496
+tag = 127, type = Plane -> CFdesign ID = 127
+(1) Face Meshing 128/496
+tag = 128, type = Plane -> CFdesign ID = 128
+(1) Face Meshing 129/496
+tag = 129, type = Plane -> CFdesign ID = 129
+(1) Face Meshing 130/496
+tag = 130, type = Plane -> CFdesign ID = 130
+(1) Face Meshing 131/496
+tag = 131, type = Plane -> CFdesign ID = 131
+(1) Face Meshing 132/496
+tag = 132, type = Plane -> CFdesign ID = 132
+(1) Face Meshing 133/496
+tag = 133, type = Plane -> CFdesign ID = 133
+(1) Face Meshing 134/496
+tag = 134, type = Plane -> CFdesign ID = 134
+(1) Face Meshing 135/496
+tag = 135, type = Plane -> CFdesign ID = 135
+(1) Face Meshing 136/496
+tag = 136, type = Plane -> CFdesign ID = 136
+(1) Face Meshing 137/496
+tag = 137, type = Plane -> CFdesign ID = 137
+(1) Face Meshing 138/496
+tag = 138, type = Plane -> CFdesign ID = 138
+(1) Face Meshing 139/496
+tag = 139, type = Plane -> CFdesign ID = 139
+(1) Face Meshing 140/496
+tag = 140, type = Plane -> CFdesign ID = 140
+(1) Face Meshing 141/496
+tag = 141, type = Plane -> CFdesign ID = 141
+(1) Face Meshing 142/496
+tag = 142, type = Plane -> CFdesign ID = 142
+(1) Face Meshing 143/496
+tag = 143, type = Plane -> CFdesign ID = 143
+(1) Face Meshing 144/496
+tag = 144, type = Plane -> CFdesign ID = 144
+(1) Face Meshing 145/496
+tag = 145, type = Plane -> CFdesign ID = 145
+(1) Face Meshing 146/496
+tag = 146, type = Plane -> CFdesign ID = 146
+(1) Face Meshing 147/496
+tag = 147, type = Plane -> CFdesign ID = 147
+(1) Face Meshing 148/496
+tag = 148, type = Plane -> CFdesign ID = 148
+(1) Face Meshing 149/496
+tag = 149, type = Plane -> CFdesign ID = 149
+(1) Face Meshing 150/496
+tag = 150, type = Plane -> CFdesign ID = 150
+(1) Face Meshing 151/496
+tag = 151, type = Plane -> CFdesign ID = 151
+(1) Face Meshing 152/496
+tag = 152, type = Plane -> CFdesign ID = 152
+(1) Face Meshing 153/496
+tag = 153, type = Plane -> CFdesign ID = 153
+(1) Face Meshing 154/496
+tag = 154, type = Plane -> CFdesign ID = 154
+(1) Face Meshing 155/496
+tag = 155, type = Plane -> CFdesign ID = 155
+(1) Face Meshing 156/496
+tag = 156, type = Plane -> CFdesign ID = 156
+(1) Face Meshing 157/496
+tag = 157, type = Plane -> CFdesign ID = 157
+(1) Face Meshing 158/496
+tag = 158, type = Plane -> CFdesign ID = 158
+(1) Face Meshing 159/496
+tag = 159, type = Plane -> CFdesign ID = 159
+(1) Face Meshing 160/496
+tag = 160, type = Plane -> CFdesign ID = 160
+(1) Face Meshing 161/496
+tag = 161, type = Plane -> CFdesign ID = 161
+(1) Face Meshing 162/496
+tag = 162, type = Plane -> CFdesign ID = 162
+(1) Face Meshing 163/496
+tag = 163, type = Plane -> CFdesign ID = 163
+(1) Face Meshing 164/496
+tag = 164, type = Plane -> CFdesign ID = 164
+(1) Face Meshing 165/496
+tag = 165, type = Plane -> CFdesign ID = 165
+(1) Face Meshing 166/496
+tag = 166, type = Plane -> CFdesign ID = 166
+(1) Face Meshing 167/496
+tag = 167, type = Plane -> CFdesign ID = 167
+(1) Face Meshing 168/496
+tag = 168, type = Plane -> CFdesign ID = 168
+(1) Face Meshing 169/496
+tag = 169, type = Plane -> CFdesign ID = 169
+(1) Face Meshing 170/496
+tag = 170, type = Plane -> CFdesign ID = 170
+(1) Face Meshing 171/496
+tag = 171, type = Plane -> CFdesign ID = 171
+(1) Face Meshing 172/496
+tag = 172, type = Plane -> CFdesign ID = 172
+(1) Face Meshing 173/496
+tag = 173, type = Plane -> CFdesign ID = 173
+(1) Face Meshing 174/496
+tag = 174, type = Plane -> CFdesign ID = 174
+(1) Face Meshing 175/496
+tag = 175, type = Plane -> CFdesign ID = 175
+(1) Face Meshing 176/496
+tag = 176, type = Plane -> CFdesign ID = 176
+(1) Face Meshing 177/496
+tag = 177, type = Plane -> CFdesign ID = 177
+(1) Face Meshing 178/496
+tag = 178, type = Plane -> CFdesign ID = 178
+(1) Face Meshing 179/496
+tag = 179, type = Plane -> CFdesign ID = 179
+(1) Face Meshing 180/496
+tag = 180, type = Plane -> CFdesign ID = 180
+(1) Face Meshing 181/496
+tag = 181, type = Plane -> CFdesign ID = 181
+(1) Face Meshing 182/496
+tag = 182, type = Plane -> CFdesign ID = 182
+(1) Face Meshing 183/496
+tag = 183, type = Plane -> CFdesign ID = 183
+(1) Face Meshing 184/496
+tag = 184, type = Plane -> CFdesign ID = 184
+(1) Face Meshing 185/496
+tag = 185, type = Plane -> CFdesign ID = 185
+(1) Face Meshing 186/496
+tag = 186, type = Plane -> CFdesign ID = 186
+(1) Face Meshing 187/496
+tag = 187, type = Plane -> CFdesign ID = 187
+(1) Face Meshing 188/496
+tag = 188, type = Plane -> CFdesign ID = 188
+(1) Face Meshing 189/496
+tag = 189, type = Plane -> CFdesign ID = 189
+(1) Face Meshing 190/496
+tag = 190, type = Plane -> CFdesign ID = 190
+(1) Face Meshing 191/496
+tag = 191, type = Plane -> CFdesign ID = 191
+(1) Face Meshing 192/496
+tag = 192, type = Plane -> CFdesign ID = 192
+(1) Face Meshing 193/496
+tag = 193, type = Plane -> CFdesign ID = 193
+(1) Face Meshing 194/496
+tag = 194, type = Plane -> CFdesign ID = 194
+(1) Face Meshing 195/496
+tag = 195, type = Plane -> CFdesign ID = 195
+(1) Face Meshing 196/496
+tag = 196, type = Plane -> CFdesign ID = 196
+(1) Face Meshing 197/496
+tag = 197, type = Plane -> CFdesign ID = 197
+(1) Face Meshing 198/496
+tag = 198, type = Plane -> CFdesign ID = 198
+(1) Face Meshing 199/496
+tag = 199, type = Plane -> CFdesign ID = 199
+(1) Face Meshing 200/496
+tag = 200, type = Plane -> CFdesign ID = 200
+(1) Face Meshing 201/496
+tag = 201, type = Plane -> CFdesign ID = 201
+(1) Face Meshing 202/496
+tag = 202, type = Plane -> CFdesign ID = 202
+(1) Face Meshing 203/496
+tag = 203, type = Plane -> CFdesign ID = 203
+(1) Face Meshing 204/496
+tag = 204, type = Plane -> CFdesign ID = 204
+(1) Face Meshing 205/496
+tag = 205, type = Plane -> CFdesign ID = 205
+(1) Face Meshing 206/496
+tag = 206, type = Plane -> CFdesign ID = 206
+(1) Face Meshing 207/496
+tag = 207, type = Plane -> CFdesign ID = 207
+(1) Face Meshing 208/496
+tag = 208, type = Plane -> CFdesign ID = 208
+(1) Face Meshing 209/496
+tag = 209, type = Plane -> CFdesign ID = 209
+(1) Face Meshing 210/496
+tag = 210, type = Plane -> CFdesign ID = 210
+(1) Face Meshing 211/496
+tag = 211, type = Plane -> CFdesign ID = 211
+(1) Face Meshing 212/496
+tag = 212, type = Plane -> CFdesign ID = 212
+(1) Face Meshing 213/496
+tag = 213, type = Plane -> CFdesign ID = 213
+(1) Face Meshing 214/496
+tag = 214, type = Plane -> CFdesign ID = 214
+(1) Face Meshing 215/496
+tag = 215, type = Plane -> CFdesign ID = 215
+(1) Face Meshing 216/496
+tag = 216, type = Plane -> CFdesign ID = 216
+(1) Face Meshing 217/496
+tag = 217, type = Plane -> CFdesign ID = 217
+(1) Face Meshing 218/496
+tag = 218, type = Plane -> CFdesign ID = 218
+(1) Face Meshing 219/496
+tag = 219, type = Plane -> CFdesign ID = 219
+(1) Face Meshing 220/496
+tag = 220, type = Plane -> CFdesign ID = 220
+(1) Face Meshing 221/496
+tag = 221, type = Plane -> CFdesign ID = 221
+(1) Face Meshing 222/496
+tag = 222, type = Plane -> CFdesign ID = 222
+(1) Face Meshing 223/496
+tag = 223, type = Plane -> CFdesign ID = 223
+(1) Face Meshing 224/496
+tag = 224, type = Plane -> CFdesign ID = 224
+(1) Face Meshing 225/496
+tag = 225, type = Plane -> CFdesign ID = 225
+(1) Face Meshing 226/496
+tag = 226, type = Plane -> CFdesign ID = 226
+(1) Face Meshing 227/496
+tag = 227, type = Plane -> CFdesign ID = 227
+(1) Face Meshing 228/496
+tag = 228, type = Plane -> CFdesign ID = 228
+(1) Face Meshing 229/496
+tag = 229, type = Plane -> CFdesign ID = 229
+(1) Face Meshing 230/496
+tag = 230, type = Plane -> CFdesign ID = 230
+(1) Face Meshing 231/496
+tag = 231, type = Plane -> CFdesign ID = 231
+(1) Face Meshing 232/496
+tag = 232, type = Plane -> CFdesign ID = 232
+(1) Face Meshing 233/496
+tag = 233, type = Plane -> CFdesign ID = 233
+(1) Face Meshing 234/496
+tag = 234, type = Plane -> CFdesign ID = 234
+(1) Face Meshing 235/496
+tag = 235, type = Plane -> CFdesign ID = 235
+(1) Face Meshing 236/496
+tag = 236, type = Plane -> CFdesign ID = 236
+(1) Face Meshing 237/496
+tag = 237, type = Plane -> CFdesign ID = 237
+(1) Face Meshing 238/496
+tag = 238, type = Plane -> CFdesign ID = 238
+(1) Face Meshing 239/496
+tag = 239, type = Plane -> CFdesign ID = 239
+(1) Face Meshing 240/496
+tag = 240, type = Plane -> CFdesign ID = 240
+(1) Face Meshing 241/496
+tag = 241, type = Plane -> CFdesign ID = 241
+(1) Face Meshing 242/496
+tag = 242, type = Plane -> CFdesign ID = 242
+(1) Face Meshing 243/496
+tag = 243, type = Plane -> CFdesign ID = 243
+(1) Face Meshing 244/496
+tag = 244, type = Plane -> CFdesign ID = 244
+(1) Face Meshing 245/496
+tag = 245, type = Plane -> CFdesign ID = 245
+(1) Face Meshing 246/496
+tag = 246, type = Plane -> CFdesign ID = 246
+(1) Face Meshing 247/496
+tag = 247, type = Plane -> CFdesign ID = 247
+(1) Face Meshing 248/496
+tag = 248, type = Plane -> CFdesign ID = 248
+(1) Face Meshing 249/496
+tag = 249, type = Plane -> CFdesign ID = 249
+(1) Face Meshing 250/496
+tag = 250, type = Plane -> CFdesign ID = 250
+(1) Face Meshing 251/496
+tag = 251, type = Plane -> CFdesign ID = 251
+(1) Face Meshing 252/496
+tag = 252, type = Plane -> CFdesign ID = 252
+(1) Face Meshing 253/496
+tag = 253, type = Plane -> CFdesign ID = 253
+(1) Face Meshing 254/496
+tag = 254, type = Plane -> CFdesign ID = 254
+(1) Face Meshing 255/496
+tag = 255, type = Plane -> CFdesign ID = 255
+(1) Face Meshing 256/496
+tag = 256, type = Plane -> CFdesign ID = 256
+(1) Face Meshing 257/496
+tag = 257, type = Plane -> CFdesign ID = 257
+(1) Face Meshing 258/496
+tag = 258, type = Plane -> CFdesign ID = 258
+(1) Face Meshing 259/496
+tag = 259, type = Plane -> CFdesign ID = 259
+(1) Face Meshing 260/496
+tag = 260, type = Plane -> CFdesign ID = 260
+(1) Face Meshing 261/496
+tag = 261, type = Plane -> CFdesign ID = 261
+(1) Face Meshing 262/496
+tag = 262, type = Plane -> CFdesign ID = 262
+(1) Face Meshing 263/496
+tag = 263, type = Plane -> CFdesign ID = 263
+(1) Face Meshing 264/496
+tag = 264, type = Plane -> CFdesign ID = 264
+(1) Face Meshing 265/496
+tag = 265, type = Plane -> CFdesign ID = 265
+(1) Face Meshing 266/496
+tag = 266, type = Plane -> CFdesign ID = 266
+(1) Face Meshing 267/496
+tag = 267, type = Plane -> CFdesign ID = 267
+(1) Face Meshing 268/496
+tag = 268, type = Plane -> CFdesign ID = 268
+(1) Face Meshing 269/496
+tag = 269, type = Plane -> CFdesign ID = 269
+(1) Face Meshing 270/496
+tag = 270, type = Plane -> CFdesign ID = 270
+(1) Face Meshing 271/496
+tag = 271, type = Plane -> CFdesign ID = 271
+(1) Face Meshing 272/496
+tag = 272, type = Plane -> CFdesign ID = 272
+(1) Face Meshing 273/496
+tag = 273, type = Plane -> CFdesign ID = 273
+(1) Face Meshing 274/496
+tag = 274, type = Plane -> CFdesign ID = 274
+(1) Face Meshing 275/496
+tag = 275, type = Plane -> CFdesign ID = 275
+(1) Face Meshing 276/496
+tag = 276, type = Plane -> CFdesign ID = 276
+(1) Face Meshing 277/496
+tag = 277, type = Plane -> CFdesign ID = 277
+(1) Face Meshing 278/496
+tag = 278, type = Plane -> CFdesign ID = 278
+(1) Face Meshing 279/496
+tag = 279, type = Plane -> CFdesign ID = 279
+(1) Face Meshing 280/496
+tag = 280, type = Plane -> CFdesign ID = 280
+(1) Face Meshing 281/496
+tag = 281, type = Plane -> CFdesign ID = 281
+(1) Face Meshing 282/496
+tag = 282, type = Plane -> CFdesign ID = 282
+(1) Face Meshing 283/496
+tag = 283, type = Plane -> CFdesign ID = 283
+(1) Face Meshing 284/496
+tag = 284, type = Plane -> CFdesign ID = 284
+(1) Face Meshing 285/496
+tag = 285, type = Plane -> CFdesign ID = 285
+(1) Face Meshing 286/496
+tag = 286, type = Plane -> CFdesign ID = 286
+(1) Face Meshing 287/496
+tag = 287, type = Plane -> CFdesign ID = 287
+(1) Face Meshing 288/496
+tag = 288, type = Plane -> CFdesign ID = 288
+(1) Face Meshing 289/496
+tag = 289, type = Plane -> CFdesign ID = 289
+(1) Face Meshing 290/496
+tag = 290, type = Plane -> CFdesign ID = 290
+(1) Face Meshing 291/496
+tag = 291, type = Plane -> CFdesign ID = 291
+(1) Face Meshing 292/496
+tag = 292, type = Plane -> CFdesign ID = 292
+(1) Face Meshing 293/496
+tag = 293, type = Plane -> CFdesign ID = 293
+(1) Face Meshing 294/496
+tag = 294, type = Plane -> CFdesign ID = 294
+(1) Face Meshing 295/496
+tag = 295, type = Plane -> CFdesign ID = 295
+(1) Face Meshing 296/496
+tag = 296, type = Plane -> CFdesign ID = 296
+(1) Face Meshing 297/496
+tag = 297, type = Plane -> CFdesign ID = 297
+(1) Face Meshing 298/496
+tag = 298, type = Plane -> CFdesign ID = 298
+(1) Face Meshing 299/496
+tag = 299, type = Plane -> CFdesign ID = 299
+(1) Face Meshing 300/496
+tag = 300, type = Plane -> CFdesign ID = 300
+(1) Face Meshing 301/496
+tag = 301, type = Plane -> CFdesign ID = 301
+(1) Face Meshing 302/496
+tag = 302, type = Plane -> CFdesign ID = 302
+(1) Face Meshing 303/496
+tag = 303, type = Plane -> CFdesign ID = 303
+(1) Face Meshing 304/496
+tag = 304, type = Plane -> CFdesign ID = 304
+(1) Face Meshing 305/496
+tag = 305, type = Plane -> CFdesign ID = 305
+(1) Face Meshing 306/496
+tag = 306, type = Plane -> CFdesign ID = 306
+(1) Face Meshing 307/496
+tag = 307, type = Plane -> CFdesign ID = 307
+(1) Face Meshing 308/496
+tag = 308, type = Plane -> CFdesign ID = 308
+(1) Face Meshing 309/496
+tag = 309, type = Plane -> CFdesign ID = 309
+(1) Face Meshing 310/496
+tag = 310, type = Plane -> CFdesign ID = 310
+(1) Face Meshing 311/496
+tag = 311, type = Plane -> CFdesign ID = 311
+(1) Face Meshing 312/496
+tag = 312, type = Plane -> CFdesign ID = 312
+(1) Face Meshing 313/496
+tag = 313, type = Plane -> CFdesign ID = 313
+(1) Face Meshing 314/496
+tag = 314, type = Plane -> CFdesign ID = 314
+(1) Face Meshing 315/496
+tag = 315, type = Plane -> CFdesign ID = 315
+(1) Face Meshing 316/496
+tag = 316, type = Plane -> CFdesign ID = 316
+(1) Face Meshing 317/496
+tag = 317, type = Plane -> CFdesign ID = 317
+(1) Face Meshing 318/496
+tag = 318, type = Plane -> CFdesign ID = 318
+(1) Face Meshing 319/496
+tag = 319, type = Plane -> CFdesign ID = 319
+(1) Face Meshing 320/496
+tag = 320, type = Plane -> CFdesign ID = 320
+(1) Face Meshing 321/496
+tag = 321, type = Plane -> CFdesign ID = 321
+(1) Face Meshing 322/496
+tag = 322, type = Plane -> CFdesign ID = 322
+(1) Face Meshing 323/496
+tag = 323, type = Plane -> CFdesign ID = 323
+(1) Face Meshing 324/496
+tag = 324, type = Plane -> CFdesign ID = 324
+(1) Face Meshing 325/496
+tag = 325, type = Plane -> CFdesign ID = 325
+(1) Face Meshing 326/496
+tag = 326, type = Plane -> CFdesign ID = 326
+(1) Face Meshing 327/496
+tag = 327, type = Plane -> CFdesign ID = 327
+(1) Face Meshing 328/496
+tag = 328, type = Plane -> CFdesign ID = 328
+(1) Face Meshing 329/496
+tag = 329, type = Plane -> CFdesign ID = 329
+(1) Face Meshing 330/496
+tag = 330, type = Plane -> CFdesign ID = 330
+(1) Face Meshing 331/496
+tag = 331, type = Plane -> CFdesign ID = 331
+(1) Face Meshing 332/496
+tag = 332, type = Plane -> CFdesign ID = 332
+(1) Face Meshing 333/496
+tag = 333, type = Plane -> CFdesign ID = 333
+(1) Face Meshing 334/496
+tag = 334, type = Plane -> CFdesign ID = 334
+(1) Face Meshing 335/496
+tag = 335, type = Plane -> CFdesign ID = 335
+(1) Face Meshing 336/496
+tag = 336, type = Plane -> CFdesign ID = 336
+(1) Face Meshing 337/496
+tag = 337, type = Plane -> CFdesign ID = 337
+(1) Face Meshing 338/496
+tag = 338, type = Plane -> CFdesign ID = 338
+(1) Face Meshing 339/496
+tag = 339, type = Plane -> CFdesign ID = 339
+(1) Face Meshing 340/496
+tag = 340, type = Plane -> CFdesign ID = 340
+(1) Face Meshing 341/496
+tag = 341, type = Plane -> CFdesign ID = 341
+(1) Face Meshing 342/496
+tag = 342, type = Plane -> CFdesign ID = 342
+(1) Face Meshing 343/496
+tag = 343, type = Plane -> CFdesign ID = 343
+(1) Face Meshing 344/496
+tag = 344, type = Plane -> CFdesign ID = 344
+(1) Face Meshing 345/496
+tag = 345, type = Plane -> CFdesign ID = 345
+(1) Face Meshing 346/496
+tag = 346, type = Plane -> CFdesign ID = 346
+(1) Face Meshing 347/496
+tag = 347, type = Plane -> CFdesign ID = 347
+(1) Face Meshing 348/496
+tag = 348, type = Plane -> CFdesign ID = 348
+(1) Face Meshing 349/496
+tag = 349, type = Plane -> CFdesign ID = 349
+(1) Face Meshing 350/496
+tag = 350, type = Plane -> CFdesign ID = 350
+(1) Face Meshing 351/496
+tag = 351, type = Plane -> CFdesign ID = 351
+(1) Face Meshing 352/496
+tag = 352, type = Plane -> CFdesign ID = 352
+(1) Face Meshing 353/496
+tag = 353, type = Plane -> CFdesign ID = 353
+(1) Face Meshing 354/496
+tag = 354, type = Plane -> CFdesign ID = 354
+(1) Face Meshing 355/496
+tag = 355, type = Plane -> CFdesign ID = 355
+(1) Face Meshing 356/496
+tag = 356, type = Plane -> CFdesign ID = 356
+(1) Face Meshing 357/496
+tag = 357, type = Plane -> CFdesign ID = 357
+(1) Face Meshing 358/496
+tag = 358, type = Plane -> CFdesign ID = 358
+(1) Face Meshing 359/496
+tag = 359, type = Plane -> CFdesign ID = 359
+(1) Face Meshing 360/496
+tag = 360, type = Plane -> CFdesign ID = 360
+(1) Face Meshing 361/496
+tag = 361, type = Plane -> CFdesign ID = 361
+(1) Face Meshing 362/496
+tag = 362, type = Plane -> CFdesign ID = 362
+(1) Face Meshing 363/496
+tag = 363, type = Plane -> CFdesign ID = 363
+(1) Face Meshing 364/496
+tag = 364, type = Plane -> CFdesign ID = 364
+(1) Face Meshing 365/496
+tag = 365, type = Plane -> CFdesign ID = 365
+(1) Face Meshing 366/496
+tag = 366, type = Plane -> CFdesign ID = 366
+(1) Face Meshing 367/496
+tag = 367, type = Plane -> CFdesign ID = 367
+(1) Face Meshing 368/496
+tag = 368, type = Plane -> CFdesign ID = 368
+(1) Face Meshing 369/496
+tag = 369, type = Plane -> CFdesign ID = 369
+(1) Face Meshing 370/496
+tag = 370, type = Plane -> CFdesign ID = 370
+(1) Face Meshing 371/496
+tag = 371, type = Plane -> CFdesign ID = 371
+(1) Face Meshing 372/496
+tag = 372, type = Plane -> CFdesign ID = 372
+(1) Face Meshing 373/496
+tag = 373, type = Plane -> CFdesign ID = 373
+(1) Face Meshing 374/496
+tag = 374, type = Plane -> CFdesign ID = 374
+(1) Face Meshing 375/496
+tag = 375, type = Plane -> CFdesign ID = 375
+(1) Face Meshing 376/496
+tag = 376, type = Plane -> CFdesign ID = 376
+(1) Face Meshing 377/496
+tag = 377, type = Plane -> CFdesign ID = 377
+(1) Face Meshing 378/496
+tag = 378, type = Plane -> CFdesign ID = 378
+(1) Face Meshing 379/496
+tag = 379, type = Plane -> CFdesign ID = 379
+(1) Face Meshing 380/496
+tag = 380, type = Plane -> CFdesign ID = 380
+(1) Face Meshing 381/496
+tag = 381, type = Plane -> CFdesign ID = 381
+(1) Face Meshing 382/496
+tag = 382, type = Plane -> CFdesign ID = 382
+(1) Face Meshing 383/496
+tag = 383, type = Plane -> CFdesign ID = 383
+(1) Face Meshing 384/496
+tag = 384, type = Plane -> CFdesign ID = 384
+(1) Face Meshing 385/496
+tag = 385, type = Plane -> CFdesign ID = 385
+(1) Face Meshing 386/496
+tag = 386, type = Plane -> CFdesign ID = 386
+(1) Face Meshing 387/496
+tag = 387, type = Plane -> CFdesign ID = 387
+(1) Face Meshing 388/496
+tag = 388, type = Plane -> CFdesign ID = 388
+(1) Face Meshing 389/496
+tag = 389, type = Plane -> CFdesign ID = 389
+(1) Face Meshing 390/496
+tag = 390, type = Plane -> CFdesign ID = 390
+(1) Face Meshing 391/496
+tag = 391, type = Plane -> CFdesign ID = 391
+(1) Face Meshing 392/496
+tag = 392, type = Plane -> CFdesign ID = 392
+(1) Face Meshing 393/496
+tag = 393, type = Plane -> CFdesign ID = 393
+(1) Face Meshing 394/496
+tag = 394, type = Plane -> CFdesign ID = 394
+(1) Face Meshing 395/496
+tag = 395, type = Plane -> CFdesign ID = 395
+(1) Face Meshing 396/496
+tag = 396, type = Plane -> CFdesign ID = 396
+(1) Face Meshing 397/496
+tag = 397, type = Plane -> CFdesign ID = 397
+(1) Face Meshing 398/496
+tag = 398, type = Plane -> CFdesign ID = 398
+(1) Face Meshing 399/496
+tag = 399, type = Plane -> CFdesign ID = 399
+(1) Face Meshing 400/496
+tag = 400, type = Plane -> CFdesign ID = 400
+(1) Face Meshing 401/496
+tag = 401, type = Plane -> CFdesign ID = 401
+(1) Face Meshing 402/496
+tag = 402, type = Plane -> CFdesign ID = 402
+(1) Face Meshing 403/496
+tag = 403, type = Plane -> CFdesign ID = 403
+(1) Face Meshing 404/496
+tag = 404, type = Plane -> CFdesign ID = 404
+(1) Face Meshing 405/496
+tag = 405, type = Plane -> CFdesign ID = 405
+(1) Face Meshing 406/496
+tag = 406, type = Plane -> CFdesign ID = 406
+(1) Face Meshing 407/496
+tag = 407, type = Plane -> CFdesign ID = 407
+(1) Face Meshing 408/496
+tag = 408, type = Plane -> CFdesign ID = 408
+(1) Face Meshing 409/496
+tag = 409, type = Plane -> CFdesign ID = 409
+(1) Face Meshing 410/496
+tag = 410, type = Plane -> CFdesign ID = 410
+(1) Face Meshing 411/496
+tag = 411, type = Plane -> CFdesign ID = 411
+(1) Face Meshing 412/496
+tag = 412, type = Plane -> CFdesign ID = 412
+(1) Face Meshing 413/496
+tag = 413, type = Plane -> CFdesign ID = 413
+(1) Face Meshing 414/496
+tag = 414, type = Plane -> CFdesign ID = 414
+(1) Face Meshing 415/496
+tag = 415, type = Plane -> CFdesign ID = 415
+(1) Face Meshing 416/496
+tag = 416, type = Plane -> CFdesign ID = 416
+(1) Face Meshing 417/496
+tag = 417, type = Plane -> CFdesign ID = 417
+(1) Face Meshing 418/496
+tag = 418, type = Plane -> CFdesign ID = 418
+(1) Face Meshing 419/496
+tag = 419, type = Plane -> CFdesign ID = 419
+(1) Face Meshing 420/496
+tag = 420, type = Plane -> CFdesign ID = 420
+(1) Face Meshing 421/496
+tag = 421, type = Plane -> CFdesign ID = 421
+(1) Face Meshing 422/496
+tag = 422, type = Plane -> CFdesign ID = 422
+(1) Face Meshing 423/496
+tag = 423, type = Plane -> CFdesign ID = 423
+(1) Face Meshing 424/496
+tag = 424, type = Plane -> CFdesign ID = 424
+(1) Face Meshing 425/496
+tag = 425, type = Plane -> CFdesign ID = 425
+(1) Face Meshing 426/496
+tag = 426, type = Plane -> CFdesign ID = 426
+(1) Face Meshing 427/496
+tag = 427, type = Plane -> CFdesign ID = 427
+(1) Face Meshing 428/496
+tag = 428, type = Plane -> CFdesign ID = 428
+(1) Face Meshing 429/496
+tag = 429, type = Plane -> CFdesign ID = 429
+(1) Face Meshing 430/496
+tag = 430, type = Plane -> CFdesign ID = 430
+(1) Face Meshing 431/496
+tag = 431, type = Plane -> CFdesign ID = 431
+(1) Face Meshing 432/496
+tag = 432, type = Plane -> CFdesign ID = 432
+(1) Face Meshing 433/496
+tag = 433, type = Plane -> CFdesign ID = 433
+(1) Face Meshing 434/496
+tag = 434, type = Plane -> CFdesign ID = 434
+(1) Face Meshing 435/496
+tag = 435, type = Plane -> CFdesign ID = 435
+(1) Face Meshing 436/496
+tag = 436, type = Plane -> CFdesign ID = 436
+(1) Face Meshing 437/496
+tag = 437, type = Plane -> CFdesign ID = 437
+(1) Face Meshing 438/496
+tag = 438, type = Plane -> CFdesign ID = 438
+(1) Face Meshing 439/496
+tag = 439, type = Plane -> CFdesign ID = 439
+(1) Face Meshing 440/496
+tag = 440, type = Plane -> CFdesign ID = 440
+(1) Face Meshing 441/496
+tag = 441, type = Plane -> CFdesign ID = 441
+(1) Face Meshing 442/496
+tag = 442, type = Plane -> CFdesign ID = 442
+(1) Face Meshing 443/496
+tag = 443, type = Plane -> CFdesign ID = 443
+(1) Face Meshing 444/496
+tag = 444, type = Plane -> CFdesign ID = 444
+(1) Face Meshing 445/496
+tag = 445, type = Plane -> CFdesign ID = 445
+(1) Face Meshing 446/496
+tag = 446, type = Plane -> CFdesign ID = 446
+(1) Face Meshing 447/496
+tag = 447, type = Plane -> CFdesign ID = 447
+(1) Face Meshing 448/496
+tag = 448, type = Plane -> CFdesign ID = 448
+(1) Face Meshing 449/496
+tag = 449, type = Plane -> CFdesign ID = 449
+(1) Face Meshing 450/496
+tag = 450, type = Plane -> CFdesign ID = 450
+(1) Face Meshing 451/496
+tag = 451, type = Plane -> CFdesign ID = 451
+(1) Face Meshing 452/496
+tag = 452, type = Plane -> CFdesign ID = 452
+(1) Face Meshing 453/496
+tag = 453, type = Plane -> CFdesign ID = 453
+(1) Face Meshing 454/496
+tag = 454, type = Plane -> CFdesign ID = 454
+(1) Face Meshing 455/496
+tag = 455, type = Plane -> CFdesign ID = 455
+(1) Face Meshing 456/496
+tag = 456, type = Plane -> CFdesign ID = 456
+(1) Face Meshing 457/496
+tag = 457, type = Plane -> CFdesign ID = 457
+(1) Face Meshing 458/496
+tag = 458, type = Plane -> CFdesign ID = 458
+(1) Face Meshing 459/496
+tag = 459, type = Plane -> CFdesign ID = 459
+(1) Face Meshing 460/496
+tag = 460, type = Plane -> CFdesign ID = 460
+(1) Face Meshing 461/496
+tag = 461, type = Plane -> CFdesign ID = 461
+(1) Face Meshing 462/496
+tag = 462, type = Plane -> CFdesign ID = 462
+(1) Face Meshing 463/496
+tag = 463, type = Plane -> CFdesign ID = 463
+(1) Face Meshing 464/496
+tag = 464, type = Plane -> CFdesign ID = 464
+(1) Face Meshing 465/496
+tag = 465, type = Plane -> CFdesign ID = 465
+(1) Face Meshing 466/496
+tag = 466, type = Plane -> CFdesign ID = 466
+(1) Face Meshing 467/496
+tag = 467, type = Plane -> CFdesign ID = 467
+(1) Face Meshing 468/496
+tag = 468, type = Plane -> CFdesign ID = 468
+(1) Face Meshing 469/496
+tag = 469, type = Plane -> CFdesign ID = 469
+(1) Face Meshing 470/496
+tag = 470, type = Plane -> CFdesign ID = 470
+(1) Face Meshing 471/496
+tag = 471, type = Plane -> CFdesign ID = 471
+(1) Face Meshing 472/496
+tag = 472, type = Plane -> CFdesign ID = 472
+(1) Face Meshing 473/496
+tag = 473, type = Plane -> CFdesign ID = 473
+(1) Face Meshing 474/496
+tag = 474, type = Plane -> CFdesign ID = 474
+(1) Face Meshing 475/496
+tag = 475, type = Plane -> CFdesign ID = 475
+(1) Face Meshing 476/496
+tag = 476, type = Plane -> CFdesign ID = 476
+(1) Face Meshing 477/496
+tag = 477, type = Plane -> CFdesign ID = 477
+(1) Face Meshing 478/496
+tag = 478, type = Plane -> CFdesign ID = 478
+(1) Face Meshing 479/496
+tag = 479, type = Plane -> CFdesign ID = 479
+(1) Face Meshing 480/496
+tag = 480, type = Plane -> CFdesign ID = 480
+(1) Face Meshing 481/496
+tag = 481, type = Plane -> CFdesign ID = 481
+(1) Face Meshing 482/496
+tag = 482, type = Plane -> CFdesign ID = 482
+(1) Face Meshing 483/496
+tag = 483, type = Plane -> CFdesign ID = 483
+(1) Face Meshing 484/496
+tag = 484, type = Plane -> CFdesign ID = 484
+(1) Face Meshing 485/496
+tag = 485, type = Plane -> CFdesign ID = 485
+(1) Face Meshing 486/496
+tag = 486, type = Plane -> CFdesign ID = 486
+(1) Face Meshing 487/496
+tag = 487, type = Plane -> CFdesign ID = 487
+(1) Face Meshing 488/496
+tag = 488, type = Plane -> CFdesign ID = 488
+(1) Face Meshing 489/496
+tag = 489, type = Plane -> CFdesign ID = 489
+(1) Face Meshing 490/496
+tag = 490, type = Plane -> CFdesign ID = 490
+(1) Face Meshing 491/496
+tag = 491, type = Plane -> CFdesign ID = 491
+(1) Face Meshing 492/496
+tag = 492, type = Plane -> CFdesign ID = 492
+(1) Face Meshing 493/496
+tag = 493, type = Plane -> CFdesign ID = 493
+(1) Face Meshing 494/496
+tag = 494, type = Plane -> CFdesign ID = 494
+(1) Face Meshing 495/496
+tag = 495, type = Plane -> CFdesign ID = 495
+(1) Face Meshing 496/496
+tag = 496, type = Plane -> CFdesign ID = 496
+(1) Face Meshing finished: CPU time: 7.39445 s, clock time: 18.123 s
+(1) Structured Meshing started
+(1) Structured Meshing finished: CPU time: 0 s, clock time: 0.009 s
+(1) Surface Mesh Improver started
+(2) Surface Mesh Improvement started
+50% completed
+100% completed
+(2) Surface Mesh Improvement finished: CPU time: 0.187201 s, clock time: 0.207 s
+(2) Surface Smoothing started
+25% completed
+50% completed
+75% completed
+100% completed
+(2) Surface Smoothing finished: CPU time: 0.624004 s, clock time: 0.824 s
+(2) Fix Surface Intersections started
+(2) Fix Surface Intersections finished: CPU time: 1.32601 s, clock time: 1.371 s
+(1) Surface Mesh Improver finished: CPU time: 2.13721 s, clock time: 2.439 s
+(0) Surface Meshing finished: CPU time: 10.5925 s, clock time: 21.771 s
+  Nodal Aspect Ratio Summary
+Surface 1: 4.74626
+Surface 2: 5.33842
+Surface 3: 5.33842
+Surface 4: 5.33842
+Surface 5: 5.33842
+Surface 6: 5.33842
+Surface 7: 5.4346
+Surface 8: 5.33842
+Surface 9: 5.4346
+Surface 10: 5.4346
+Surface 11: 5.33842
+Surface 12: 5.33842
+Surface 13: 5.39331
+Surface 14: 5.79097
+Surface 15: 3.68202
+Surface 16: 3.13513
+Surface 17: 5.2526
+Surface 18: 5.39331
+Surface 19: 5.05103
+Surface 20: 5.79097
+Surface 21: 2.90493
+Surface 22: 3.11695
+Surface 23: 3.11695
+Surface 24: 3.13513
+Surface 25: 2.26363
+Surface 26: 3.23984
+Surface 27: 3.68202
+Surface 28: 3.06163
+Surface 29: 2.67647
+Surface 30: 3.06163
+Surface 31: 5.27509
+Surface 32: 4.69982
+Surface 33: 3.46468
+Surface 34: 3.667
+Surface 35: 4.69982
+Surface 36: 4.67206
+Surface 37: 5.27509
+Surface 38: 4.28542
+Surface 39: 3.94534
+Surface 40: 3.94534
+Surface 41: 3.16835
+Surface 42: 3.73918
+Surface 43: 2.81272
+Surface 44: 2.29904
+Surface 45: 3.667
+Surface 46: 3.2621
+Surface 47: 3.02296
+Surface 48: 3.667
+Surface 49: 2.97434
+Surface 50: 2.73514
+Surface 51: 3.1505
+Surface 52: 3.46468
+Surface 53: 3.46468
+Surface 54: 3.1505
+Surface 55: 4.58557
+Surface 56: 4.78948
+Surface 57: 3.38355
+Surface 58: 3.6916
+Surface 59: 4.78948
+Surface 60: 4.50709
+Surface 61: 4.50709
+Surface 62: 4.58557
+Surface 63: 3.73279
+Surface 64: 3.03635
+Surface 65: 3.55666
+Surface 66: 3.73279
+Surface 67: 2.81272
+Surface 68: 2.32326
+Surface 69: 3.6916
+Surface 70: 3.32283
+Surface 71: 3.00234
+Surface 72: 3.6916
+Surface 73: 2.8567
+Surface 74: 2.73514
+Surface 75: 3.1505
+Surface 76: 3.38355
+Surface 77: 2.60174
+Surface 78: 3.1505
+Surface 79: 3.23759
+Surface 80: 2.34836
+Surface 81: 2.86675
+Surface 82: 3.04727
+Surface 83: 3.31424
+Surface 84: 4.31908
+Surface 85: 2.41311
+Surface 86: 2.83661
+Surface 87: 3.29912
+Surface 88: 2.11206
+Surface 89: 5.4116
+Surface 90: 2.47709
+Surface 91: 5.27509
+Surface 92: 5.79097
+Surface 93: 5.2526
+Surface 94: 5.39331
+Surface 95: 3.5219
+Surface 96: 3.73081
+Surface 97: 3.8538
+Surface 98: 3.8538
+Surface 99: 3.07115
+Surface 100: 3.01882
+Surface 101: 3.09844
+Surface 102: 3.17024
+Surface 103: 2.78262
+Surface 104: 3.16187
+Surface 105: 3.24857
+Surface 106: 2.69895
+Surface 107: 3.1306
+Surface 108: 2.60333
+Surface 109: 3.16976
+Surface 110: 2.63137
+Surface 111: 2.69895
+Surface 112: 2.8765
+Surface 113: 3.04727
+Surface 114: 2.5471
+Surface 115: 3.26931
+Surface 116: 2.91437
+Surface 117: 2.82403
+Surface 118: 2.60797
+Surface 119: 2.47747
+Surface 120: 2.22285
+Surface 121: 3.10791
+Surface 122: 3.10791
+Surface 123: 3.02413
+Surface 124: 2.95006
+Surface 125: 3.23759
+Surface 126: 3.24559
+Surface 127: 3.76868
+Surface 128: 2.93455
+Surface 129: 4.79529
+Surface 130: 3.76757
+Surface 131: 5.00033
+Surface 132: 4.9674
+Surface 133: 4.78752
+Surface 134: 4.57841
+Surface 135: 4.88773
+Surface 136: 4.97456
+Surface 137: 4.64355
+Surface 138: 4.64446
+Surface 139: 4.63752
+Surface 140: 5.25092
+Surface 141: 4.68176
+Surface 142: 4.61594
+Surface 143: 4.77324
+Surface 144: 4.82633
+Surface 145: 4.77909
+Surface 146: 4.81609
+Surface 147: 4.11624
+Surface 148: 4.60651
+Surface 149: 4.9218
+Surface 150: 4.51826
+Surface 151: 4.98949
+Surface 152: 4.87712
+Surface 153: 5.06009
+Surface 154: 4.73061
+Surface 155: 4.92308
+Surface 156: 4.6041
+Surface 157: 4.71996
+Surface 158: 4.61637
+Surface 159: 4.34054
+Surface 160: 4.57386
+Surface 161: 3.55814
+Surface 162: 4.17687
+Surface 163: 4.19898
+Surface 164: 4.24616
+Surface 165: 3.13171
+Surface 166: 3.79892
+Surface 167: 3.82372
+Surface 168: 6.67654
+Surface 169: 5.20828
+Surface 170: 5.30123
+Surface 171: 4.98984
+Surface 172: 5.30123
+Surface 173: 5.25338
+Surface 174: 5.25338
+Surface 175: 5.124
+Surface 176: 4.00292
+Surface 177: 4.69871
+Surface 178: 5.00033
+Surface 179: 4.94055
+Surface 180: 4.87009
+Surface 181: 4.9674
+Surface 182: 5.50443
+Surface 183: 5.50443
+Surface 184: 4.78752
+Surface 185: 5.44301
+Surface 186: 4.88773
+Surface 187: 5.44301
+Surface 188: 5.07661
+Surface 189: 5.07289
+Surface 190: 5.07661
+Surface 191: 5.29735
+Surface 192: 4.99213
+Surface 193: 5.29735
+Surface 194: 3.84459
+Surface 195: 4.35217
+Surface 196: 4.56861
+Surface 197: 5.46779
+Surface 198: 5.46779
+Surface 199: 5.36517
+Surface 200: 4.80008
+Surface 201: 5.25092
+Surface 202: 4.784
+Surface 203: 5.40714
+Surface 204: 4.86867
+Surface 205: 5.40714
+Surface 206: 5.40265
+Surface 207: 4.88971
+Surface 208: 5.40265
+Surface 209: 5.31111
+Surface 210: 5.31111
+Surface 211: 5.0095
+Surface 212: 5.38412
+Surface 213: 4.94225
+Surface 214: 5.38412
+Surface 215: 6.14111
+Surface 216: 4.96145
+Surface 217: 6.14111
+Surface 218: 4.9578
+Surface 219: 4.94914
+Surface 220: 4.9578
+Surface 221: 5.07787
+Surface 222: 5.07787
+Surface 223: 4.99762
+Surface 224: 4.97721
+Surface 225: 4.75995
+Surface 226: 4.97721
+Surface 227: 5.42127
+Surface 228: 4.9218
+Surface 229: 5.42127
+Surface 230: 4.74807
+Surface 231: 4.74479
+Surface 232: 4.74807
+Surface 233: 4.75805
+Surface 234: 4.75805
+Surface 235: 4.66806
+Surface 236: 6.97548
+Surface 237: 4.97285
+Surface 238: 6.97548
+Surface 239: 4.89758
+Surface 240: 5.06009
+Surface 241: 4.83221
+Surface 242: 4.89484
+Surface 243: 4.85023
+Surface 244: 4.89484
+Surface 245: 4.58823
+Surface 246: 4.92308
+Surface 247: 4.60564
+Surface 248: 4.84556
+Surface 249: 4.84556
+Surface 250: 4.83359
+Surface 251: 4.97366
+Surface 252: 4.97366
+Surface 253: 4.79384
+Surface 254: 4.40214
+Surface 255: 4.61637
+Surface 256: 4.68083
+Surface 257: 4.52711
+Surface 258: 4.50333
+Surface 259: 4.52711
+Surface 260: 4.18525
+Surface 261: 4.18525
+Surface 262: 4.19152
+Surface 263: 3.84608
+Surface 264: 3.84608
+Surface 265: 4.57386
+Surface 266: 3.31113
+Surface 267: 3.31113
+Surface 268: 3.26988
+Surface 269: 4.13006
+Surface 270: 3.02312
+Surface 271: 4.17687
+Surface 272: 4.15302
+Surface 273: 3.52251
+Surface 274: 4.19898
+Surface 275: 4.16198
+Surface 276: 3.35066
+Surface 277: 4.24616
+Surface 278: 3.56511
+Surface 279: 3.79892
+Surface 280: 3.56511
+Surface 281: 2.60221
+Surface 282: 3.82372
+Surface 283: 3.62712
+Surface 284: 3.55415
+Surface 285: 6.67654
+Surface 286: 3.55415
+Surface 287: 2.30231
+Surface 288: 2.90493
+Surface 289: 2.22689
+Surface 290: 2.43087
+Surface 291: 5.33842
+Surface 292: 5.33842
+Surface 293: 5.33842
+Surface 294: 5.33842
+Surface 295: 5.33842
+Surface 296: 5.33842
+Surface 297: 5.33842
+Surface 298: 5.33842
+Surface 299: 3.06163
+Surface 300: 2.42949
+Surface 301: 2.67755
+Surface 302: 3.24857
+Surface 303: 8.35067
+Surface 304: 4.59682
+Surface 305: 4.61024
+Surface 306: 4.05571
+Surface 307: 4.62487
+Surface 308: 4.24193
+Surface 309: 3.68108
+Surface 310: 4.32402
+Surface 311: 4.30648
+Surface 312: 4.6148
+Surface 313: 4.71078
+Surface 314: 4.81544
+Surface 315: 3.90516
+Surface 316: 4.40861
+Surface 317: 3.84361
+Surface 318: 3.8472
+Surface 319: 3.91515
+Surface 320: 4.39324
+Surface 321: 4.01818
+Surface 322: 4.47796
+Surface 323: 4.82589
+Surface 324: 4.21692
+Surface 325: 4.09584
+Surface 326: 4.72578
+Surface 327: 4.9715
+Surface 328: 4.64901
+Surface 329: 4.02315
+Surface 330: 4.55507
+Surface 331: 4.65048
+Surface 332: 4.82464
+Surface 333: 4.14805
+Surface 334: 3.97897
+Surface 335: 3.85035
+Surface 336: 3.49247
+Surface 337: 4.21051
+Surface 338: 4.25776
+Surface 339: 3.30254
+Surface 340: 3.90123
+Surface 341: 2.91005
+Surface 342: 6.66092
+Surface 343: 3.5219
+Surface 344: 5.4087
+Surface 345: 3.11136
+Surface 346: 4.79529
+Surface 347: 5.39959
+Surface 348: 8.35067
+Surface 349: 5.13553
+Surface 350: 5.11022
+Surface 351: 4.22444
+Surface 352: 5.11022
+Surface 353: 5.39399
+Surface 354: 5.07619
+Surface 355: 5.39399
+Surface 356: 6.56999
+Surface 357: 6.56999
+Surface 358: 5.39044
+Surface 359: 5.47387
+Surface 360: 5.47387
+Surface 361: 4.93757
+Surface 362: 5.13607
+Surface 363: 5.13607
+Surface 364: 4.24774
+Surface 365: 4.81012
+Surface 366: 4.81012
+Surface 367: 4.80975
+Surface 368: 4.89396
+Surface 369: 4.89396
+Surface 370: 4.8732
+Surface 371: 4.41327
+Surface 372: 4.41327
+Surface 373: 4.6148
+Surface 374: 4.82045
+Surface 375: 4.82045
+Surface 376: 4.71078
+Surface 377: 4.81371
+Surface 378: 4.81371
+Surface 379: 4.81544
+Surface 380: 5.434
+Surface 381: 5.434
+Surface 382: 5.15005
+Surface 383: 4.59204
+Surface 384: 3.58624
+Surface 385: 4.59204
+Surface 386: 5.07904
+Surface 387: 4.63287
+Surface 388: 5.07904
+Surface 389: 5.0058
+Surface 390: 4.94691
+Surface 391: 5.0058
+Surface 392: 5.24377
+Surface 393: 5.24377
+Surface 394: 5.15824
+Surface 395: 5.36553
+Surface 396: 5.36553
+Surface 397: 5.11961
+Surface 398: 4.09143
+Surface 399: 4.39324
+Surface 400: 3.90201
+Surface 401: 5.08136
+Surface 402: 5.08136
+Surface 403: 5.00427
+Surface 404: 4.96894
+Surface 405: 4.96894
+Surface 406: 4.90254
+Surface 407: 6.69674
+Surface 408: 4.90697
+Surface 409: 6.69674
+Surface 410: 5.52633
+Surface 411: 5.48932
+Surface 412: 5.52633
+Surface 413: 4.81527
+Surface 414: 4.81527
+Surface 415: 4.80845
+Surface 416: 4.76967
+Surface 417: 4.76967
+Surface 418: 4.9715
+Surface 419: 5.09432
+Surface 420: 4.85425
+Surface 421: 5.09432
+Surface 422: 3.73232
+Surface 423: 4.62431
+Surface 424: 3.70447
+Surface 425: 4.58928
+Surface 426: 4.58928
+Surface 427: 4.55507
+Surface 428: 5.48692
+Surface 429: 5.48692
+Surface 430: 5.31661
+Surface 431: 5.11035
+Surface 432: 5.11035
+Surface 433: 4.82464
+Surface 434: 4.15429
+Surface 435: 4.22022
+Surface 436: 4.15429
+Surface 437: 4.2507
+Surface 438: 3.49883
+Surface 439: 4.2507
+Surface 440: 2.82778
+Surface 441: 3.66397
+Surface 442: 3.17211
+Surface 443: 2.86303
+Surface 444: 3.85035
+Surface 445: 2.93227
+Surface 446: 4.28505
+Surface 447: 3.49247
+Surface 448: 4.28505
+Surface 449: 4.21221
+Surface 450: 4.21221
+Surface 451: 3.36526
+Surface 452: 4.15126
+Surface 453: 4.25776
+Surface 454: 3.12504
+Surface 455: 4.10524
+Surface 456: 3.57625
+Surface 457: 4.10524
+Surface 458: 3.71546
+Surface 459: 3.82212
+Surface 460: 2.90344
+Surface 461: 3.30118
+Surface 462: 3.30118
+Surface 463: 6.66092
+Surface 464: 2.73514
+Surface 465: 2.60174
+Surface 466: 2.61087
+Surface 467: 3.1505
+Surface 468: 2.73514
+Surface 469: 2.60174
+Surface 470: 2.61087
+Surface 471: 3.1505
+Surface 472: 2.97434
+Surface 473: 2.87131
+Surface 474: 2.44354
+Surface 475: 2.81224
+Surface 476: 2.83024
+Surface 477: 2.8567
+Surface 478: 2.55518
+Surface 479: 2.81808
+Surface 480: 3.10791
+Surface 481: 3.26931
+Surface 482: 3.31424
+Surface 483: 3.29912
+Surface 484: 3.76764
+Surface 485: 3.07337
+Surface 486: 3.8538
+Surface 487: 3.09786
+Surface 488: 3.73081
+Surface 489: 2.63137
+Surface 490: 3.04727
+Surface 491: 2.62892
+Surface 492: 2.62892
+Surface 493: 2.46778
+Surface 494: 2.46778
+Surface 495: 2.2385
+Surface 496: 2.31429
+Maximum nodal aspect ratio: 8.35067
+(0) Volume Meshing started
+(1) Structured Meshing started
+Number of 3D Boundary Layers identified: 456
+Number of BL regions estimated = 213084
+Boundary Layer meshing
+Finding growth curves...
+Checking boundary growth curves...
+Checking intersecting layers...
+Edge triangulation
+Face triangulation
+(2) Adapting Mesh started
+Iteration 1: Normalized edge length range: 2.13708 .. 0.702351
+Iteration 2: Normalized edge length range: 1.58192 .. 0.440111
+Final normalized edge length range: 1.44887 .. 0.440111
+(2) Adapting Mesh finished: CPU time: 0.0156001 s, clock time: 0.175 s
+(2) Fix Surface Intersections started
+(2) Fix Surface Intersections finished: CPU time: 1.26361 s, clock time: 1.373 s
+Region triangulation
+Number of BL regions created = 213020
+Checking exposed intersecting layers...
+(1) Structured Meshing finished: CPU time: 9.82806 s, clock time: 12.649 s
+(1) Creating volume mesh started
+(1) Creating volume mesh finished: CPU time: 19.6249 s, clock time: 21.867 s
+(1) Adapting Mesh started
+Iteration 1: Normalized edge length range: 3.51672 .. 0.0745811
+Iteration 2: Normalized edge length range: 2.63751 .. 0.0745811
+Iteration 3: Normalized edge length range: 1.97811 .. 0.0745811
+Iteration 4: Normalized edge length range: 1.48358 .. 0.0745811
+Final normalized edge length range: 1.44998 .. 0.0745811
+(1) Adapting Mesh finished: CPU time: 11.7001 s, clock time: 12.947 s
+(1) Volume Mesh Improver started
+(2) Volume Optimization started
+(2) Volume Optimization finished: CPU time: 6.25564 s, clock time: 7.129 s
+(2) Volume Smoothing started
+25% completed
+50% completed
+75% completed
+100% completed
+(2) Volume Smoothing finished: CPU time: 3.32282 s, clock time: 3.75 s
+(1) Volume Mesh Improver finished: CPU time: 9.59406 s, clock time: 10.91 s
+(0) Volume Meshing finished: CPU time: 50.8251 s, clock time: 58.53 s
+Mesh Statistics
+Node count: 191571
+Element count: 708226
+Minimum element volume: 0.659867
+Maximum element volume: 374880
+Total model volume: 9.99976e+08
+  Nodal Aspect Ratio Summary
+Surface 1: 17.0404
+Surface 2: 16.6084
+Surface 3: 16.6084
+Surface 4: 16.6084
+Surface 5: 17.0404
+Surface 6: 16.6084
+Surface 7: 18.9624
+Surface 8: 17.626
+Surface 9: 16.9077
+Surface 10: 18.9624
+Surface 11: 16.6084
+Surface 12: 16.6084
+Surface 13: 40.4258
+Surface 14: 38.9753
+Surface 15: 28.7602
+Surface 16: 21.1163
+Surface 17: 37.0105
+Surface 18: 40.4258
+Surface 19: 39.401
+Surface 20: 38.6065
+Surface 21: 19.3421
+Surface 22: 21.1163
+Surface 23: 21.1163
+Surface 24: 19.3421
+Surface 25: 19.1156
+Surface 26: 28.7602
+Surface 27: 28.7602
+Surface 28: 25.9369
+Surface 29: 22.8869
+Surface 30: 22.0393
+Surface 31: 32.6378
+Surface 32: 26.1129
+Surface 33: 21.21
+Surface 34: 17.1527
+Surface 35: 27.8618
+Surface 36: 27.5925
+Surface 37: 32.6378
+Surface 38: 25.549
+Surface 39: 21.2482
+Surface 40: 18.9057
+Surface 41: 13.4977
+Surface 42: 21.2482
+Surface 43: 20.2024
+Surface 44: 19.7823
+Surface 45: 17.1527
+Surface 46: 15.6649
+Surface 47: 15.8524
+Surface 48: 16.2978
+Surface 49: 15.8524
+Surface 50: 15.7444
+Surface 51: 17.0707
+Surface 52: 21.21
+Surface 53: 21.21
+Surface 54: 17.0707
+Surface 55: 30.2455
+Surface 56: 26.611
+Surface 57: 20.7988
+Surface 58: 19.3472
+Surface 59: 29.8841
+Surface 60: 28.8857
+Surface 61: 30.2455
+Surface 62: 25.4885
+Surface 63: 23.8541
+Surface 64: 18.9057
+Surface 65: 13.4977
+Surface 66: 23.8541
+Surface 67: 20.2024
+Surface 68: 19.7823
+Surface 69: 19.3472
+Surface 70: 18.7386
+Surface 71: 16.3365
+Surface 72: 18.1873
+Surface 73: 18.7386
+Surface 74: 17.0535
+Surface 75: 17.0753
+Surface 76: 20.7988
+Surface 77: 17.2626
+Surface 78: 17.0707
+Surface 79: 39.9635
+Surface 80: 16.8737
+Surface 81: 18.4173
+Surface 82: 20.6717
+Surface 83: 21.8149
+Surface 84: 23.8018
+Surface 85: 28.1202
+Surface 86: 31.3252
+Surface 87: 26.127
+Surface 88: 3.36101
+Surface 89: 37.2909
+Surface 90: 23.761
+Surface 91: 44.1577
+Surface 92: 39.4778
+Surface 93: 42.0145
+Surface 94: 46.5901
+Surface 95: 36.4008
+Surface 96: 38.3431
+Surface 97: 37.6801
+Surface 98: 35.688
+Surface 99: 39.9635
+Surface 100: 35.057
+Surface 101: 36.5813
+Surface 102: 34.729
+Surface 103: 32.1532
+Surface 104: 38.0678
+Surface 105: 34.4332
+Surface 106: 4.33435
+Surface 107: 25.5658
+Surface 108: 23.8018
+Surface 109: 27.1322
+Surface 110: 26.4717
+Surface 111: 21.8149
+Surface 112: 18.4173
+Surface 113: 18.9584
+Surface 114: 17.7761
+Surface 115: 37.2963
+Surface 116: 36.5378
+Surface 117: 36.5378
+Surface 118: 34.6249
+Surface 119: 28.6037
+Surface 120: 30.968
+Surface 121: 30.5471
+Surface 122: 29.4602
+Surface 123: 35.3719
+Surface 124: 33.1118
+Surface 125: 33.8973
+Surface 126: 27.5333
+Surface 127: 37.6801
+Surface 128: 24.5353
+Surface 129: 39.9635
+Surface 130: 49.8256
+Surface 131: 44.5119
+Surface 132: 44.1856
+Surface 133: 42.7422
+Surface 134: 42.0849
+Surface 135: 43.716
+Surface 136: 44.2187
+Surface 137: 44.0014
+Surface 138: 41.3163
+Surface 139: 43.0172
+Surface 140: 47.3673
+Surface 141: 41.9057
+Surface 142: 41.9032
+Surface 143: 42.8695
+Surface 144: 39.37
+Surface 145: 43.1906
+Surface 146: 43.1841
+Surface 147: 45.7276
+Surface 148: 40.9703
+Surface 149: 44.0325
+Surface 150: 44.2644
+Surface 151: 44.5392
+Surface 152: 43.9743
+Surface 153: 45.6756
+Surface 154: 42.8841
+Surface 155: 44.1822
+Surface 156: 41.7545
+Surface 157: 42.1337
+Surface 158: 42.0332
+Surface 159: 39.3118
+Surface 160: 41.2682
+Surface 161: 41.9465
+Surface 162: 37.3596
+Surface 163: 37.3409
+Surface 164: 37.7584
+Surface 165: 31.2419
+Surface 166: 34.2275
+Surface 167: 36.1033
+Surface 168: 37.6945
+Surface 169: 48.7703
+Surface 170: 52.8078
+Surface 171: 63.9014
+Surface 172: 59.4088
+Surface 173: 46.805
+Surface 174: 63.1867
+Surface 175: 62.6482
+Surface 176: 44.4501
+Surface 177: 57.8695
+Surface 178: 60.0911
+Surface 179: 44.2434
+Surface 180: 59.2685
+Surface 181: 59.7287
+Surface 182: 49.4419
+Surface 183: 66.7465
+Surface 184: 57.909
+Surface 185: 49.0025
+Surface 186: 59.0166
+Surface 187: 66.1533
+Surface 188: 46.0875
+Surface 189: 62.2181
+Surface 190: 61.0898
+Surface 191: 47.1334
+Surface 192: 60.4007
+Surface 193: 63.6301
+Surface 194: 48.1139
+Surface 195: 64.9537
+Surface 196: 63.558
+Surface 197: 49.6643
+Surface 198: 67.0467
+Surface 199: 65.8245
+Surface 200: 43.616
+Surface 201: 63.9458
+Surface 202: 58.8816
+Surface 203: 48.1067
+Surface 204: 59.7997
+Surface 205: 64.9441
+Surface 206: 48.4321
+Surface 207: 60.5229
+Surface 208: 65.3833
+Surface 209: 47.3192
+Surface 210: 63.881
+Surface 211: 61.5403
+Surface 212: 47.9572
+Surface 213: 60.9075
+Surface 214: 64.7422
+Surface 215: 54.6563
+Surface 216: 61.0257
+Surface 217: 73.786
+Surface 218: 44.8943
+Surface 219: 59.7236
+Surface 220: 60.6073
+Surface 221: 45.4271
+Surface 222: 61.3266
+Surface 223: 61.0493
+Surface 224: 44.6196
+Surface 225: 57.9706
+Surface 226: 61.7323
+Surface 227: 48.5805
+Surface 228: 60.0951
+Surface 229: 65.5837
+Surface 230: 43.3576
+Surface 231: 59.7569
+Surface 232: 58.5327
+Surface 233: 43.0827
+Surface 234: 58.1616
+Surface 235: 56.4897
+Surface 236: 62.2247
+Surface 237: 60.5196
+Surface 238: 84.0034
+Surface 239: 44.3875
+Surface 240: 61.6621
+Surface 241: 58.4002
+Surface 242: 43.9919
+Surface 243: 58.4857
+Surface 244: 59.3891
+Surface 245: 46.2598
+Surface 246: 62.4507
+Surface 247: 56.8755
+Surface 248: 43.7394
+Surface 249: 58.5833
+Surface 250: 59.0482
+Surface 251: 44.2798
+Surface 252: 59.7778
+Surface 253: 58.592
+Surface 254: 39.4703
+Surface 255: 56.7448
+Surface 256: 56.2888
+Surface 257: 41.1498
+Surface 258: 55.4161
+Surface 259: 55.5522
+Surface 260: 38.1434
+Surface 261: 51.4936
+Surface 262: 51.6482
+Surface 263: 41.0415
+Surface 264: 56.6278
+Surface 265: 55.712
+Surface 266: 30.0061
+Surface 267: 41.9675
+Surface 268: 42.3709
+Surface 269: 36.8762
+Surface 270: 41.1347
+Surface 271: 50.4355
+Surface 272: 37.0161
+Surface 273: 50.9241
+Surface 274: 50.4102
+Surface 275: 37.083
+Surface 276: 50.522
+Surface 277: 50.9738
+Surface 278: 32.0276
+Surface 279: 47.4851
+Surface 280: 49.8454
+Surface 281: 30.8237
+Surface 282: 54.32
+Surface 283: 47.5421
+Surface 284: 34.943
+Surface 285: 38.3267
+Surface 286: 46.9446
+Surface 287: 25.3714
+Surface 288: 23.8798
+Surface 289: 27.1311
+Surface 290: 29.6999
+Surface 291: 28.2873
+Surface 292: 28.158
+Surface 293: 27.9953
+Surface 294: 28.0687
+Surface 295: 28.8942
+Surface 296: 28.8942
+Surface 297: 28.2509
+Surface 298: 27.8103
+Surface 299: 23.2578
+Surface 300: 23.761
+Surface 301: 22.4869
+Surface 302: 32.0483
+Surface 303: 49.7816
+Surface 304: 49.6245
+Surface 305: 43.1272
+Surface 306: 36.4048
+Surface 307: 41.3816
+Surface 308: 37.0217
+Surface 309: 42.0648
+Surface 310: 39.3854
+Surface 311: 38.8628
+Surface 312: 39.3058
+Surface 313: 42.3762
+Surface 314: 43.2876
+Surface 315: 43.0043
+Surface 316: 41.8084
+Surface 317: 38.7233
+Surface 318: 38.3395
+Surface 319: 35.0692
+Surface 320: 39.1955
+Surface 321: 35.9746
+Surface 322: 39.8786
+Surface 323: 42.9235
+Surface 324: 42.4524
+Surface 325: 43.7447
+Surface 326: 42.3522
+Surface 327: 44.4952
+Surface 328: 41.9353
+Surface 329: 42.4097
+Surface 330: 41.0195
+Surface 331: 42.1403
+Surface 332: 43.7527
+Surface 333: 38.0349
+Surface 334: 35.4126
+Surface 335: 34.2576
+Surface 336: 31.0476
+Surface 337: 37.4305
+Surface 338: 37.8642
+Surface 339: 32.2134
+Surface 340: 35.1493
+Surface 341: 29.7624
+Surface 342: 38.6256
+Surface 343: 27.9914
+Surface 344: 36.4008
+Surface 345: 33.701
+Surface 346: 31.5743
+Surface 347: 53.6812
+Surface 348: 61.4377
+Surface 349: 66.2576
+Surface 350: 47.5455
+Surface 351: 54.9494
+Surface 352: 64.1864
+Surface 353: 49.0508
+Surface 354: 61.2577
+Surface 355: 66.2185
+Surface 356: 58.9742
+Surface 357: 79.6151
+Surface 358: 65.0839
+Surface 359: 48.7604
+Surface 360: 65.8265
+Surface 361: 59.5346
+Surface 362: 45.988
+Surface 363: 62.0838
+Surface 364: 52.3828
+Surface 365: 43.2519
+Surface 366: 58.3901
+Surface 367: 58.0419
+Surface 368: 44.1793
+Surface 369: 59.1025
+Surface 370: 59.6421
+Surface 371: 44.7624
+Surface 372: 60.4292
+Surface 373: 60.397
+Surface 374: 43.3383
+Surface 375: 58.5067
+Surface 376: 57.2079
+Surface 377: 43.2502
+Surface 378: 58.3877
+Surface 379: 58.4382
+Surface 380: 48.5787
+Surface 381: 65.5813
+Surface 382: 62.3881
+Surface 383: 48.1343
+Surface 384: 64.9813
+Surface 385: 62.4871
+Surface 386: 45.6862
+Surface 387: 55.8329
+Surface 388: 61.6764
+Surface 389: 45.1825
+Surface 390: 60.6421
+Surface 391: 60.9963
+Surface 392: 47.407
+Surface 393: 63.9995
+Surface 394: 61.9639
+Surface 395: 48.3655
+Surface 396: 65.2934
+Surface 397: 62.0658
+Surface 398: 47.9098
+Surface 399: 64.6783
+Surface 400: 62.1995
+Surface 401: 45.5093
+Surface 402: 61.4375
+Surface 403: 60.6258
+Surface 404: 44.6715
+Surface 405: 60.3065
+Surface 406: 59.405
+Surface 407: 60.18
+Surface 408: 59.66
+Surface 409: 81.2431
+Surface 410: 49.5579
+Surface 411: 66.6244
+Surface 412: 66.9032
+Surface 413: 43.7178
+Surface 414: 59.019
+Surface 415: 59.0554
+Surface 416: 42.5101
+Surface 417: 57.3887
+Surface 418: 59.7251
+Surface 419: 46.0866
+Surface 420: 60.0685
+Surface 421: 62.2169
+Surface 422: 44.6033
+Surface 423: 57.2924
+Surface 424: 60.2145
+Surface 425: 41.0703
+Surface 426: 55.2904
+Surface 427: 56.4474
+Surface 428: 49.7217
+Surface 429: 67.1243
+Surface 430: 65.4436
+Surface 431: 45.4908
+Surface 432: 61.4125
+Surface 433: 58.9119
+Surface 434: 37.9286
+Surface 435: 51.3472
+Surface 436: 51.0972
+Surface 437: 37.8583
+Surface 438: 42.6037
+Surface 439: 51.1087
+Surface 440: 30.4585
+Surface 441: 45.7949
+Surface 442: 48.5931
+Surface 443: 25.5839
+Surface 444: 46.2477
+Surface 445: 43.3135
+Surface 446: 38.2145
+Surface 447: 43.2784
+Surface 448: 51.5896
+Surface 449: 37.5558
+Surface 450: 50.7003
+Surface 451: 49.0851
+Surface 452: 36.9823
+Surface 453: 51.1166
+Surface 454: 48.7177
+Surface 455: 32.4485
+Surface 456: 45.1765
+Surface 457: 48.0012
+Surface 458: 29.1993
+Surface 459: 46.4893
+Surface 460: 47.2805
+Surface 461: 31.3721
+Surface 462: 45.4601
+Surface 463: 38.6256
+Surface 464: 23.5327
+Surface 465: 31.8779
+Surface 466: 31.8779
+Surface 467: 25.1006
+Surface 468: 26.2779
+Surface 469: 25.8036
+Surface 470: 24.3424
+Surface 471: 26.2779
+Surface 472: 25.9131
+Surface 473: 24.7919
+Surface 474: 22.6605
+Surface 475: 25.5372
+Surface 476: 28.1899
+Surface 477: 24.8181
+Surface 478: 23.2052
+Surface 479: 23.415
+Surface 480: 22.3931
+Surface 481: 33.313
+Surface 482: 18.2907
+Surface 483: 30.6415
+Surface 484: 33.9505
+Surface 485: 37.6801
+Surface 486: 32.1747
+Surface 487: 36.4008
+Surface 488: 35.9372
+Surface 489: 28.6952
+Surface 490: 21.8149
+Surface 491: 17.3295
+Surface 492: 15.116
+Surface 493: 18.1175
+Surface 494: 16.6031
+Surface 495: 17.8262
+Surface 496: 18.8116
+Maximum nodal aspect ratio: 84.0034
+Meshing concluded.
+setUpwardAdjacencies = 1.56 sec
+interpolateExtrudedFaces = 0.03 sec
+interpolatePeriodicFaces = 0.00 sec
+addPeripheralFaces = 0.00 sec
+replicateMovingRegions = 0.00 sec
+splitFluidSolidInterfaces = 0.00 sec
+removeUnreferencedVertices = 0.02 sec
+Time to write model = 0.01 sec
+Time to write mesh = 0.61 sec
+Time to write GBI = 6.27 sec
+Time to free model entity memory = 0.00 sec
+Time to delete database = 0.52 sec

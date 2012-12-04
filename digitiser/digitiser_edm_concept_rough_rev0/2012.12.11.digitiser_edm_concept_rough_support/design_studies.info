@@ -1,0 +1,10 @@
+<cfd_design_studies version="13.0.20120223" user_name="Admin">
+ <design_study instance_id="id_not_defined" name="2012.12.11.digitiser_edm_concept_rough" folder="E:/Git/dbe-mechanical/digitiser/digitiser_edm_concept_rough_rev0/2012.12.11.digitiser_edm_concept_rough_support" study_id="6c127d74-a432-4b11-b2f1-fbf6e831e317">
+  <design launcher_type="CP_GRANITE" name="Design 1" model_id="digitiser_edm_concept_rough_rev.asm.1" lock_status="false">
+   <analysis name="Scenario 1"/>
+  </design>
+  <design launcher_type="CP_GRANITE" name="Design 2" model_id="digitiser_edm_concept_rough_rev.asm.1" lock_status="false">
+   <analysis name="Scenario 1"/>
+  </design>
+ </design_study>
+</cfd_design_studies>

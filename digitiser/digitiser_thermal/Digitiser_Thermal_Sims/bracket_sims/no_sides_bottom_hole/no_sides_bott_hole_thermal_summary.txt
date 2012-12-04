@@ -1,0 +1,205 @@
+CFdesign 2013 Analysis- Scenario 1
+Component Thermal Summary
+
+
+
+
+
+Load case: 400; Last Iteration/Step
+
+
+Part ID: 1    Name: D-ENGINE_SFP_PHY^!9
+   Minimum coordinates of bounding box: (-54.400002, -77.000000, 176.000000)
+   Volume = 404.600433 mm3
+   Minimum Temperature = 57.561378 Celsius at (-53.000000, -77.000000, 176.000000)
+   Maximum Temperature = 58.007233 Celsius at (-53.000000, -60.000000, 193.000000)
+   Volume Averaged Temperature = 57.860882 Celsius
+
+Part ID: 2    Name: D-ENGINE_SFP_PHY_2^!10
+   Minimum coordinates of bounding box: (-54.400002, -77.000000, 203.000000)
+   Volume = 404.600433 mm3
+   Minimum Temperature = 57.800671 Celsius at (-53.000000, -77.000000, 220.000000)
+   Maximum Temperature = 58.186577 Celsius at (-53.000000, -60.000000, 203.000000)
+   Volume Averaged Temperature = 57.998474 Celsius
+
+Part ID: 3    Name: D-ENGINE_MODEL_PCB^!6
+   Minimum coordinates of bounding box: (-53.000000, -136.000000, 30.000000)
+   Volume = 153000.000000 mm3
+   Minimum Temperature = 54.156998 Celsius at (-53.000000, -136.000000, 30.000000)
+   Maximum Temperature = 62.776997 Celsius at (-53.000000, -22.147017, 197.336029)
+   Volume Averaged Temperature = 55.777195 Celsius
+
+Part ID: 4    Name: D-ENGINE_MODEL_FPGA^!7
+   Minimum coordinates of bounding box: (-58.000000, -31.000000, 180.000000)
+   Volume = 8000.000000 mm3
+   Minimum Temperature = 61.983128 Celsius at (-53.000000, -31.000000, 220.000000)
+   Maximum Temperature = 62.776997 Celsius at (-53.000000, -22.147017, 197.336029)
+   Volume Averaged Temperature = 62.513142 Celsius
+
+Part ID: 5    Name: D-ENGINE_MODEL_SFP_CAGE^!8
+   Minimum coordinates of bounding box: (-62.750000, -136.000000, 173.500000)
+   Volume = 23546.250000 mm3
+   Minimum Temperature = 55.307171 Celsius at (-53.000000, -136.000000, 173.500000)
+   Maximum Temperature = 56.529720 Celsius at (-53.000000, -94.000000, 212.314224)
+   Volume Averaged Temperature = 56.019676 Celsius
+
+Part ID: 6    Name: ADC_PCB^!13
+   Minimum coordinates of bounding box: (60.000000, -14.000000, 173.000000)
+   Volume = 27305.000000 mm3
+   Minimum Temperature = 54.981136 Celsius at (60.000000, -14.000000, 173.000000)
+   Maximum Temperature = 58.509769 Celsius at (62.500000, 34.906284, 278.221771)
+   Volume Averaged Temperature = 55.868916 Celsius
+
+Part ID: 7    Name: R0_ADC_CONNECTOR^!14
+   Minimum coordinates of bounding box: (62.500000, -11.000000, 173.000000)
+   Volume = 12000.000000 mm3
+   Minimum Temperature = 55.179054 Celsius at (72.500000, -11.000000, 173.000000)
+   Maximum Temperature = 55.564850 Celsius at (62.500000, 69.000000, 188.000000)
+   Volume Averaged Temperature = 55.399529 Celsius
+
+Part ID: 8    Name: ADC_CHIP^!15
+   Minimum coordinates of bounding box: (62.500000, 21.000000, 265.500000)
+   Volume = 1936.000000 mm3
+   Minimum Temperature = 58.155544 Celsius at (62.500000, 43.000000, 265.500000)
+   Maximum Temperature = 58.509769 Celsius at (62.500000, 34.906284, 278.221771)
+   Volume Averaged Temperature = 58.381203 Celsius
+
+Part ID: 9    Name: DMUX^!16
+   Minimum coordinates of bounding box: (62.500000, 27.000000, 234.000000)
+   Volume = 1950.750000 mm3
+   Minimum Temperature = 56.805576 Celsius at (62.500000, 27.000000, 234.000000)
+   Maximum Temperature = 57.226284 Celsius at (62.500000, 27.000000, 259.500000)
+   Volume Averaged Temperature = 56.999939 Celsius
+
+Part ID: 10    Name: ADC_PCB^!17
+   Minimum coordinates of bounding box: (60.000000, -121.000000, 173.000000)
+   Volume = 27305.000000 mm3
+   Minimum Temperature = 54.805920 Celsius at (60.000000, -121.000000, 300.000000)
+   Maximum Temperature = 58.245972 Celsius at (62.500000, -73.710144, 275.679504)
+   Volume Averaged Temperature = 55.659023 Celsius
+
+Part ID: 11    Name: R0_ADC_CONNECTOR^!18
+   Minimum coordinates of bounding box: (62.500000, -118.000000, 173.000000)
+   Volume = 12000.000000 mm3
+   Minimum Temperature = 55.102119 Celsius at (72.500000, -118.000000, 173.000000)
+   Maximum Temperature = 55.410286 Celsius at (62.500000, -48.119431, 188.000000)
+   Volume Averaged Temperature = 55.267200 Celsius
+
+Part ID: 12    Name: ADC_CHIP^!19
+   Minimum coordinates of bounding box: (62.500000, -86.000000, 265.500000)
+   Volume = 1936.000000 mm3
+   Minimum Temperature = 57.851044 Celsius at (62.500000, -86.000000, 265.500000)
+   Maximum Temperature = 58.245972 Celsius at (62.500000, -73.710144, 275.679504)
+   Volume Averaged Temperature = 58.113415 Celsius
+
+Part ID: 13    Name: DMUX^!20
+   Minimum coordinates of bounding box: (62.500000, -80.000000, 234.000000)
+   Volume = 1950.750000 mm3
+   Minimum Temperature = 56.651855 Celsius at (62.500000, -54.500000, 234.000000)
+   Maximum Temperature = 57.146877 Celsius at (62.500000, -80.000000, 259.500000)
+   Volume Averaged Temperature = 56.830070 Celsius
+
+Part ID: 14    Name: DIGITISER_EDM_CHASSIS_ROUGH^!2
+   Minimum coordinates of bounding box: (-100.000000, -146.000000, -50.000000)
+   Volume = 5251660.500000 mm3
+   Minimum Temperature = 52.698895 Celsius at (100.000000, -146.000000, -50.000000)
+   Maximum Temperature = 56.249748 Celsius at (-100.000000, 90.067703, 199.332352)
+   Volume Averaged Temperature = 54.786377 Celsius
+
+Part ID: 15    Name: DIGITISER_D-ENGINE_HSINK^!3
+   Minimum coordinates of bounding box: (-150.000000, -146.000000, -50.000000)
+   Volume = 2904227.500000 mm3
+   Minimum Temperature = 52.757271 Celsius at (-110.000000, -146.000000, -50.000000)
+   Maximum Temperature = 62.501678 Celsius at (-58.000000, -15.595866, 200.421753)
+   Volume Averaged Temperature = 55.632210 Celsius
+
+Part ID: 16    Name: DIGITISER_ADC_HSINK^!4
+   Minimum coordinates of bounding box: (65.500000, -146.000000, -50.000000)
+   Volume = 2798007.000000 mm3
+   Minimum Temperature = 52.611950 Celsius at (110.000000, -146.000000, -50.000000)
+   Maximum Temperature = 58.371147 Celsius at (66.500000, 31.404184, 282.639130)
+   Volume Averaged Temperature = 54.837440 Celsius
+
+Part ID: 17    Name: DIGITISER_EDM_CHASSIS_LID^!5
+   Minimum coordinates of bounding box: (-100.000000, -146.000000, 340.000000)
+   Volume = 564483.500000 mm3
+   Minimum Temperature = 53.979366 Celsius at (100.000000, -146.000000, 350.000000)
+   Maximum Temperature = 55.475563 Celsius at (-100.000000, 114.953865, 340.000000)
+   Volume Averaged Temperature = 55.123959 Celsius
+
+Part ID: 18    Name: RFCU_REP^!11
+   Minimum coordinates of bounding box: (-40.000000, -136.000000, -40.000000)
+   Volume = 1125000.000000 mm3
+   Minimum Temperature = 53.550049 Celsius at (-40.000000, -136.000000, -40.000000)
+   Maximum Temperature = 55.300808 Celsius at (-40.000000, 14.000000, 243.593750)
+   Volume Averaged Temperature = 54.755127 Celsius
+
+Part ID: 19    Name: RFCU_REP^!12
+   Minimum coordinates of bounding box: (-5.000000, -136.000000, -40.000000)
+   Volume = 1125000.000000 mm3
+   Minimum Temperature = 53.541157 Celsius at (20.000000, -136.000000, -40.000000)
+   Maximum Temperature = 55.234375 Celsius at (-5.000000, 14.000000, 260.000000)
+   Volume Averaged Temperature = 54.726101 Celsius
+
+Part ID: 20    Name: DIGITISER_EDM_CHASSIS_ROUGH_PLA^!21
+   Minimum coordinates of bounding box: (-110.000000, -156.000000, -75.000000)
+   Volume = 990000.000000 mm3
+   Minimum Temperature = 51.286003 Celsius at (110.000000, -156.000000, -75.000000)
+   Maximum Temperature = 55.690140 Celsius at (-110.000000, -146.000000, 207.500000)
+   Volume Averaged Temperature = 54.390842 Celsius
+
+Part ID: 21    Name: DIGITISER_BRACKET^!1
+   Minimum coordinates of bounding box: (-350.000000, -166.000000, -500.000000)
+   Volume = 10862751.000000 mm3
+   Minimum Temperature = 43.943981 Celsius at (230.000000, 143.209091, 340.000000)
+   Maximum Temperature = 55.598038 Celsius at (-110.000000, -156.000000, 198.825577)
+   Volume Averaged Temperature = 47.327301 Celsius
+
+Part ID: 22    Name: Volume
+   Minimum coordinates of bounding box: (-100.000000, -136.000000, -40.000000)
+   Volume = 3557195.000000 mm3
+   Minimum Temperature = 53.235676 Celsius at (-88.749275, -136.000000, -40.000000)
+   Maximum Temperature = 62.698982 Celsius at (-53.000000, 9.000000, 200.000000)
+   Volume Averaged Temperature = 55.705639 Celsius
+
+Part ID: 23    Name: Volume
+   Minimum coordinates of bounding box: (60.000000, -136.000000, -40.000000)
+   Volume = 2977174.000000 mm3
+   Minimum Temperature = 53.090858 Celsius at (100.000000, -136.000000, -40.000000)
+   Maximum Temperature = 58.464424 Celsius at (62.500000, 28.244253, 287.500000)
+   Volume Averaged Temperature = 54.965244 Celsius
+
+Part ID: 24    Name: Volume
+   Minimum coordinates of bounding box: (-5.000000, -136.000000, 260.000000)
+   Volume = 300000.000000 mm3
+   Minimum Temperature = 54.539581 Celsius at (20.000000, -136.000000, 340.000000)
+   Maximum Temperature = 55.234619 Celsius at (-5.000000, 14.000000, 273.987579)
+   Volume Averaged Temperature = 55.024448 Celsius
+
+Part ID: 25    Name: Volume
+   Minimum coordinates of bounding box: (-40.000000, -136.000000, 260.000000)
+   Volume = 300000.000000 mm3
+   Minimum Temperature = 54.555214 Celsius at (-28.089245, -136.000000, 340.000000)
+   Maximum Temperature = 55.292027 Celsius at (-40.000000, 14.000000, 274.538818)
+   Volume Averaged Temperature = 55.061295 Celsius
+
+Part ID: 26    Name: Volume
+   Minimum coordinates of bounding box: (-40.000000, 24.000000, -40.000000)
+   Volume = 1829500.000000 mm3
+   Minimum Temperature = 54.178940 Celsius at (50.000000, 29.067995, -40.000000)
+   Maximum Temperature = 55.503212 Celsius at (-40.000000, 101.150932, 242.817368)
+   Volume Averaged Temperature = 55.141285 Celsius
+
+Part ID: 27    Name: Volume
+   Minimum coordinates of bounding box: (30.000000, -136.000000, -40.000000)
+   Volume = 1140000.000000 mm3
+   Minimum Temperature = 53.335278 Celsius at (50.000000, -136.000000, -40.000000)
+   Maximum Temperature = 55.292728 Celsius at (50.000000, 14.000000, 288.764954)
+   Volume Averaged Temperature = 54.727451 Celsius
+
+Part ID: 28    Name: CFDCreatedVolume
+   Minimum coordinates of bounding box: (-385.000000, -182.582962, -550.000000)
+   Volume = 273010208.000000 mm3
+   Minimum Temperature = 40.000000 Celsius at (-201.133057, -182.582962, 313.736450)
+   Maximum Temperature = 62.529339 Celsius at (98.426979, -158.555313, 550.000000)
+   Volume Averaged Temperature = 41.610085 Celsius

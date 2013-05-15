@@ -1,0 +1,2 @@
+﻿
+Missing Message (after key string): on line 38 in file cfd_2013_desktop.txt
